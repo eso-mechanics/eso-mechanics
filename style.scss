@@ -234,7 +234,7 @@ nav {
 }
 nav.sub {
   //display: none;
-  max-width: 180px;
+  max-width: 200px;
   position: absolute;
   z-index: 99;
   background: #000;
@@ -243,6 +243,7 @@ nav.sub {
   padding-bottom: 5px;
 
   @include mobile {
+    max-width: 180px;
     right: 50%;
     top: 20%;
   }
