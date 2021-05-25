@@ -272,11 +272,13 @@ nav {
   padding: 0 4px;
 }
 
-/* Create four equal columns that sits next to each other */
+/* Create columns that sit next to each other */
+.column {
+  padding: 0 4px;
+}
 .column.half {
   flex: 50%;
   max-width: 50%;
-  padding: 0 4px;
 }
 
 .column.third {
