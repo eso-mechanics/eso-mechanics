@@ -207,7 +207,7 @@ img {
 
 nav {
   width: 100%;
-  //float: right;
+  float: right;
   margin: 0 auto;
   font-family: $helveticaNeue;
   font-size: 18px;
@@ -220,20 +220,13 @@ nav {
   }
 
   a {
-    //margin-left: 20px;
     color: $gray;
-    //text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
     display: block;
     padding: 0 16px;
     line-height: inherit;
     cursor: pointer;
-
-    @include mobile {
-      margin: 0 10px;
-      color: $blue;
-    }
   }
 
   ul {
@@ -245,15 +238,10 @@ nav {
 }
 .nav__menu {
   line-height: 45px;
-  font-weight: 700;
-  text-transform: uppercase;
 }
 .nav__menu-item {
   display: inline-block;
   position: relative;
-}
-.nav__menu-item:hover {
-  background-color: #9b59b6;
 }
 .nav__menu-item:hover .nav__submenu {
   display: block;
@@ -264,7 +252,7 @@ nav {
   display: none;
   position: absolute;
   width: 220px;
-  background-color: #9b59b6;
+  background-color: #000;
 }
 .nav__submenu-item:hover {
   background: rgba(0, 0, 0, 0.1);
