@@ -26,30 +26,29 @@
             <p class="site-description">{{ site.description }}</p>
           </div>
 
-          <nav class="main">
-            <a href="{{ site.baseurl }}/about">About</a>
-            <a class="trial-menu" href="{{ site.baseurl }}/trials">Trials</a>
-            <nav class="sub trial-menu">
-              <a href="{{ site.baseurl }}/trials/hel-ra-citadel">Hel Ra Citadel</a>
-              <a href="{{ site.baseurl }}/trials/sanctum-ophidia">Sanctum Ophidia</a>
-              <a href="{{ site.baseurl }}/trials/aetherian-archive">Aetherian Archive</a>
-              <a href="{{ site.baseurl }}/trials/halls-of-fabrication">Halls of Fabrication</a>
-              <a href="{{ site.baseurl }}/trials/maw-of-lorkhaj">Maw of Lorkhaj</a>
-              <a href="{{ site.baseurl }}/trials/asylum-sanctorum">Asylum Sanctorum</a>
-              <a href="{{ site.baseurl }}/trials/cloudrest">Cloudrest</a>
-              <a href="{{ site.baseurl }}/trials/sunspire">Sunspire</a>
-            </nav>
-            <a class="dungeon-menu" href="{{ site.baseurl }}/dungeons">Dungeons</a>
-            <!-- <nav class="sub dungeon-menu">
-              <a href="{{ site.baseurl }}/trials/hel-ra-citadel">Hel Ra Citadel</a>
-              <a href="{{ site.baseurl }}/trials/sanctum-ophidia">Sanctum Ophidia</a>
-              <a href="{{ site.baseurl }}/trials/aetherian-archive">Aetherian Archive</a>
-              <a href="{{ site.baseurl }}/trials/halls-of-fabrication">Halls of Fabrication</a>
-              <a href="{{ site.baseurl }}/trials/maw-of-lorkhaj">Maw of Lorkhaj</a>
-              <a href="{{ site.baseurl }}/trials/asylum-sanctorum">Asylum Sanctorum</a>
-              <a href="{{ site.baseurl }}/trials/cloudrest">Cloudrest</a>
-              <a href="{{ site.baseurl }}/trials/sunspire">Sunspire</a>
-            </nav> -->
+          <nav class="nav">
+            <ul class="nav__menu">
+              <li class="nav__menu-item"><a href="{{ site.baseurl }}/about">About</a></li>
+              <li class="nav__menu-item"><a href="{{ site.baseurl }}/trials">Trials</a>
+                <ul class="nav__submenu">
+                  <li class="nav__submenu-item"><a href="{{ site.baseurl }}/trials/hel-ra-citadel">Hel Ra Citadel</a></li>
+                  <li class="nav__submenu-item"><a href="{{ site.baseurl }}/trials/sanctum-ophidia">Sanctum Ophidia</a></li>
+                  <li class="nav__submenu-item"><a href="{{ site.baseurl }}/trials/aetherian-archive">Aetherian Archive</a></li>
+                  <li class="nav__submenu-item"><a href="{{ site.baseurl }}/trials/halls-of-fabrication">Halls of Fabrication</a></li>
+                  <li class="nav__submenu-item"><a href="{{ site.baseurl }}/trials/maw-of-lorkhaj">Maw of Lorkhaj</a></li>
+                  <li class="nav__submenu-item"><a href="{{ site.baseurl }}/trials/asylum-sanctorum">Asylum Sanctorum</a></li>
+                  <li class="nav__submenu-item"><a href="{{ site.baseurl }}/trials/cloudrest">Cloudrest</a></li>
+                  <li class="nav__submenu-item"><a href="{{ site.baseurl }}/trials/sunspire">Sunspire</a></li>
+                </ul>
+              </li>
+              <li class="nav__menu-item"><a href="{{ site.baseurl }}/dungeons">Dungeons</a>
+                <ul class="nav__submenu">
+                  <li class="nav__submenu-item"><a>Dungeon 1</a></li>
+                  <li class="nav__submenu-item"><a>Dungeon 2</a></li>
+                  <li class="nav__submenu-item"><a>Dungeon 3</a></li>
+                </ul>
+              </li>
+            </ul>
           </nav>
         </header>
       </div>
