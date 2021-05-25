@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I setup this site primarily as a personal resource to refer back to or a place to send newer players who are struggling with specific content.
+I'm by no means a hardcore player and have yet to complete all content in the game (currently missing vCR+3 and vSS Nahviintaas HM) but approach the game in a slightly different way to many; or at least it seems that way in my little bubble.
 
-### More Information
+I play on PC EU but only use QoL add-ons (no combat alerts etc.) and like to avoid any information about content before I've fully explored it myself (this is incredibly difficult in trials unfortunately).  I enjoy learning the content by going in blind and only seek advice when I am extremely desperate (many, many attempts with no progress).  Players that join my runs are also not asked to bring specific gear sets (advice is given to help optimise the group when desired) or meet harsh requirements (a bare minimum may be set in some instances but typically there are practically none).  This creates a rather different experience to that of a higher-end, more optimised group which I personally find more enjoyable (albeit more punishing) and reveals mechanics that may be skipped or ignored due to higher DPS at times.
 
-A place to include any other types of information that you'd like to include about yourself.
+I'll try to keep the site updated when changes are made to the game but bear with me if there is a delay!
 
-### Contact me
+### Requests/Suggestions?
 
-[email@domain.com](mailto:email@domain.com)
+[eso-mechanics@gmail.com](mailto:eso-mechanics@gmail.com)
