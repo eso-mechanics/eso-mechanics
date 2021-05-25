@@ -24,15 +24,15 @@ permalink: /trials/
     </a>
   </div>
   <div class="column third soon">
-    <a href="{{ site.baseurl }}/trials/maw-of-lorkhaj">
-      <h3>Maw of Lorkhaj</h3>
-      <img src="{{ site.baseurl }}/images/trials/MoL.png" alt="Maw of Lorkhaj" />
-    </a>
-  </div>
-  <div class="column third soon">
     <a href="{{ site.baseurl }}/trials/halls-of-fabrication">
       <h3>Halls of Fabrication</h3>
       <img src="{{ site.baseurl }}/images/trials/HoF.png" alt="Halls of Fabrication" />
+    </a>
+  </div>
+  <div class="column third soon">
+    <a href="{{ site.baseurl }}/trials/maw-of-lorkhaj">
+      <h3>Maw of Lorkhaj</h3>
+      <img src="{{ site.baseurl }}/images/trials/MoL.png" alt="Maw of Lorkhaj" />
     </a>
   </div>
   <div class="column third soon">
