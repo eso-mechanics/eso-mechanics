@@ -2,17 +2,13 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
+<div class="row">
+  <div class="column">
+    <h2>Trials</h2>
+    <img width="348px" height="348px" src="{{ site.baseurl }}/images/trials/CR.png" alt="Trials" />
+  </div>
+  <div class="column">
+    <h2>Dungeons</h2>
+    <img width="348px" height="348px" src="{{ site.baseurl }}/images/dungeons/SG.png" alt="Dungeons" />
+  </div>
 </div>
