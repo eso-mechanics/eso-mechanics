@@ -233,6 +233,12 @@ nav {
 }
 nav.sub {
   max-width: 200px;
+  position: absolute;
+  z-index: 99;
+  background: #000;
+  right: 0;
+  top: 75%;
+  padding-bottom: 5px;
 }
 
 //
