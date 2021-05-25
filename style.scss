@@ -286,8 +286,8 @@ nav {
   max-width: 33.333%;
 }
 
-.column.soon {
-  background-image: url( 'https://raw.githubusercontent.com/eso-mechanics/eso-mechanics.github.io/master/images/soon.png' );
+.column.soon::after {
+  content: "Coming Soon";
 }
 
 .column h2,
