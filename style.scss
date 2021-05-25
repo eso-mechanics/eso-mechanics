@@ -286,8 +286,10 @@ nav {
   max-width: 33.333%;
 }
 
-.column h2 {
+.column h2,
+.column h3 {
   text-align: center;
+  margin-top: 0;
 }
 
 .column img {
