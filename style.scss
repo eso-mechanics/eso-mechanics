@@ -273,10 +273,15 @@ nav {
 }
 
 /* Create four equal columns that sits next to each other */
-.column {
+.column.half {
   flex: 50%;
   max-width: 50%;
   padding: 0 4px;
+}
+
+.column.third {
+  flex: 33.333%;
+  max-width: 33.333%;
 }
 
 .column h2 {
