@@ -6,7 +6,7 @@ permalink: /about/
 
 This site has been built primarily as a personal resource to refer back to or a place to send newer players who are struggling with specific content.  The goal is to outline the core mechanics of each fight and include a "spoiler" section with advice on how to deal with them.  This is marked as a "spoiler" because part of the fun is working out how to deal with mechanics, don't be afraid to try things out!  Most guides aim to advise purely on what you should be doing and not what the enemy is doing (and letting you think about how to deal with it yourself).
 
-### Me
+### About Me
 
 I'm by no means a hardcore player and have yet to complete all content in the game (currently missing vCR+3 and vSS Nahviintaas HM) but approach the game in a slightly different way to many; or at least it seems that way in my little bubble.
 
