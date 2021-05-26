@@ -11,7 +11,7 @@ permalink: /trials/hel-ra-citadel/
 		</div>
 		<input type="radio" name="timeline-dot" data-description="boss-1">
 		<div class="dot-info" data-description="boss-1">
-			<span class="label">Boss 1 - Ra Kotu</span>
+			<span class="label">Boss 1</span>
 		</div>
 		<input type="radio" name="timeline-dot" data-description="left">
 		<div class="dot-info" data-description="left">
@@ -19,7 +19,7 @@ permalink: /trials/hel-ra-citadel/
 		</div>
 		<input type="radio" name="timeline-dot" data-description="boss-2-1">
 		<div class="dot-info" data-description="boss-2-1">
-			<span class="label">Boss 2 (left) - Yokeda Rok'dun</span>
+			<span class="label">Boss 2 (left)</span>
 		</div>
 		<input type="radio" name="timeline-dot" data-description="right">
 		<div class="dot-info" data-description="right">
@@ -27,7 +27,7 @@ permalink: /trials/hel-ra-citadel/
 		</div>
 		<input type="radio" name="timeline-dot" data-description="boss-2-2">
 		<div class="dot-info" data-description="boss-2-2">
-			<span class="label">Boss 2 (right) - Yokeda Kai</span>
+			<span class="label">Boss 2 (right)</span>
 		</div>
 		<input type="radio" name="timeline-dot" data-description="horn">
 		<div class="dot-info" data-description="horn">
@@ -35,7 +35,7 @@ permalink: /trials/hel-ra-citadel/
 		</div>
 		<input type="radio" name="timeline-dot" data-description="boss-3">
 		<div class="dot-info" data-description="boss-3">
-			<span class="label">Final Boss - The Warrior</span>
+			<span class="label">Final Boss</span>
 		</div>
     <h2>Hel Ra Citadel</h2>
 		<div id="timeline-descriptions-wrapper">
