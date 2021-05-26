@@ -3,7 +3,7 @@ layout: page
 title: Hel Ra Citadel
 permalink: /trials/hel-ra-citadel/
 ---
-{% raw %}
+{::nomarkdown}
 <div class="flex-parent">
 	<div class="input-flex-container">
 		<input type="radio" name="timeline-dot" data-description="notable-enemies" checked>
@@ -83,4 +83,4 @@ permalink: /trials/hel-ra-citadel/
     </div>
   </div>
 </div>
-{% endraw %}
+{:/}
