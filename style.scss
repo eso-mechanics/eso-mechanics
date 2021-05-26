@@ -388,7 +388,7 @@ nav {
 	position: relative;
 	z-index: 0;
 	margin-left: calc((#{$parentWidth} - #{$dotWidth}) / #{$numDots}); //make up for offset of .dot-info
-  margin-top:95px;
+  margin-top: 95px;
 }
 input {
 	width: $dotWidth;
