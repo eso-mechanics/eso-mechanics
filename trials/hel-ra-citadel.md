@@ -48,9 +48,9 @@ permalink: /trials/hel-ra-citadel/
       </span>
       <span data-description="boss-1">
         <h2>Boss 1 - Ra Kotu</h2>
-        A huge air atronach that initially spawns in with 3 additional enemies and is typically pulled immediately; don't expect to be able to stop to change skills etc!
-        His notable attacks are as follows:
         <img src="{{ site.baseurl }}/images/trials/hrc/ra-kotu.jpg" alt="Boss 1 - Ra Kotu" />
+        A huge air atronach that initially spawns in with 3 additional enemies and is typically pulled immediately; don't expect to be able to stop to change skills etc!
+        His notable attacks are as follows:  
         <ul>
           <li><b>Gusts of wind</b> - Small red AoEs that target a single group member (but can quickly change targets) and will move around the group (following whichever group member they are targeting at the time) continuously though the fight.  A single group member can get targeted by multiple gusts at a time and these will do small amounts of damage to anyone standing in the circle.</li>
           <li><b>Heavy Attack</b> - Indicated by the usual "yellow sparks" the boss wraps his arms around his body and unleashes a powerful attack on whoever has aggro.</li>
