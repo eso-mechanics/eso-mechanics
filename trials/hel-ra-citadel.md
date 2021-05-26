@@ -76,7 +76,7 @@ permalink: /trials/hel-ra-citadel/
       </span>
       <span data-description="right">
         <h2>Right Route</h2>
-        No new enemies for you to face on this side while you make your way up and along the outer walls.  After each pack of enemies you will have access to a lever which will open a gate allowing the other group to proceed further.
+        No new enemies for you to face on this side while you make your way up and along the outer walls.  After each pack of enemies you will have access to a lever which will open a gate allowing the other group to proceed further.  Destroying the catapults as you go prevents additional damage being rained down on your team-mates.
       </span>
       <span data-description="boss-2-2">
         <h2>Boss 2 - Yokeda Kai</h2>
