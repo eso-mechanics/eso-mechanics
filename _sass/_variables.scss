@@ -26,8 +26,8 @@ $parentWidthBase: 0.8;
 $parentWidth: $parentWidthBase * 100vw;
 $parentMaxWidth: 1000px;
 $dotWidth: 25px;
-$active: #2C3E50;
-$inactive: #AEB6BF;
+$active: #AEB6BF;
+$inactive: #2C3E50;
 
 // Mobile breakpoints
 @mixin eighthundred {
