@@ -465,14 +465,14 @@ input {
 			transform: translateX(-50%);
     }
 		&.label {
-      top: -25px;
+      top: -40px;
       left: 2px;
-			width: 110px;
+			width: 100px;
       text-align: center;
     }
   }
   &.below .label {
-    top: 35px;
+    top: 40px;
   }
 }
 #timeline-descriptions-wrapper {
