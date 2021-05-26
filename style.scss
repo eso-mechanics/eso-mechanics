@@ -39,7 +39,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 1em 0 15px;
   padding: 0;
 
-  @include mobile {
+  @include sixforty {
     line-height: 1.4;
   }
 }
@@ -153,7 +153,7 @@ img {
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
 
-  @include mobile {
+  @include sixforty {
     text-align: center;
   }
 }
@@ -164,7 +164,7 @@ img {
   height: 70px;
   margin-right: 15px;
 
-  @include mobile {
+  @include sixforty {
     float: none;
     display: block;
     margin: 0 auto;
@@ -178,7 +178,7 @@ img {
 .site-info {
   float: left;
 
-  @include mobile {
+  @include sixforty {
     float: none;
     display: block;
     margin: 0 auto;
@@ -200,7 +200,7 @@ img {
   color: $gray;
   font-size: 16px;
 
-  @include mobile {
+  @include sixforty {
     margin: 3px 0;
   }
 }
@@ -210,7 +210,7 @@ nav {
   margin: 0 auto;
   font-family: $helveticaNeue;
   font-size: 18px;
-  @include mobile {
+  @include sixforty {
     float: none;
     margin-top: 9px;
     display: block;
@@ -333,7 +333,7 @@ nav {
   &.half {
     flex: 50%;
     max-width: 50%;
-    @include 600 {
+    @include sixhundred {
       flex: 100%;
       max-width: 100%;
     }
@@ -341,11 +341,11 @@ nav {
   &.third {
     flex: 33.333%;
     max-width: 33.333%;
-    @include 800 {
+    @include eighthundred {
       flex: 50%;
       max-width: 50%;
     }
-    @include 600 {
+    @include sixhundred {
       flex: 100%;
       max-width: 100%;
     }
