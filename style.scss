@@ -324,17 +324,16 @@ nav {
     margin-top: 8px;
     vertical-align: middle;
     width: 100%;
-    -webkit-transition: all 0.50s;
-    transition: all 0.50s;
+    -webkit-transition: all 0.80s;
+    transition: all 0.80s;
     &:hover {
-        border: 1px solid gray;
         filter: brightness(130%);
         -webkit-filter: brightness(130%);
         -moz-filter: brightness(130%);
         -o-filter: brightness(130%);
         -ms-filter: brightness(130%);
-        -webkit-transition: all 0.50s;
-        transition: all 0.50s;
+        -webkit-transition: all 0.80s;
+        transition: all 0.80s;
     }
   }
   &.soon::after {
