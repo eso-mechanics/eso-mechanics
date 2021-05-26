@@ -36,7 +36,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
 
   line-height: 1.7;
-  margin: 0 15px;
+  margin: 1em 0 15px;
   padding: 0;
 
   @include sixforty {
@@ -57,6 +57,7 @@ h2 {
 
 h3 {
   font-size: 20px;
+  margin: 0 15px;
 }
 
 h4 {
@@ -316,9 +317,6 @@ nav {
   h2,
   h3 {
     text-align: center;
-  }
-  h3 {
-    margin-top: 0;
   }
   img {
     margin-top: 8px;
