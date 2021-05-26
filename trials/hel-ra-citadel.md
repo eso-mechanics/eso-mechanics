@@ -37,7 +37,6 @@ permalink: /trials/hel-ra-citadel/
 		<div class="dot-info" data-description="boss-3">
 			<span class="label">Final Boss</span>
 		</div>
-    <h2>Hel Ra Citadel</h2>
 		<div id="timeline-descriptions-wrapper">
       <p data-description="notable-enemies">
         <h3>Notable enemies</h3>
