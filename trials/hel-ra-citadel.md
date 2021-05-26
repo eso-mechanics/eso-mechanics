@@ -3,9 +3,6 @@ layout: page
 title: Hel Ra Citadel
 permalink: /trials/hel-ra-citadel/
 ---
-
-<h2>Hel Ra Citadel</h2>
-
 <div class="flex-parent">
 	<div class="input-flex-container">
 		<input type="radio" name="timeline-dot" data-description="notable-enemies">
@@ -40,12 +37,15 @@ permalink: /trials/hel-ra-citadel/
 		<div class="dot-info" data-description="boss-3">
 			<span class="label">Final Boss - The Warrior</span>
 		</div>
+    <h2>Hel Ra Citadel</h2>
 		<div id="timeline-descriptions-wrapper">
       <p data-description="notable-enemies">
         <h3>Notable enemies</h3>
-        * **Destroyers** - Melee enemies with two-handed weapons that carry banners (an indicator they are "elite" enemies).  They do fair damage, which can cleave, and have a frontal cone attack which knocks group members down.
-        * **Flame-Shapers** - Ranged enemies also with a banner.  These will perform an interruptible channeled attack which shoots fireballs at multiple members of the group.
-        * **Gargoyles** - Melee enemies who hit pretty damn hard.  They have a large frontal cone attack (breath/shout) which will turn anyone caught in it to stone and an AoE continuous ground slam attack which will do a lot of damage to anyone inside the circle (melee range).
+        <ul>
+          <li><em>Destroyers</em> - Melee enemies with two-handed weapons that carry banners (an indicator they are "elite" enemies).  They do fair damage, which can cleave, and have a frontal cone attack which knocks group members down.</li>
+          <li><em>Flame-Shapers</em> - Ranged enemies also with a banner.  These will perform an interruptible channeled attack which shoots fireballs at multiple members of the group.</li>
+          <li><em>Gargoyles</em> - Melee enemies who hit pretty damn hard.  They have a large frontal cone attack (breath/shout) which will turn anyone caught in it to stone and an AoE continuous ground slam attack which will do a lot of damage to anyone inside the circle (melee range).</li>
+        </ul>
       </p>
       <p data-description="boss-1">
         <h3>Boss 1 - Ra Kotu</h3>

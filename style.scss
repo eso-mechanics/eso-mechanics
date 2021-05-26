@@ -496,9 +496,9 @@ $descriptions: '1910', '1920', '1930', '1940', '1950', '1960', '1970', '1980', '
 }
 
 @media (min-width: $parentMaxWidth / $parentWidthBase) {
-	.input-flex-container {
-		margin-left: #{($parentMaxWidth / $numDots) + ($dotWidth / 2)};
-  }
+	// .input-flex-container {
+	// 	margin-left: #{($parentMaxWidth / $numDots) + ($dotWidth / 2)};
+  // }
 	input {
 		&::before {
 			left: #{-($parentMaxWidth / $numDots) + ($dotWidth / 2)};
