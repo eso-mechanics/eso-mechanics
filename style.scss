@@ -23,6 +23,8 @@ body {
   font: 18px/1.4 $helvetica;
   color: #bbb;
   height: 100%;
+  display: flex;
+  flex-direction: column;
 }
 
 .container {
@@ -30,6 +32,7 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
+  flex: 1 0 auto;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -617,6 +620,7 @@ $hrc_descriptions: 'notable-enemies', 'boss-1', 'left', 'boss-2-1', 'right', 'bo
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $darkGray;
+  flex-shrink: 0;
 }
 
 footer {
