@@ -51,12 +51,12 @@ permalink: /trials/hel-ra-citadel/
         A huge air atronach that initially spawns in with 3 additional enemies and is typically pulled immediately; don't expect to be able to stop to change skills etc!
         His notable attacks are as follows:
         <ul>
-          <li><b>Gusts of wind</b> - small red AoEs that target a single (but quickly change targets) and will move around the group (following whichever group member they are targeting at the time) continuously though the fight.  A single group member can get targeted by multiple gusts at a time and these will do small amounts of damage to anyone standing in them.</li>
+          <li><b>Gusts of wind</b> - Small red AoEs that target a single (but quickly change targets) and will move around the group (following whichever group member they are targeting at the time) continuously though the fight.  A single group member can get targeted by multiple gusts at a time and these will do small amounts of damage to anyone standing in them.</li>
           <li><b>Heavy Attack</b> - Indicated by the usual "yellow sparks" the boss wraps his arms around his body and unleashes a powerful attack on whoever has aggro.</li>
           <li><b>Six Sword Assault</b> - The boss throws out four large AoEs in several directions (his "corners") that return the same way and deal damage to anyone in their path.</li>
           <li><b>Sword Swirl</b> - At 35% (and at regular intervals thereafter if the fight goes on for a while) the boss will form a large AoE around him and continuously spin his swords around dealing large amounts of damage to any group member caught inside.</li>
         </ul>
-        After defeating Ra Kotu the gate he came out of (somehow) will be accessible. When 6 group members go inside the gate will close and the other 6 are locked out.  To the right is another door that will now be open and the remaining group members can proceed through here.  Due to this split the following will be split into "Left" and "Right" groups.
+        After defeating Ra Kotu the gate he came out of (somehow) will be accessible. When 6 group members go inside the gate will close and the other 6 are locked out.  To the right is another door that will now be open and the remaining group members can proceed through here.
       </span>
       <span data-description="left">
         <h2>Left Route</h2>
