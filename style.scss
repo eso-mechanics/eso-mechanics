@@ -484,7 +484,7 @@ input {
 	width: 100%;
 	font-size: 22px;
 	font-weight: 400;
-	margin-left: 8%; //make up for offset of .dot-info
+	margin-left: -8%; //make up for offset of .dot-info
 	p {
 		margin-top: 0;
 		display: none;
@@ -518,7 +518,7 @@ $descriptions: '1910', '1920', '1930', '1940', '1950', '1960', '1970', '1980', '
 		left: calc((((#{$parentMaxWidth} - #{$dotWidth}) / #{$numDots}) * -1) - 1px);
   }
 	#timeline-descriptions-wrapper {
-		margin-left: 8%;
+		margin-left: -8%;
   }
 }
 
