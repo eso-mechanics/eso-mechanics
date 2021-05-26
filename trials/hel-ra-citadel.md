@@ -10,6 +10,21 @@ permalink: /trials/hel-ra-citadel/
   <a class="node" href="#mobs">
     <span>Notable Enemies</span>
   </a>
+  <a class="node boss" href="#boss-1">
+    <span>Boss 1 - Ra Kotu</span>
+  </a>
+  <a class="node inline-top" href="#left">
+    <span>Left Route</span>
+  </a>
+  <a class="node inline-bottom" href="#right">
+    <span>Right Route</span>
+  </a>
+  <a class="node inline-top" href="#boss-2-1">
+    <span>Boss 2 - Yokeda Rok'dun</span>
+  </a>
+  <a class="node inline-bottom" href="#boss-2-2">
+    <span>Boss 2 - Yokeda Kai</span>
+  </a>
 </div>
 
 <h3 id="mobs">Notable enemies</h3>
@@ -31,7 +46,7 @@ After defeating Ra Kotu the gate he came out of (somehow) will be accessible. Wh
 Your progress here is controlled by the other group as they will have access to levers which open the gates blocking your route.  You will meet mostly the same enemies here with one addition (see below) but many of them will keep respawning until the right side have finished their section and unlocked the gate for you to move on.
 * **Welwa** - A mild introduction to the enemies you'll see on the boss for this side.  They perform a rear kick attack which does moderate damage in a cone behind them.
 
-<h4 id="boss-2-1">Boss - Yokeda Rok'dun</h4>
+<h4 id="boss-2-1">Boss 2 - Yokeda Rok'dun</h4>
 An archer that specialises in ranged attacks and controls animal companions who aid him in battle.
 * **Release Flame** - A flame arrow will be shot towards a group member which hits the ground and splits into four flame trails, spreading out in different directions from the point of impact.
 * **Teleport** - The boss will "jump" away and reappear elsewhere in the arena, looking for the ranged advantage.
@@ -40,7 +55,7 @@ An archer that specialises in ranged attacks and controls animal companions who 
 <h3 id="right">Right</h3>
 No new enemies for you to face on this side while you make your way up and along the outer walls.  After each pack of enemies you will have access to a lever which will open a gate allowing the other group to proceed further.
 
-<h4 id="boss-2-2">Boss - Yokeda Kai</h4>
+<h4 id="boss-2-2">Boss 2 - Yokeda Kai</h4>
 A fire mage (a superior flame-shaper that you met previously) that specialises in all things flammable.
 * **Impulse** - An AoE ability that spreads out from beneath the bosses feet that does a lot of damage to anyone caught inside.
 * **Meteor** - A huge, flaming rock is dropped on a random group member dealing a lot of damage to anyone hit.  After impact, a burning AoE is left on the ground.
