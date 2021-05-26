@@ -492,9 +492,9 @@ input {
 }
 
 // magic shenanigans
-$descriptions: '1910', '1920', '1930', '1940', '1950', '1960', '1970', '1980', '1990', '2000';
+$hrc_descriptions: 'notable-enemies', 'boss-1', 'left', 'boss-2-1', 'right', 'boss-2-2', 'horn', 'boss-3';
 
-@each $desc in $descriptions {
+@each $desc in $hrc_descriptions {
 	input[data-description="#{$desc}"]:checked ~ #timeline-descriptions-wrapper {
 		span[data-description="#{$desc}"] {
 			display: block;

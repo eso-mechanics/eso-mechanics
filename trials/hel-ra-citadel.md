@@ -39,7 +39,7 @@ permalink: /trials/hel-ra-citadel/
 </div>
 <div id="timeline-descriptions-wrapper">
 <span data-description="notable-enemies">
-<h3>Notable Enemies</h3>
+<h2>Notable Enemies</h2>
 <ul>
 <li><em>Destroyers</em> - Melee enemies with two-handed weapons that carry banners (an indicator they are "elite" enemies).  They do fair damage, which can cleave, and have a frontal cone attack which knocks group members down.</li>
 <li><em>Flame-Shapers</em> - Ranged enemies also with a banner.  These will perform an interruptible channeled attack which shoots fireballs at multiple members of the group.</li>
