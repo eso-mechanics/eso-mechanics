@@ -206,19 +206,15 @@ img {
 }
 
 nav {
-  width: 100%;
   float: right;
   margin: 0 auto;
   font-family: $helveticaNeue;
   font-size: 18px;
-
   @include mobile {
     float: none;
     margin-top: 9px;
     display: block;
-    font-size: 16px;
   }
-
   a {
     color: $gray;
     font-weight: 300;
@@ -228,7 +224,6 @@ nav {
     line-height: inherit;
     cursor: pointer;
   }
-
   ul {
     list-style: none;
     padding-left: 0;
@@ -236,26 +231,34 @@ nav {
     margin-bottom: 0;
   }
 }
-.nav__menu {
-  line-height: 45px;
-}
-.nav__menu-item {
-  display: inline-block;
-  position: relative;
-}
-.nav__menu-item:hover .nav__submenu {
-  display: block;
-}
-.nav__submenu {
-  font-weight: 300;
-  text-transform: none;
-  display: none;
-  position: absolute;
-  width: 220px;
-  background-color: #000;
-}
-.nav__submenu-item:hover {
-  background: rgba(0, 0, 0, 0.1);
+.nav {
+  &__menu {
+    line-height: 45px;
+    &-item {
+      display: inline-block;
+      position: relative;
+      &:hover {
+         background-color: $cor-1;
+         .nav__submenu {
+           display: block;
+         }
+       }
+    }
+  }
+  &__submenu {
+    font-weight: 300;
+    text-transform: none;
+    display: none;
+    position: absolute;
+    width: 220px;
+    background-color: #000;
+    &-item {
+      text-align: left;
+      &:hover {
+        background: rgba( #000, 0.1 );
+      }
+    }
+  }
 }
 
 //
