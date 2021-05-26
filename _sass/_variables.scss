@@ -21,13 +21,13 @@ $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
 
 //Timeline
-$numDots: 20
-$parentWidthBase: 0.8
-$parentWidth: $parentWidthBase * 100vw
-$parentMaxWidth: 1000px
-$dotWidth: 25px
-$active: #2C3E50
-$inactive: #AEB6BF
+$numDots: 20;
+$parentWidthBase: 0.8;
+$parentWidth: $parentWidthBase * 100vw;
+$parentMaxWidth: 1000px;
+$dotWidth: 25px;
+$active: #2C3E50;
+$inactive: #AEB6BF;
 
 // Mobile breakpoints
 @mixin eighthundred {
