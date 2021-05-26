@@ -4,7 +4,7 @@ title: Hel Ra Citadel
 permalink: /trials/hel-ra-citadel/
 ---
 
-##Hel Ra Citadel
+<h2>Hel Ra Citadel</h2>
 
 <div class="timeline">
   <a class="node" href="#mobs">
@@ -42,7 +42,7 @@ His notable attacks are as follows:
 
 After defeating Ra Kotu the gate he came out of (somehow) will be accessible. When 6 group members go inside the gate will close and the other 6 are locked out.  To the right is another door that will now be open and the remaining group members can proceed through here.  Due to this split the following will be split into "Left" and "Right" groups.
 
-<h3 id="left">Left</h3>
+<h3 id="left">Left Route</h3>
 Your progress here is controlled by the other group as they will have access to levers which open the gates blocking your route.  You will meet mostly the same enemies here with one addition (see below) but many of them will keep respawning until the right side have finished their section and unlocked the gate for you to move on.
 * **Welwa** - A mild introduction to the enemies you'll see on the boss for this side.  They perform a rear kick attack which does moderate damage in a cone behind them.
 
@@ -52,7 +52,7 @@ An archer that specialises in ranged attacks and controls animal companions who 
 * **Teleport** - The boss will "jump" away and reappear elsewhere in the arena, looking for the ranged advantage.
 * **Welwas** - An upgraded version of the welwas you saw previously - "Armored Welwa" who hit a bit harder and will be summoned continuously throughout the fight (if the fight lasts a long time you will have many of these to deal with).  After being alive for some time these will enrage, growing larger and hitting a lot harder.  Upon death, the boss will resurrect his fallen companions allowing them to rejoin the battle.
 
-<h3 id="right">Right</h3>
+<h3 id="right">Right Route</h3>
 No new enemies for you to face on this side while you make your way up and along the outer walls.  After each pack of enemies you will have access to a lever which will open a gate allowing the other group to proceed further.
 
 <h4 id="boss-2-2">Boss 2 - Yokeda Kai</h4>
