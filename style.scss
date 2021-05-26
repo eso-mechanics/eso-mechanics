@@ -243,7 +243,7 @@ nav {
          }
        }
     }
-  } 
+  }
   &__submenu {
     font-weight: 300;
     text-transform: none;
@@ -307,55 +307,48 @@ nav {
 /* Create columns that sit next to each other */
 .column {
   padding: 0 4px;
-}
-.column.half {
-  flex: 50%;
-  max-width: 50%;
-}
-
-.column.third {
-  flex: 33.333%;
-  max-width: 33.333%;
-}
-
-.column.soon::after {
-  content: "Coming Soon";
-  display: block;
-  position: relative;
-  top: -45px;
-  text-align: center;
-  background: #000;
-  padding: 5px 0;
-  border-top: 2px solid #aaa;
-  border-bottom: 2px solid #aaa;
-}
-
-.column h2,
-.column h3 {
-  text-align: center;
-}
-.column h3 {
-  margin-top: 0;
-}
-
-.column img {
-  margin-top: 8px;
-  vertical-align: middle;
-  width: 100%;
-}
-
-@media screen and (max-width: 800px) {
-  .column.third {
+  h2,
+  h3 {
+    text-align: center;
+  }
+  h3 {
+    margin-top: 0;
+  }
+  img {
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 100%;
+  }
+  &.soon::after {
+    content: "Coming Soon";
+    display: block;
+    position: relative;
+    top: -45px;
+    text-align: center;
+    background: #000;
+    padding: 5px 0;
+    border-top: 2px solid #aaa;
+    border-bottom: 2px solid #aaa;
+  }
+  &.half {
     flex: 50%;
     max-width: 50%;
+    @include 600 {
+      flex: 100%;
+      max-width: 100%;
+    }
   }
-}
-
-@media screen and (max-width: 600px) {
-  .column.half,
-  .column.third {
-    flex: 100%;
-    max-width: 100%;
+  &.third {
+    flex: 33.333%;
+    max-width: 33.333%;
+    @include 800 {
+      flex: 50%;
+      max-width: 50%;
+    }
+    @include 600 {
+      flex: 100%;
+      max-width: 100%;
+    }
   }
 }
 
