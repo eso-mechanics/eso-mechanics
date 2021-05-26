@@ -56,6 +56,7 @@ permalink: /trials/hel-ra-citadel/
           <li><b>Six Sword Assault</b> - The boss throws out four large AoEs in several directions (his "corners") that return the same way and deal damage to anyone in their path.</li>
           <li><b>Sword Swirl</b> - At 35% (and at regular intervals thereafter if the fight goes on for a while) the boss will form a large AoE around him and continuously spin his swords around dealing large amounts of damage to any group member caught inside.</li>
         </ul>
+        <img src="{{ site.baseurl }}/images/trials/hrc/ra-kotu.jpg" alt="Boss 1 - Ra Kotu" />
         After defeating Ra Kotu the gate he came out of (somehow) will be accessible. When 6 group members go inside the gate will close and the other 6 are locked out.  To the right is another door that will now be open and the remaining group members can proceed through here.
       </span>
       <span data-description="left">
