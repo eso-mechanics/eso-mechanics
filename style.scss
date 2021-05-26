@@ -471,7 +471,7 @@ input {
       text-align: center;
     }
   }
-  &.below {
+  &.below .label {
     top: 35px;
   }
 }
@@ -582,6 +582,9 @@ $descriptions: '1910', '1920', '1930', '1940', '1950', '1960', '1970', '1980', '
 				text-indent: 0;
 				text-align: center;
       }
+    }
+    &.below .label {
+      top: calc(100% + 5px);
     }
   }
 	#timeline-descriptions-wrapper {
