@@ -509,6 +509,10 @@ $descriptions: '1910', '1920', '1930', '1940', '1950', '1960', '1970', '1980', '
 		&::after {
 			right: #{-($parentMaxWidth / $numDots) + ($dotWidth / 2)};
     }
+    &.first::before,
+    &.last::after {
+      content: none;
+    }
   }
 	.dot-info {
 		left: calc((((#{$parentMaxWidth} - #{$dotWidth}) / #{$numDots}) * -1) - 1px);
