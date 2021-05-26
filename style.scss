@@ -468,9 +468,9 @@ input {
       left: 15px;
 			width: 100px;
     }
-    &.label.below {
-      top: 30px;
-    }
+  }
+  &.below .label {
+    top: 30px;
   }
 }
 #timeline-descriptions-wrapper {
