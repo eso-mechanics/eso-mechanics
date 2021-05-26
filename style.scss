@@ -370,10 +370,6 @@ nav {
   }
 }
 
-#timeline-descriptions-wrapper h2 {
-  text-align: center;
-}
-
 // Timeline
 .flex-parent {
 	display: flex;
@@ -488,12 +484,13 @@ input {
 #timeline-descriptions-wrapper {
   margin-top: 50px;
 	width: 100%;
-	font-size: 22px;
-	font-weight: 400;
 	margin-left: -6%; //make up for offset of .dot-info
 	span {
 		margin-top: 0;
 		display: none;
+  }
+  h2 {
+    text-align: center;
   }
 }
 
