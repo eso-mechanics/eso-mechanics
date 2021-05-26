@@ -5,7 +5,7 @@ permalink: /trials/
 ---
 
 <div class="row">
-  <div class="column third soon">
+  <div class="column third">
     <a href="{{ site.baseurl }}/trials/hel-ra-citadel">
       <h3>Hel Ra Citadel</h3>
       <img src="{{ site.baseurl }}/images/trials/HRC.jpg" alt="Hel Ra Citadel" />
