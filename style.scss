@@ -327,6 +327,7 @@ nav {
     -webkit-transition: all 0.80s;
     transition: all 0.80s;
     &:hover {
+        border: 1px solid $gray;
         filter: brightness(130%);
         -webkit-filter: brightness(130%);
         -moz-filter: brightness(130%);
