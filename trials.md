@@ -8,49 +8,49 @@ permalink: /trials/
   <div class="column third soon">
     <a href="{{ site.baseurl }}/trials/hel-ra-citadel">
       <h3>Hel Ra Citadel</h3>
-      <img src="{{ site.baseurl }}/images/trials/HRC.png" alt="Hel Ra Citadel" />
+      <img src="{{ site.baseurl }}/images/trials/HRC.jpg" alt="Hel Ra Citadel" />
     </a>
   </div>
   <div class="column third soon">
     <a href="{{ site.baseurl }}/trials/sanctum-ophidia">
       <h3>Sanctum Ophidia</h3>
-      <img src="{{ site.baseurl }}/images/trials/SO.png" alt="Sanctum Ophidia" />
+      <img src="{{ site.baseurl }}/images/trials/SO.jpg" alt="Sanctum Ophidia" />
     </a>
   </div>
   <div class="column third soon">
     <a href="{{ site.baseurl }}/trials/aetherian-archive">
       <h3>Aetherian Archive</h3>
-      <img src="{{ site.baseurl }}/images/trials/AA.png" alt="Aetherian Archive" />
+      <img src="{{ site.baseurl }}/images/trials/AA.jpg" alt="Aetherian Archive" />
     </a>
   </div>
   <div class="column third soon">
     <a href="{{ site.baseurl }}/trials/halls-of-fabrication">
       <h3>Halls of Fabrication</h3>
-      <img src="{{ site.baseurl }}/images/trials/HoF.png" alt="Halls of Fabrication" />
+      <img src="{{ site.baseurl }}/images/trials/HoF.jpg" alt="Halls of Fabrication" />
     </a>
   </div>
   <div class="column third soon">
     <a href="{{ site.baseurl }}/trials/maw-of-lorkhaj">
       <h3>Maw of Lorkhaj</h3>
-      <img src="{{ site.baseurl }}/images/trials/MoL.png" alt="Maw of Lorkhaj" />
+      <img src="{{ site.baseurl }}/images/trials/MoL.jpg" alt="Maw of Lorkhaj" />
     </a>
   </div>
   <div class="column third soon">
     <a href="{{ site.baseurl }}/trials/asylum-sanctorum">
       <h3>Asylum Sanctorum</h3>
-      <img src="{{ site.baseurl }}/images/trials/AS.png" alt="Asylum Sanctorum" />
+      <img src="{{ site.baseurl }}/images/trials/AS.jpg" alt="Asylum Sanctorum" />
     </a>
   </div>
   <div class="column half soon">
     <a href="{{ site.baseurl }}/trials/cloudrest">
       <h3>Cloudrest</h3>
-      <img src="{{ site.baseurl }}/images/trials/CR.png" alt="Cloudrest" />
+      <img src="{{ site.baseurl }}/images/trials/CR.jpg" alt="Cloudrest" />
     </a>
   </div>
   <div class="column half soon">
     <a href="{{ site.baseurl }}/trials/sunspire">
       <h3>Sunspire</h3>
-      <img src="{{ site.baseurl }}/images/trials/SS.png" alt="Sunspire" />
+      <img src="{{ site.baseurl }}/images/trials/SS.jpg" alt="Sunspire" />
     </a>
   </div>
 </div>
