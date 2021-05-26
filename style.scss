@@ -494,6 +494,12 @@ input {
   h2 {
     text-align: center;
   }
+  span img {
+    float: right;
+    width: 330px;
+    height: 330px;
+    padding: 20px;
+  }
 }
 
 // magic shenanigans
@@ -600,6 +606,9 @@ $hrc_descriptions: 'notable-enemies', 'boss-1', 'left', 'boss-2-1', 'right', 'bo
 		margin-top: 0;
 		margin-left: 0;
 		text-align: center;
+    span img {
+      display: none;
+    }
   }
 }
 
