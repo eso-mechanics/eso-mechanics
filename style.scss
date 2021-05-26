@@ -238,7 +238,6 @@ nav {
       display: inline-block;
       position: relative;
       &:hover {
-         background-color: $cor-1;
          .nav__submenu {
            display: block;
          }
