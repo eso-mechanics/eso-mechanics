@@ -256,6 +256,7 @@ nav {
     position: absolute;
     width: 220px;
     background-color: #000;
+    z-index: 1;
     &-item {
       text-align: left;
       &:hover {
