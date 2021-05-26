@@ -484,8 +484,8 @@ input {
 	width: 100%;
 	font-size: 22px;
 	font-weight: 400;
-	margin-left: -8%; //make up for offset of .dot-info
-	p {
+	margin-left: -6%; //make up for offset of .dot-info
+	span {
 		margin-top: 0;
 		display: none;
   }
@@ -496,7 +496,7 @@ $descriptions: '1910', '1920', '1930', '1940', '1950', '1960', '1970', '1980', '
 
 @each $desc in $descriptions {
 	input[data-description="#{$desc}"]:checked ~ #timeline-descriptions-wrapper {
-		p[data-description="#{$desc}"] {
+		span[data-description="#{$desc}"] {
 			display: block;
     }
   }
@@ -504,7 +504,7 @@ $descriptions: '1910', '1920', '1930', '1940', '1950', '1960', '1970', '1980', '
 
 @media (min-width: $parentMaxWidth / $parentWidthBase) {
 	.input-flex-container {
-		margin-left: 8%;
+		margin-left: 6%;
   }
 	input {
 		&::before {
@@ -518,7 +518,7 @@ $descriptions: '1910', '1920', '1930', '1940', '1950', '1960', '1970', '1980', '
 		left: calc((((#{$parentMaxWidth} - #{$dotWidth}) / #{$numDots}) * -1) - 1px);
   }
 	#timeline-descriptions-wrapper {
-		margin-left: -8%;
+		margin-left: -6%;
   }
 }
 
