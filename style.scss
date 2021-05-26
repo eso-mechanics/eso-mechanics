@@ -512,6 +512,7 @@ $descriptions: '1910', '1920', '1930', '1940', '1950', '1960', '1970', '1980', '
 	#timeline-descriptions-wrapper {
 		margin-left: #{-($parentMaxWidth / $numDots) + ($dotWidth / 2)};
   }
+}
 
 @media (max-width: 630px) {
 	.flex-parent {
