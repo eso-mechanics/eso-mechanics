@@ -21,7 +21,6 @@ html {
 body {
 	background: $black;
   font: 18px/1.4 $helvetica;
-  color: #bbb;
   height: 100%;
   display: flex;
   flex-direction: column;
@@ -75,15 +74,15 @@ p {
 }
 
 a {
-  color: $blue;
+  color: $green;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $lightblue;
+    color: $lightgreen;
   }
   h3, h2 {
     &:hover, &:active {
-      color: $blue;
+      color: $green;
     }
   }
 }
@@ -261,12 +260,12 @@ nav {
     display: none;
     position: absolute;
     width: 220px;
-    background-color: #000;
+    background-color: $black;
     z-index: 1;
     &-item {
       text-align: left;
       &:hover {
-        background: rgba( #000, 0.1 );
+        background: rgba( $black, 0.1 );
       }
     }
   }
@@ -346,10 +345,10 @@ nav {
     position: relative;
     top: -65px;
     text-align: center;
-    background: #000;
+    background: $black;
     padding: 5px 0;
-    border-top: 2px solid #aaa;
-    border-bottom: 2px solid #aaa;
+    border-top: 2px solid $gray;
+    border-bottom: 2px solid $gray;
   }
   &.half {
     flex: 50%;
@@ -467,11 +466,6 @@ input {
 		visibility: visible;
 		position: absolute;
 		font-size: 12px;
-		&.year {
-			bottom: -30px;
-			left: 50%;
-			transform: translateX(-50%);
-    }
 		&.label {
       top: -40px;
       left: 8px;
@@ -561,9 +555,6 @@ $hrc_descriptions: 'notable-enemies', 'boss-1', 'left', 'boss-2-1', 'right', 'bo
 			+ .dot-info {
 				background-color: $active;
 				span {
-					&.year {
-						font-size: 14px;
-          }
 					&.label {
 						font-size: 12px;
           }
@@ -579,17 +570,6 @@ $hrc_descriptions: 'notable-enemies', 'boss-1', 'left', 'boss-2-1', 'right', 'bo
 		margin-left: -70px;
 		background-color: $inactive;
 		span {
-			&.year {
-				top: 0;
-				left: 0;
-				transform: none;
-				width: 100%;
-				height: 100%;
-				display: flex;
-				justify-content: center;
-				align-items: center;
-				color: #ECF0F1;
-      }
 			&.label {
 				top: calc(100% + 5px);
 				left: 50%;
@@ -625,8 +605,8 @@ $hrc_descriptions: 'notable-enemies', 'boss-1', 'left', 'boss-2-1', 'right', 'bo
 
 .wrapper-footer {
   margin-top: 30px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
+  border-top: 1px solid $gray;
+  border-bottom: 1px solid $gray;
   background-color: $darkGray;
   flex-shrink: 0;
 }
