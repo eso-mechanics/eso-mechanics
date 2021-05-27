@@ -605,6 +605,9 @@ $hrc_descriptions: 'notable-enemies', 'boss-1', 'left', 'boss-2-1', 'right', 'bo
   border-bottom: 1px solid $gray;
   background-color: $darkerGray;
   flex-shrink: 0;
+  a {
+    text-decoration: underline;
+  }
 }
 
 footer {
