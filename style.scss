@@ -445,7 +445,7 @@ input {
   margin-top: 50px;
 	width: 100%;
 	margin-left: -6%; //make up for offset of .dot-info
-	span {
+	div.section {
 		margin-top: 0;
 		display: none;
   }
@@ -470,7 +470,7 @@ $hrc_descriptions: 'notable-enemies', 'boss-1', 'left', 'boss-2-1', 'right', 'bo
 
 @each $desc in $hrc_descriptions {
 	input[data-description="#{$desc}"]:checked ~ #timeline-descriptions-wrapper {
-		span[data-description="#{$desc}"] {
+		div[data-description="#{$desc}"] {
 			display: block;
     }
   }
