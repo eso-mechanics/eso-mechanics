@@ -632,18 +632,18 @@ $hrc_descriptions: 'notable-enemies', 'boss-1', 'left', 'boss-2-1', 'right', 'bo
   padding-right: 16px;
 }
 .spoiler {
-  background: #efe;
-  border: 2px solid #ded;
+  background: $gray;
+  border: 2px solid $lightGray;
   border-width: 1px 1px 1px 4px;
   box-shadow: inset -1px 1px 0 #fffc;
   border-radius: 4px;
 }
 .spoiler > .spoiler-head {
-  color: #676;
+  color: $green;
 }
 .spoiler > .spoiler-button:after {
   border-radius: 4px;
-  color: #0004;
+  color: $green;
   font-size: 1.4em;
   font-style: italic;
 }
@@ -654,10 +654,10 @@ $hrc_descriptions: 'notable-enemies', 'boss-1', 'left', 'boss-2-1', 'right', 'bo
   content: '[ - ]';
 }
 .spoiler > .spoiler-button:focus {
-  outline: 4px solid #bcbf;
+  outline: 4px solid $gray;
 }
 .spoiler > .spoiler-button ~ .spoiler-body {
-  background: #fff;
+  background: $darkGray;
   box-shadow: 0 0 0 1px #0001;
 }
 
