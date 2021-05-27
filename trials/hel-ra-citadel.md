@@ -33,7 +33,7 @@ permalink: /trials/hel-ra-citadel/
     <div class="dot-info above" data-description="horn">
       <span class="label">Citadel Entrance</span>
     </div>
-    <input type="radio" class="node" class="last" name="timeline-dot" data-description="boss-3">
+    <input type="radio" class="last node" name="timeline-dot" data-description="boss-3">
     <div class="dot-info below" data-description="boss-3">
       <span class="label">Final Boss</span>
     </div>
