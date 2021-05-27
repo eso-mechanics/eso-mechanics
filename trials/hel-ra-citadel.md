@@ -155,13 +155,12 @@ permalink: /trials/hel-ra-citadel/
           <li><b>Leap</b> - The boss leaps to any group member that is far enough away from him and does a lot of damage on impact.  This mechanic only happens if someone is standing far away, however.  He will sometimes leap to the statues when he destroys them or leap back from the statues once they have been destroyed.</li>
           <li><b>Cleave</b> - A front-facing, conal, cleave attack which does a lot of damage.  Towards execute this will be done after each shield throw and typically will be in the direction that he threw his shield.</li>
           <li><b>Shehai Storm</b> - The boss points his sword upwards and channels an attack that hits everyone in the group.  Each group member will get a pulsing red circle under their feet that moves with them and does damage with every pulse.  Overlapping with another group members circle will cause you to take damage from their AoE as well.</li>
-          <li><b>Wave</b> - This is telegraphed exactly the same as the shield throw but now only hits once as it has no return effect.  This replaces the shield throw mechanic during execute (from 35%).</li>
           <li><b>Adds</b> - Destroyers and Flame-shapers are summoned at different times during the fight.  These act exactly as described previously and will be destroyed at 35% when the boss triggers the initial explosion of his Shehai Storm mechanic.</li>
         </ul>
         <h2>Hardmode</h2>
         <p>As with almost every other hardmode in the game, expect the boss to have more health and some of the above attacks to do more damage.</p>
         <ul>
-          <li><b></b> - A random group member will become encased in stone and unable to use any abilities.  While encased they will receive a unique synergy "Destructive Outbreak" which releases them from the stone but also does huge damage in a large circle around them.</li>
+          <li><b>Stone Form</b> - A random group member will become encased in stone and unable to use any abilities.  While encased they will receive a unique synergy "Destructive Outbreak" which releases them from the stone but also does huge damage in a large circle around them.</li>
           <li><b>Gargoyles</b> - In the area around the boss there are 12 statues, each containing a gargoyle.  The statues will start to come to life during the fight giving your group additional enemies to deal with.  They work exactly the same as described previously.</li>
         </ul>
         <div class="spoiler">
