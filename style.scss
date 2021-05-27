@@ -19,7 +19,7 @@ html {
 }
 
 body {
-	background: $black;
+	background: $darkerGray;
   font: 18px/1.4 $helvetica;
   height: 100%;
   display: flex;
@@ -255,12 +255,12 @@ nav {
     display: none;
     position: absolute;
     width: 220px;
-    background-color: $black;
+    background-color: $darkerGray;
     z-index: 1;
     &-item {
       text-align: left;
       &:hover {
-        background: rgba( $black, 0.1 );
+        background: rgba( $darkerGray, 0.1 );
       }
     }
   }
@@ -308,7 +308,7 @@ nav {
     position: relative;
     top: -65px;
     text-align: center;
-    background: $black;
+    background: $darkerGray;
     padding: 5px 0;
     border-top: 2px solid $white;
     border-bottom: 2px solid $white;
