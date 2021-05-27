@@ -5,35 +5,35 @@ permalink: /trials/hel-ra-citadel/
 ---
 <div class="flex-parent">
   <div class="input-flex-container">
-    <input type="radio" class="first" name="timeline-dot" data-description="notable-enemies" checked>
+    <input type="radio" class="first node" name="timeline-dot" data-description="notable-enemies" checked>
     <div class="dot-info above" data-description="notable-enemies">
       <span class="label">Notable Enemies</span>
     </div>
-    <input type="radio" name="timeline-dot" data-description="boss-1">
+    <input type="radio" class="node" name="timeline-dot" data-description="boss-1">
     <div class="dot-info below" data-description="boss-1">
       <span class="label">Boss 1</span>
     </div>
-    <input type="radio" name="timeline-dot" data-description="left">
+    <input type="radio" class="node" name="timeline-dot" data-description="left">
     <div class="dot-info above" data-description="left">
       <span class="label">Left Route</span>
     </div>
-    <input type="radio" name="timeline-dot" data-description="boss-2-1">
+    <input type="radio" class="node" name="timeline-dot" data-description="boss-2-1">
     <div class="dot-info above" data-description="boss-2-1">
       <span class="label">Boss 2 (left)</span>
     </div>
-    <input type="radio" name="timeline-dot" data-description="right">
+    <input type="radio" class="node" name="timeline-dot" data-description="right">
     <div class="dot-info below" data-description="right">
       <span class="label">Right Route</span>
     </div>
-    <input type="radio" name="timeline-dot" data-description="boss-2-2">
+    <input type="radio" class="node" name="timeline-dot" data-description="boss-2-2">
     <div class="dot-info below" data-description="boss-2-2">
       <span class="label">Boss 2 (right)</span>
     </div>
-    <input type="radio" name="timeline-dot" data-description="horn">
+    <input type="radio" class="node" name="timeline-dot" data-description="horn">
     <div class="dot-info above" data-description="horn">
       <span class="label">Citadel Entrance</span>
     </div>
-    <input type="radio" class="last" name="timeline-dot" data-description="boss-3">
+    <input type="radio" class="node" class="last" name="timeline-dot" data-description="boss-3">
     <div class="dot-info below" data-description="boss-3">
       <span class="label">Final Boss</span>
     </div>

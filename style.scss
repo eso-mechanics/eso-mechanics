@@ -356,7 +356,7 @@ nav {
 	margin-left: 4%; //make up for offset of .dot-info
   margin-top: 40px;
 }
-input {
+input.node {
 	width: $dotWidth;
 	height: $dotWidth;
 	background-color: $active;
@@ -480,7 +480,7 @@ $hrc_descriptions: 'notable-enemies', 'boss-1', 'left', 'boss-2-1', 'right', 'bo
 	.input-flex-container {
 		margin-left: 6%;
   }
-	input {
+	input.node {
 		&::before {
 			left: #{-($parentMaxWidth / $numDots) + ($dotWidth / 2)};
     }
@@ -509,12 +509,12 @@ $hrc_descriptions: 'notable-enemies', 'boss-1', 'left', 'boss-2-1', 'right', 'bo
 		margin-left: 0;
 		padding-bottom: 30px;
   }
-	input, .dot-info {
+	input.node, .dot-info {
 		width: 60px;
 		height: 60px;
 		margin: 0 15px 50px;
   }
-	input {
+	input.node {
 		background-color: transparent !important;
 		z-index: 1;
 		&::before, &::after {
