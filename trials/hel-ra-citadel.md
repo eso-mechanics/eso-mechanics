@@ -5,7 +5,7 @@ permalink: /trials/hel-ra-citadel/
 ---
 <div class="flex-parent">
   <div class="input-flex-container">
-    <div class="timeline-wrap">
+    <div class="timeline-wrapper">
       <input type="radio" class="first" name="timeline-dot" data-description="notable-enemies" checked>
       <div class="dot-info above" data-description="notable-enemies">
         <span class="label">Notable Enemies</span>
