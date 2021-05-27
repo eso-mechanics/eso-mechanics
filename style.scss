@@ -632,8 +632,8 @@ $hrc_descriptions: 'notable-enemies', 'boss-1', 'left', 'boss-2-1', 'right', 'bo
   padding-right: 16px;
 }
 .spoiler {
-  background: $gray;
-  border: 2px solid $lightGray;
+  background: $darkGray;
+  border: 2px solid $gray;
   border-width: 1px 1px 1px 4px;
   box-shadow: inset -1px 1px 0 #fffc;
   border-radius: 4px;
@@ -657,7 +657,7 @@ $hrc_descriptions: 'notable-enemies', 'boss-1', 'left', 'boss-2-1', 'right', 'bo
   outline: 4px solid $gray;
 }
 .spoiler > .spoiler-button ~ .spoiler-body {
-  background: $darkGray;
+  background: $darkerGray;
   box-shadow: 0 0 0 1px #0001;
 }
 
