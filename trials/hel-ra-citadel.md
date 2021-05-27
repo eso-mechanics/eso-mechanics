@@ -65,6 +65,13 @@ permalink: /trials/hel-ra-citadel/
           <li><b>Sword Swirl</b> - At 35% (and at regular intervals thereafter if the fight goes on for a while) the boss will form a large AoE around him and continuously spin his swords around dealing large amounts of damage to any group member caught inside.</li>
         </ul>
         After defeating Ra Kotu the gate he came out of (somehow) will be accessible. When 6 group members go inside the gate will close and the other 6 are locked out.  To the right is another door that will now be open and the remaining group members can proceed through here.
+        <div class="spoiler">
+          <input type="checkbox" class="spoiler-button">
+          <div class="spoiler-head">Strategies</div>
+          <div class="spoiler-body">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse non venenatis sem. Integer bibendum blandit varius. Maecenas rhoncus dignissim vulputate. Vivamus et libero consectetur, tempor enim non, sagittis erat. Nullam maximus neque ligula, in porta quam suscipit non. Nam maximus ut ante eu malesuada. Pellentesque auctor quis augue quis eleifend. Donec tincidunt porta ante ac consequat.</p>
+          </div>
+        </div>
       </div>
       <div class="section" data-description="left">
         <h2>Left Route</h2>
@@ -72,6 +79,13 @@ permalink: /trials/hel-ra-citadel/
         <ul>
           <li><b>Welwa</b> - A mild introduction to the enemies you'll see on the boss for this side.  They perform a rear kick attack which does moderate damage in a cone behind them.</li>
         </ul>
+        <div class="spoiler">
+          <input type="checkbox" class="spoiler-button">
+          <div class="spoiler-head">Strategies</div>
+          <div class="spoiler-body">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse non venenatis sem. Integer bibendum blandit varius. Maecenas rhoncus dignissim vulputate. Vivamus et libero consectetur, tempor enim non, sagittis erat. Nullam maximus neque ligula, in porta quam suscipit non. Nam maximus ut ante eu malesuada. Pellentesque auctor quis augue quis eleifend. Donec tincidunt porta ante ac consequat.</p>
+          </div>
+        </div>
       </div>
       <div class="section" data-description="boss-2-1">
         <h2>Boss 2 - Yokeda Rok'dun</h2>
@@ -82,10 +96,24 @@ permalink: /trials/hel-ra-citadel/
           <li><b>Teleport</b> - The boss will "jump" away and reappear elsewhere in the arena, looking for the ranged advantage.</li>
           <li><b>Welwas</b> - An upgraded version of the welwas you saw previously - "Armored Welwa" who hit a bit harder and will be summoned continuously throughout the fight (if the fight lasts a long time you will have many of these to deal with).  After being alive for some time these will enrage, growing larger and hitting a lot harder.  Upon death, the boss will resurrect his fallen companions allowing them to rejoin the battle.</li>
         </ul>
+        <div class="spoiler">
+          <input type="checkbox" class="spoiler-button">
+          <div class="spoiler-head">Strategies</div>
+          <div class="spoiler-body">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse non venenatis sem. Integer bibendum blandit varius. Maecenas rhoncus dignissim vulputate. Vivamus et libero consectetur, tempor enim non, sagittis erat. Nullam maximus neque ligula, in porta quam suscipit non. Nam maximus ut ante eu malesuada. Pellentesque auctor quis augue quis eleifend. Donec tincidunt porta ante ac consequat.</p>
+          </div>
+        </div>
       </div>
       <div class="section" data-description="right">
         <h2>Right Route</h2>
         No new enemies for you to face on this side while you make your way up and along the outer walls.  After each pack of enemies you will have access to a lever which will open a gate allowing the other group to proceed further.  Destroying the catapults as you go prevents additional damage being rained down on your team-mates.
+        <div class="spoiler">
+          <input type="checkbox" class="spoiler-button">
+          <div class="spoiler-head">Strategies</div>
+          <div class="spoiler-body">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse non venenatis sem. Integer bibendum blandit varius. Maecenas rhoncus dignissim vulputate. Vivamus et libero consectetur, tempor enim non, sagittis erat. Nullam maximus neque ligula, in porta quam suscipit non. Nam maximus ut ante eu malesuada. Pellentesque auctor quis augue quis eleifend. Donec tincidunt porta ante ac consequat.</p>
+          </div>
+        </div>
       </div>
       <div class="section" data-description="boss-2-2">
         <h2>Boss 2 - Yokeda Kai</h2>
@@ -97,10 +125,24 @@ permalink: /trials/hel-ra-citadel/
           <li><b>Inferno</b> - The same interruptible attack that the flame-shapers do.  A channeled ability that shoots fireballs at random group members.</li>
           <li><b>Fiery Deception</b> - The boss splits into four, three of which are clones of himself.  Each will spawn in the same location each time and mimic the boss; performing the Impulse and Inferno ability as described above. After performing their Inferno attack they will despawn, leaving only the real boss again.</li>
         </ul>
+        <div class="spoiler">
+          <input type="checkbox" class="spoiler-button">
+          <div class="spoiler-head">Strategies</div>
+          <div class="spoiler-body">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse non venenatis sem. Integer bibendum blandit varius. Maecenas rhoncus dignissim vulputate. Vivamus et libero consectetur, tempor enim non, sagittis erat. Nullam maximus neque ligula, in porta quam suscipit non. Nam maximus ut ante eu malesuada. Pellentesque auctor quis augue quis eleifend. Donec tincidunt porta ante ac consequat.</p>
+          </div>
+        </div>
       </div>
       <div class="section" data-description="horn">
         <h2>Citadel Entrance</h2>
         Prepare to face a collection of all of the enemies you have faced before.  Using the horn at the back of the room will pull even more enemies into the fight and aggro them immediately, it does give you an achievement though.  There are a few heavy sacks and chests here and through the corridor towards the last boss.
+        <div class="spoiler">
+          <input type="checkbox" class="spoiler-button">
+          <div class="spoiler-head">Strategies</div>
+          <div class="spoiler-body">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse non venenatis sem. Integer bibendum blandit varius. Maecenas rhoncus dignissim vulputate. Vivamus et libero consectetur, tempor enim non, sagittis erat. Nullam maximus neque ligula, in porta quam suscipit non. Nam maximus ut ante eu malesuada. Pellentesque auctor quis augue quis eleifend. Donec tincidunt porta ante ac consequat.</p>
+          </div>
+        </div>
       </div>
       <div class="section" data-description="boss-3">
         <h2>Boss 3 - The Warrior</h2>
@@ -113,6 +155,13 @@ permalink: /trials/hel-ra-citadel/
           <li><b>Cleave</b> - A front-facing, conal, cleave attack which does a lot of damage.  Towards execute this will be done after each shield throw and typically will be in the direction that he threw his shield.</li>
           <li><b>Shehai Storm</b> - The boss points his sword upwards and channels an attack that hits everyone in the group.  Each group member will get a pulsing red circle under their feet that moves with them and overlapping with another group members circle will cause you to take damage from their AoE as well.</li>
         </ul>
+        <div class="spoiler">
+          <input type="checkbox" class="spoiler-button">
+          <div class="spoiler-head">Strategies</div>
+          <div class="spoiler-body">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse non venenatis sem. Integer bibendum blandit varius. Maecenas rhoncus dignissim vulputate. Vivamus et libero consectetur, tempor enim non, sagittis erat. Nullam maximus neque ligula, in porta quam suscipit non. Nam maximus ut ante eu malesuada. Pellentesque auctor quis augue quis eleifend. Donec tincidunt porta ante ac consequat.</p>
+          </div>
+        </div>
       </div>
     </div>
   </div>
