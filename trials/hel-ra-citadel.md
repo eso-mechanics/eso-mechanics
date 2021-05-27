@@ -5,7 +5,7 @@ permalink: /trials/hel-ra-citadel/
 ---
 <div class="flex-parent">
   <div class="input-flex-container">
-    <div class="timeline-wrapper">
+    <span class="timeline-wrapper">
       <input type="radio" class="first" name="timeline-dot" data-description="notable-enemies" checked>
       <div class="dot-info above" data-description="notable-enemies">
         <span class="label">Notable Enemies</span>
@@ -38,7 +38,7 @@ permalink: /trials/hel-ra-citadel/
       <div class="dot-info below" data-description="boss-3">
         <span class="label">Final Boss</span>
       </div>
-    </div>
+    </span>
     <div id="timeline-descriptions-wrapper">
       <span data-description="notable-enemies">
         <h2>Notable Enemies</h2>
