@@ -269,41 +269,12 @@ nav {
 //
 // .main
 //
-
-.posts > .post {
-  padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+.main {
+  position: relative;
 }
-
-.posts > .post:last-child {
-  padding-bottom: 1em;
-  border-bottom: none;
-}
-
-.post {
-  blockquote {
-    margin: 1.8em .8em;
-    border-left: 2px solid $gray;
-    padding: 0.1em 1em;
-    color: $gray;
-    font-size: 22px;
-    font-style: italic;
-  }
-
-  .comments {
-    margin-top: 10px;
-  }
-
-  .read-more {
-    text-transform: uppercase;
-    font-size: 15px;
-  }
-}
-
 .page {
   margin-top: 30px;
 }
-
 .row {
   display: flex;
   flex-wrap: wrap;
@@ -607,7 +578,7 @@ $hrc_descriptions: 'notable-enemies', 'boss-1', 'left', 'boss-2-1', 'right', 'bo
 .back-to-top-wrapper {
   position: absolute;
   top: 100vh;
-  right: 0.25rem;
+  right: 5rem;
   bottom: 0;
   width: 3em;
   pointer-events: none;
