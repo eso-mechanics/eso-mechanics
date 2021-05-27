@@ -572,6 +572,96 @@ $hrc_descriptions: 'notable-enemies', 'boss-1', 'left', 'boss-2-1', 'right', 'bo
   }
 }
 
+/* Spoiler */
+.spoiler {
+  position: relative;
+  min-width: 320px;
+}
+.spoiler > .spoiler-button {
+  appearance: none;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+  font-family: inherit;
+}
+.spoiler > .spoiler-button:after {
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.spoiler > .spoiler-button ~ .spoiler-body {
+  transform-origin: top center;
+  position: relative;
+  transition: all .5s;
+}
+.spoiler > .spoiler-button:not(:checked) ~ .spoiler-body {
+  opacity: 0;
+  max-height: 0;
+  overflow: hidden;
+}
+.spoiler > .spoiler-button:checked ~ .spoiler-body {
+  opacity: 1;
+  max-height: 50em;
+  overflow: auto;
+}
+@keyframes spoiler-focus {
+  0%, 1%      { content: inherit; }
+  99%, 100%   { content: url(''); }
+}
+.spoiler > .spoiler-button:checked ~ .spoiler-body > * {
+  content: inherit;
+}
+.spoiler > .spoiler-button:not(:checked) ~ .spoiler-body > * {
+  animation: spoiler-focus 1s linear both;
+}
+.spoiler > .spoiler-button:after,
+.spoiler > .spoiler-head,
+.spoiler > .spoiler-button:checked ~ .spoiler-body {
+  padding: 8px 16px;
+}
+.spoiler > .spoiler-button ~ .spoiler-body {
+  padding-left: 16px;
+  padding-right: 16px;
+}
+.spoiler {
+  background: #efe;
+  border: 2px solid #ded;
+  border-width: 1px 1px 1px 4px;
+  box-shadow: inset -1px 1px 0 #fffc;
+  border-radius: 4px;
+}
+.spoiler > .spoiler-head {
+  color: #676;
+}
+.spoiler > .spoiler-button:after {
+  border-radius: 4px;
+  color: #0004;
+  font-size: 1.4em;
+  font-style: italic;
+}
+.spoiler > .spoiler-button:not(:checked):after {
+  content: '[ + ]';
+}
+.spoiler > .spoiler-button:checked:after {
+  content: '[ - ]';
+}
+.spoiler > .spoiler-button:focus {
+  outline: 4px solid #bcbf;
+}
+.spoiler > .spoiler-button ~ .spoiler-body {
+  background: #fff;
+  box-shadow: 0 0 0 1px #0001;
+}
+
+/* Footer */
 .wrapper-footer {
   margin-top: 30px;
   border-top: 1px solid $gray;
