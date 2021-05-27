@@ -639,12 +639,14 @@ $hrc_descriptions: 'notable-enemies', 'boss-1', 'left', 'boss-2-1', 'right', 'bo
 }
 .spoiler > .spoiler-head {
   color: $green;
+  font-weight: 600;
 }
 .spoiler > .spoiler-button:after {
   border-radius: 4px;
   color: $green;
   font-size: 1.4em;
   font-style: italic;
+  font-weight: 600;
 }
 .spoiler > .spoiler-button:not(:checked):after {
   content: '[ + ]';
