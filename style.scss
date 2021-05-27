@@ -453,7 +453,7 @@ input {
     text-align: center;
     color: $green;
   }
-  span img {
+  div img {
     float: right;
     width: 330px;
     height: 330px;
@@ -554,7 +554,7 @@ $hrc_descriptions: 'notable-enemies', 'boss-1', 'left', 'boss-2-1', 'right', 'bo
 	#timeline-descriptions-wrapper {
 		margin-top: 0;
 		margin-left: 0;
-    span img {
+    div img {
       display: none;
     }
   }
