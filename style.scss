@@ -80,11 +80,7 @@ a {
 	cursor: pointer;
   &:hover, &:active {
     color: $lightgreen;
-  }
-  h3, h2 {
-    &:hover, &:active {
-      color: $green;
-    }
+    font-weight: bold;
   }
 }
 
@@ -494,6 +490,7 @@ input {
     width: 330px;
     height: 330px;
     padding: 20px;
+    border-radius: 8%;
   }
 }
 
