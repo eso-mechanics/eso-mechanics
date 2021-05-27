@@ -23,7 +23,7 @@ body {
   font: 18px/1.4 $helvetica;
   height: 100%;
   display: flex;
-  color: $gray;
+  color: $white;
   flex-direction: column;
 }
 
@@ -37,7 +37,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $gray;
+  color: $white;
   font-weight: bold;
 
   line-height: 1.7;
@@ -67,7 +67,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: $white;
 }
 
 p {
@@ -123,7 +123,7 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: $white;
 }
 
 // Specify the color of the selection
@@ -193,7 +193,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $gray;
+  color: $white;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -203,7 +203,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: $white;
   font-size: 16px;
 
   @include sixforty {
@@ -222,7 +222,7 @@ nav {
     display: block;
   }
   a {
-    color: $gray;
+    color: $white;
     letter-spacing: 1px;
     display: block;
     padding: 0 16px;
@@ -292,7 +292,7 @@ nav {
     -webkit-transition: all 0.50s;
     transition: all 0.50s;
     &:hover {
-        border: 1px solid $gray;
+        border: 1px solid $white;
         filter: brightness(130%);
         -webkit-filter: brightness(130%);
         -moz-filter: brightness(130%);
@@ -310,8 +310,8 @@ nav {
     text-align: center;
     background: $black;
     padding: 5px 0;
-    border-top: 2px solid $gray;
-    border-bottom: 2px solid $gray;
+    border-top: 2px solid $white;
+    border-bottom: 2px solid $white;
   }
   &.half {
     flex: 50%;
@@ -633,7 +633,7 @@ $hrc_descriptions: 'notable-enemies', 'boss-1', 'left', 'boss-2-1', 'right', 'bo
 }
 .spoiler {
   background: $darkGray;
-  border: 2px solid $gray;
+  border: 2px solid $white;
   border-radius: 4px;
 }
 .spoiler > .spoiler-head {
@@ -652,7 +652,7 @@ $hrc_descriptions: 'notable-enemies', 'boss-1', 'left', 'boss-2-1', 'right', 'bo
   content: '[ - ]';
 }
 .spoiler > .spoiler-button:focus {
-  outline: 4px solid $gray;
+  outline: 4px solid $white;
 }
 .spoiler > .spoiler-button ~ .spoiler-body {
   background: $darkerGray;
@@ -662,8 +662,8 @@ $hrc_descriptions: 'notable-enemies', 'boss-1', 'left', 'boss-2-1', 'right', 'bo
 /* Footer */
 .wrapper-footer {
   margin-top: 30px;
-  border-top: 1px solid $gray;
-  border-bottom: 1px solid $gray;
+  border-top: 1px solid $white;
+  border-bottom: 1px solid $white;
   background-color: $darkerGray;
   flex-shrink: 0;
 }
