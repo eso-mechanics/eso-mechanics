@@ -56,8 +56,8 @@ permalink: /trials/hel-ra-citadel/
       <div class="section" data-description="boss-1">
         <h2>Boss 1 - Ra Kotu</h2>
         <img src="{{ site.baseurl }}/images/trials/hrc/ra-kotu.jpg" alt="Boss 1 - Ra Kotu" />
-        A huge air atronach that spawns in with 3 additional enemies and is typically pulled immediately; don't expect to be able to stop to change skills etc!<br>
-        His notable attacks are as follows:  
+        <p>A huge air atronach that spawns in with 3 additional enemies and is typically pulled immediately; don't expect to be able to stop to change skills etc!</p>
+        <p>His notable attacks are as follows:</p>
         <ul>
           <li><b>Gusts of wind</b> - Small red AoEs that target a single group member (but can quickly change targets) and will move around the group (following whichever group member they are targeting at the time) continuously though the fight.  A single group member can get targeted by multiple gusts at a time and these will do small amounts of damage to anyone standing in the circle.</li>
           <li><b>Heavy Attack</b> - Indicated by the usual "yellow sparks" the boss wraps his arms around his body and unleashes a powerful attack on whoever has aggro.</li>
@@ -75,7 +75,7 @@ permalink: /trials/hel-ra-citadel/
       </div>
       <div class="section" data-description="left">
         <h2>Left Route</h2>
-        Your progress here is controlled by the other group as they will have access to levers which open the gates blocking your route.  You will meet mostly the same enemies here with one addition (see below) but many of them will keep respawning until the right side have finished their section and unlocked the gate for you to move on.
+        <p>Your progress here is controlled by the other group as they will have access to levers which open the gates blocking your route.  You will meet mostly the same enemies here with one addition (see below) but many of them will keep respawning until the right side have finished their section and unlocked the gate for you to move on.</p>
         <ul>
           <li><b>Welwa</b> - A mild introduction to the enemies you'll see on the boss for this side.  They perform a rear kick attack which does moderate damage in a cone behind them.</li>
         </ul>
@@ -90,7 +90,7 @@ permalink: /trials/hel-ra-citadel/
       <div class="section" data-description="boss-2-1">
         <h2>Boss 2 - Yokeda Rok'dun</h2>
         <img src="{{ site.baseurl }}/images/trials/hrc/rokdun.jpg" alt="Boss 2 - Yokeda Rok'dun" />
-        An archer that specialises in ranged attacks and controls animal companions who aid him in battle.
+        <p>An archer that specialises in ranged attacks and controls animal companions who aid him in battle.</p>
         <ul>
           <li><b>Release Flame</b> - A flame arrow will be shot towards a group member which hits the ground and splits into four flame trails, spreading out in different directions from the point of impact.</li>
           <li><b>Teleport</b> - The boss will "jump" away and reappear elsewhere in the arena, looking for the ranged advantage.</li>
@@ -106,7 +106,7 @@ permalink: /trials/hel-ra-citadel/
       </div>
       <div class="section" data-description="right">
         <h2>Right Route</h2>
-        No new enemies for you to face on this side while you make your way up and along the outer walls.  After each pack of enemies you will have access to a lever which will open a gate allowing the other group to proceed further.  Destroying the catapults as you go prevents additional damage being rained down on your team-mates.
+        <p>No new enemies for you to face on this side while you make your way up and along the outer walls.  After each pack of enemies you will have access to a lever which will open a gate allowing the other group to proceed further.  Destroying the catapults as you go prevents additional damage being rained down on your team-mates.</p>
         <div class="spoiler">
           <input type="checkbox" class="spoiler-button">
           <div class="spoiler-head">Strategies</div>
@@ -118,7 +118,7 @@ permalink: /trials/hel-ra-citadel/
       <div class="section" data-description="boss-2-2">
         <h2>Boss 2 - Yokeda Kai</h2>
         <img src="{{ site.baseurl }}/images/trials/hrc/kai.jpg" alt="Boss 2 - Yokeda Kai" />
-        A fire mage (a superior flame-shaper that you met previously) that specialises in all things flammable.
+        <p>A fire mage (a superior flame-shaper that you met previously) that specialises in all things flammable.</p>
         <ul>
           <li><b>Impulse</b> - An AoE ability that spreads out from beneath the bosses feet that does a lot of damage to anyone caught inside.</li>
           <li><b>Meteor</b> - A huge, flaming rock is dropped on a random group member dealing a lot of damage to anyone hit.  After impact, a burning AoE is left on the ground.</li>
@@ -135,7 +135,7 @@ permalink: /trials/hel-ra-citadel/
       </div>
       <div class="section" data-description="horn">
         <h2>Citadel Entrance</h2>
-        Prepare to face a collection of all of the enemies you have faced before.  Using the horn at the back of the room will pull even more enemies into the fight and aggro them immediately, it does give you an achievement though.  There are a few heavy sacks and chests here and through the corridor towards the last boss.
+        <p>Prepare to face a collection of all of the enemies you have faced before.  Using the horn at the back of the room will pull even more enemies into the fight and aggro them immediately, it does give you an achievement though.  There are a few heavy sacks and chests here and through the corridor towards the last boss.</p>
         <div class="spoiler">
           <input type="checkbox" class="spoiler-button">
           <div class="spoiler-head">Strategies</div>
@@ -147,7 +147,7 @@ permalink: /trials/hel-ra-citadel/
       <div class="section" data-description="boss-3">
         <h2>Boss 3 - The Warrior</h2>
         <img src="{{ site.baseurl }}/images/trials/hrc/warrior.jpg" alt="Boss 3 - The Warrior" />
-        Despite being one of the oldest, this is still one of the hardest hitting bosses in the game.  The Warrior puts a lot of pressure on the tank, requires some full group co-ordination and a fair lot of effort from your healers to complete it.  There are two circles (to the left and right of the boss as you enter the room), the left increases health recovery and the right increases damage done for anyone standing inside (including the enemies). These are generated by the statues on either side and will be destroyed one by one during the fight.
+        <p>Despite being one of the oldest, this is still one of the hardest hitting bosses in the game.  The Warrior puts a lot of pressure on the tank, requires some full group co-ordination and a fair lot of effort from your healers to complete it.  There are two circles (to the left and right of the boss as you enter the room), the left increases health recovery and the right increases damage done for anyone standing inside (including the enemies). These are generated by the statues on either side and will be destroyed one by one during the fight.</p>
         <ul>
           <li><b>Channeled Swipes</b> - A series of heavy slashes that each do a lot of damage to whoever has aggro and to anyone standing close enough in front of him.</li>
           <li><b>Shield Throw</b> - A random group member will be targeted, indicated by a large rectangular AoE field, and the boss will throw his shield like a boomerang in that direction. It will hit for a lot of damage and knock down anyone not blocking; it hits on the way out and on the return.</li>
