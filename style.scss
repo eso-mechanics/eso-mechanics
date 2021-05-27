@@ -482,6 +482,7 @@ input {
   }
   h2 {
     text-align: center;
+    color: $grayGreen;
   }
   span img {
     float: right;
@@ -489,6 +490,9 @@ input {
     height: 330px;
     padding: 20px;
     border-radius: 8%;
+  }
+  b {
+    color: $grayGreen;
   }
 }
 
