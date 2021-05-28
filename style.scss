@@ -394,7 +394,7 @@ input.node {
 		right: calc(#{-$parentWidth / $numDots} + #{$dotWidth / 2});
   }
 	&:checked {
-		background-color: $active;
+		background-color: $currentActive;
 		&::before {
 			background-color: $active;
     }
