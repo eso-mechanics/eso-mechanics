@@ -49,7 +49,7 @@ permalink: /trials/hel-ra-citadel/
           <input type="checkbox" class="spoiler-button">
           <div class="spoiler-head">Strategies</div>
           <div class="spoiler-body">
-            <p>Typically, the group stacks at the start of the bridge, mounts up and tries to move as one unit all the way to the last pillar on your left where you can line of sight the enemies.  You can choose to handle these in waves on foot, having your tank group them up and you DPS burn them down.  The advantage of running behind the pillar is that the mobs will gather themselves and is altogether a faster approach.  You will have enemies on both sides of the pillar (facing back towards the bridge); your tank/s should be letting the melee enemies come to the group and pulling in the archers allowing your DPS and healers to focus everything in on place: where you are stacked.</p>
+            <p>Typically, the group stacks at the start of the bridge, mounts up and tries to move as one unit all the way to the last pillar on your left where you can line of sight the enemies.  You can choose to handle these wave by wave, having your tank group them up and you DPS burn them down if you want.  The advantage of running behind the pillar is that the mobs will gather themselves and is altogether a faster approach.  You will have enemies on both sides of the pillar (facing back towards the bridge); your tank/s should be letting the melee enemies come to the group and pulling in the archers allowing your DPS and healers to focus everything in on place: where you are stacked.</p>
           </div>
         </div>
       </div>
