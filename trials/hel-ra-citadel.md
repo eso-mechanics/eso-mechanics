@@ -5,6 +5,10 @@ permalink: /trials/hel-ra-citadel/
 ---
 <div class="flex-parent">
   <div class="input-flex-container">
+    <input type="radio" class="first node" name="timeline-dot" data-description="bridge" checked>
+    <div class="dot-info above" data-description="bridge">
+      <span class="label">The Bridge</span>
+    </div>
     <input type="radio" class="first node" name="timeline-dot" data-description="notable-enemies" checked>
     <div class="dot-info above" data-description="notable-enemies">
       <span class="label">Notable Enemies</span>
@@ -38,19 +42,30 @@ permalink: /trials/hel-ra-citadel/
       <span class="label">Final Boss</span>
     </div>
     <div id="timeline-descriptions-wrapper">
+      <div class="section" data-description="bridge">
+        <h2>The Bridge (and first trash packs)</h2>
+        <p>After crossing the bridge you will be met with multiple waves of smaller enemies.  None of these are significant but there are a lot of them to deal with before moving on.</p>
+        <div class="spoiler">
+          <input type="checkbox" class="spoiler-button">
+          <div class="spoiler-head">Strategies</div>
+          <div class="spoiler-body">
+            <p>Typically, the group stacks at the start of the bridge, mounts up and tries to move as one unit all the way to the last pillar on your left where you can line of sight the enemies.  You can choose to handle these in waves on foot, having your tank group them up and you DPS burn them down.  The advantage of running behind the pillar is that the mobs will gather themselves and is altogether a faster approach.  You will have enemies on both sides of the pillar (facing back towards the bridge); your tank/s should be letting the melee enemies come to the group and pulling in the archers allowing your DPS and healers to focus everything in on place: where you are stackd.</p>
+          </div>
+        </div>
+      </div>
       <div class="section" data-description="notable-enemies">
         <h2>Notable Enemies</h2>
         <ul>
           <li><b>Destroyers</b> - Melee enemies with two-handed weapons that carry banners (an indicator they are "elite" enemies).  They do fair damage, which can cleave, and have a frontal cone attack which knocks group members down.</li>
           <li><b>Flame-Shapers</b> - Ranged, bannered enemies equipped with an inferno staff.  These will perform an interruptible channeled attack which shoots fireballs at multiple members of the group.</li>
           <li><b>War Priests</b> - Barely notable but the last of the bannered enemies here.  They are melee enemies with a snare and knockdown ability but do little damage.</li>
-          <li><b>Gargoyles</b> - Melee enemies who hit pretty damn hard.  They have a large frontal cone attack (breath/shout) which will turn anyone caught in it to stone and an AoE ground slam attack which will do a lot of damage to anyone inside the circle around them.</li>
         </ul>
         <div class="spoiler">
           <input type="checkbox" class="spoiler-button">
           <div class="spoiler-head">Strategies</div>
           <div class="spoiler-body">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse non venenatis sem. Integer bibendum blandit varius. Maecenas rhoncus dignissim vulputate. Vivamus et libero consectetur, tempor enim non, sagittis erat. Nullam maximus neque ligula, in porta quam suscipit non. Nam maximus ut ante eu malesuada. Pellentesque auctor quis augue quis eleifend. Donec tincidunt porta ante ac consequat.</p>
+            <p>Your tank/s need to taunt and turn the Destroyers and War Priests away from the group.  None of the bannered enemies can be pulled but all but the Flame-Shapers are melee so can be easily grouped with a ranged taunt without turning them to face the group.  The Flame-Shapers should be interrupted as a priority, the tank will have plenty to deal with here so the group should spread out a little and be ready to interrupt.</p>
+            <p><b>Tip:</b> After the first wave of enemies you are faced with five Flame-Shapers.  If you get one tank to taunt all five and run along the wall left of the gate there is a hole in the floor that can be used to line of sight the enemies.  While the tank is doing this, other group members will need to make sure the enemies are interrupted but they will all move to a nice stack if done correctly</p>
           </div>
         </div>
       </div>
@@ -70,14 +85,16 @@ permalink: /trials/hel-ra-citadel/
           <input type="checkbox" class="spoiler-button">
           <div class="spoiler-head">Strategies</div>
           <div class="spoiler-body">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse non venenatis sem. Integer bibendum blandit varius. Maecenas rhoncus dignissim vulputate. Vivamus et libero consectetur, tempor enim non, sagittis erat. Nullam maximus neque ligula, in porta quam suscipit non. Nam maximus ut ante eu malesuada. Pellentesque auctor quis augue quis eleifend. Donec tincidunt porta ante ac consequat.</p>
+            <p>When the fight starts the tank needs to taunt, turn the boss away from the group and be ready to block the heavy attack.  The group can spread out a little (just a few steps, not so far away that your healers can't reach you!) from each other to avoid stacking multiple gusts in one place.  If you have enough ranged DPS then it is advised to stay more directly behind the boss rather than to the left or right to avoid additional damage from the Six Sword Assault.  All of this damage can be healed through, however, but stacking multiple effects can make it more stressful.</p>
+            <p>The mechanic that causes issues is the Sword Swirl at 35%.  When the boss is approaching this health percentage take a few steps back to ensure you do not get hit by it.  Most tanks will be able to block and be healed through the damage (if not, you can kite the boss around during this attack) but other group members will not survive.  Once this attack has started you will see more of them if the fight lasts a while so try to maintain a ranged position.  If you are melee be ready to get out of the circle as quickly as possible</p>
           </div>
         </div>
       </div>
       <div class="section" data-description="left">
         <h2>Left Route</h2>
-        <p>Your progress here is controlled by the other group as they will have access to levers which open the gates blocking your route.  You will meet mostly the same enemies here with one addition (see below) but many of them will keep respawning within an area until the other group have finished their section and unlocked the gate for you to move on.</p>
+        <p>Your progress here is controlled by the other group as they will have access to levers which open the gates blocking your route.  You will meet mostly the same enemies here with two additions (see below) but many of them will keep respawning within an area until the other group have finished their section and unlocked the gate for you to move on.</p>
         <ul>
+          <li><b>Gargoyles</b> - Melee enemies who hit pretty damn hard.  They have a large frontal cone attack (breath/shout) which will turn anyone caught in it to stone and an AoE ground slam attack which will do a lot of damage to anyone inside the circle around them.</li>
           <li><b>Welwa</b> - An introduction to the enemies you'll see when facing the boss on this side.  They perform a rear kick attack which does moderate damage in a cone behind them.</li>
         </ul>
         <div class="spoiler">
@@ -107,7 +124,10 @@ permalink: /trials/hel-ra-citadel/
       </div>
       <div class="section" data-description="right">
         <h2>Right Route</h2>
-        <p>There are no new enemies for you to face on this side while you make your way up and along the outer walls.  After each pack of enemies is defeated you will have access to a lever, which will open a gate on the other side allowing the other group to proceed further.  Destroying the catapults as you go prevents additional damage being rained down on your team-mates.</p>
+        <p>There is only one new enemy (see below) for you to face on this side while you make your way up and along the outer walls.  After each pack of enemies is defeated you will have access to a lever, which will open a gate on the other side allowing the other group to proceed further.  Destroying the catapults as you go prevents additional damage being rained down on your team-mates.</p>
+        <ul>
+          <li><b>Gargoyles</b> - Melee enemies who hit pretty damn hard.  They have a large frontal cone attack (breath/shout) which will turn anyone caught in it to stone and an AoE ground slam attack which will do a lot of damage to anyone inside the circle around them.</li>
+        </ul>
         <div class="spoiler">
           <input type="checkbox" class="spoiler-button">
           <div class="spoiler-head">Strategies</div>
