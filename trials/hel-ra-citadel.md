@@ -155,7 +155,7 @@ permalink: /trials/hel-ra-citadel/
           <li><b>Leap</b> - The boss leaps to any group member that is far enough away from him and does a lot of damage on impact.  This mechanic only happens if someone is standing far away, however.  He will sometimes leap to the statues when he destroys them or leap back from the statues once they have been destroyed.</li>
           <li><b>Cleave</b> - A front-facing, conal, cleave attack which does a lot of damage.  Towards execute this will be done after each shield throw and typically will be in the direction that he threw his shield.</li>
           <li><b>Shehai Storm</b> - The boss points his sword upwards and channels an attack that hits everyone in the group.  Each group member will get a pulsing red circle under their feet that moves with them and does damage with every pulse.  Overlapping with another group members circle will cause you to take damage from their AoE as well.</li>
-          <li><b>Adds</b> - Destroyers and Flame-shapers are summoned at different times during the fight.  These act exactly as described previously and will be destroyed at 35% when the boss triggers the initial explosion of his Shehai Storm mechanic.</li>
+          <li><b>Adds</b> - Destroyers and Flame-shapers are summoned at different times during the fight.  These act exactly as described previously and will be destroyed at 35% when the boss triggers the initial explosion of his Shehai Storm mechanic (Shehai Shockwave).</li>
         </ul>
         <h2>Hardmode</h2>
         <p>As with almost every other hardmode in the game, expect the boss to have more health and some of the above attacks to do more damage.</p>
