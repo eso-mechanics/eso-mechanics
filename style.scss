@@ -467,7 +467,7 @@ input.node {
 }
 
 // magic shenanigans
-$hrc_descriptions: 'notable-enemies', 'boss-1', 'left', 'boss-2-1', 'right', 'boss-2-2', 'horn', 'boss-3';
+$hrc_descriptions: 'bridge', 'notable-enemies', 'boss-1', 'left', 'boss-2-1', 'right', 'boss-2-2', 'horn', 'boss-3';
 
 @each $desc in $hrc_descriptions {
 	input[data-description="#{$desc}"]:checked ~ #timeline-descriptions-wrapper {
