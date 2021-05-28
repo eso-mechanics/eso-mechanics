@@ -57,7 +57,7 @@ permalink: /trials/hel-ra-citadel/
       <div class="section" data-description="notable-enemies">
         <h2>Outside the Gates</h2>
         <ul>
-          <li><b>Destroyers</b> - Melee enemies with two-handed weapons that carry banners (an indicator they are "elite" enemies).  They do fair damage, which can cleave, and have a frontal cone attack which knocks group members down.</li>
+          <li><b>Destroyers</b> - Melee enemies with two-handed weapons that carry banners (an indicating that they are "elite" enemies).  They do fair damage, which can cleave, and have a frontal cone attack which knocks group members down.</li>
           <li><b>Flame-Shapers</b> - Ranged, bannered enemies equipped with an inferno staff.  These will perform an interruptible channeled attack which shoots fireballs at multiple members of the group.</li>
           <li><b>War Priests</b> - Barely notable but the last of the bannered enemies here.  They are melee enemies with a snare and knockdown ability but do little damage.</li>
         </ul>
