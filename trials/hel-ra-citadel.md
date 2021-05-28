@@ -65,8 +65,8 @@ permalink: /trials/hel-ra-citadel/
           <input type="checkbox" class="spoiler-button">
           <div class="spoiler-head">Strategies</div>
           <div class="spoiler-body">
-            <p>Your tank/s need to taunt and turn the Destroyers and War Priests away from the group.  None of the bannered enemies can be pulled but all but the Flame-Shapers are melee so can be easily grouped with a ranged taunt without turning them to face the group.  The Flame-Shapers should be interrupted as a priority, the tank will have plenty to deal with here so the group should spread out a little and be ready to interrupt.</p>
-            <p><b>Tip:</b> After the first wave of enemies you are faced with five Flame-Shapers.  If you get one tank to taunt all five and run along the wall left of the gate there is a hole in the floor that can be used to line of sight the enemies.  While the tank is doing this, other group members will need to make sure the enemies are interrupted but they will all move to a nice stack if done correctly</p>
+            <p>Your tank/s need to taunt and turn the Destroyers and War Priests away from the group.  None of the bannered enemies can be pulled but all of the important enemies in the first pack are melee so can be easily grouped and managed by using a ranged taunt as you run in.  The second wave is a group of five Flame-Shapers who should be interrupted as a priority, the tank will have plenty to deal with here so the group should spread themselves among the enemies and be ready to interrupt.</p>
+            <p><b>Tip:</b> If you get one tank to taunt all five of the Flame-Shapers and run along the wall left of the gate there is a hole in the floor that can be used to line of sight the enemies.  While the tank is doing this, other group members will need to make sure the enemies are interrupted but they will all move into a nice stack if done correctly.</p>
           </div>
         </div>
       </div>
