@@ -7,9 +7,9 @@ permalink: /trials/hel-ra-citadel/
   <div class="input-flex-container">
     <input type="radio" class="first node" name="timeline-dot" data-description="bridge" checked>
     <div class="dot-info above" data-description="bridge">
-      <span class="label">The Bridge</span>
+      <span class="label">Bridge</span>
     </div>
-    <input type="radio" class="first node" name="timeline-dot" data-description="notable-enemies" checked>
+    <input type="radio" class="first node" name="timeline-dot" data-description="notable-enemies">
     <div class="dot-info above" data-description="notable-enemies">
       <span class="label">Notable Enemies</span>
     </div>
