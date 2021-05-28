@@ -9,7 +9,7 @@ permalink: /trials/hel-ra-citadel/
     <div class="dot-info above" data-description="bridge">
       <span class="label">Bridge</span>
     </div>
-    <input type="radio" class="first node" name="timeline-dot" data-description="notable-enemies">
+    <input type="radio" class="node" name="timeline-dot" data-description="notable-enemies">
     <div class="dot-info below" data-description="notable-enemies">
       <span class="label">Outside the Gates</span>
     </div>
@@ -22,11 +22,11 @@ permalink: /trials/hel-ra-citadel/
       <span class="label">Left Route</span>
     </div>
     <input type="radio" class="node" name="timeline-dot" data-description="boss-2-1">
-    <div class="dot-info below" data-description="boss-2-1">
+    <div class="dot-info above" data-description="boss-2-1">
       <span class="label">Boss Two (left)</span>
     </div>
     <input type="radio" class="node" name="timeline-dot" data-description="right">
-    <div class="dot-info above" data-description="right">
+    <div class="dot-info below" data-description="right">
       <span class="label">Right Route</span>
     </div>
     <input type="radio" class="node" name="timeline-dot" data-description="boss-2-2">
