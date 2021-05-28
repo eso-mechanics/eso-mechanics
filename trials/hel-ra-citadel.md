@@ -11,7 +11,7 @@ permalink: /trials/hel-ra-citadel/
     </div>
     <input type="radio" class="node" name="timeline-dot" data-description="boss-1">
     <div class="dot-info below" data-description="boss-1">
-      <span class="label">Boss 1</span>
+      <span class="label">Boss One</span>
     </div>
     <input type="radio" class="node" name="timeline-dot" data-description="left">
     <div class="dot-info above" data-description="left">
@@ -19,7 +19,7 @@ permalink: /trials/hel-ra-citadel/
     </div>
     <input type="radio" class="node" name="timeline-dot" data-description="boss-2-1">
     <div class="dot-info above" data-description="boss-2-1">
-      <span class="label">Boss 2 (left)</span>
+      <span class="label">Boss Two (left)</span>
     </div>
     <input type="radio" class="node" name="timeline-dot" data-description="right">
     <div class="dot-info below" data-description="right">
@@ -27,7 +27,7 @@ permalink: /trials/hel-ra-citadel/
     </div>
     <input type="radio" class="node" name="timeline-dot" data-description="boss-2-2">
     <div class="dot-info below" data-description="boss-2-2">
-      <span class="label">Boss 2 (right)</span>
+      <span class="label">Boss Two (right)</span>
     </div>
     <input type="radio" class="node" name="timeline-dot" data-description="horn">
     <div class="dot-info above" data-description="horn">
@@ -55,9 +55,9 @@ permalink: /trials/hel-ra-citadel/
         </div>
       </div>
       <div class="section" data-description="boss-1">
-        <h2>Boss 1 - Ra Kotu</h2>
-        <img src="{{ site.baseurl }}/images/trials/hrc/ra-kotu.jpg" alt="Boss 1 - Ra Kotu" />
-        <p>A huge air atronach that spawns in with 3 additional enemies and is typically pulled immediately.</p>
+        <h2>Boss One - Ra Kotu</h2>
+        <img src="{{ site.baseurl }}/images/trials/hrc/ra-kotu.jpg" alt="Boss One - Ra Kotu" />
+        <p>A huge air atronach that spawns in with three additional enemies and is typically pulled immediately.</p>
         <p>His notable attacks are as follows:</p>
         <ul>
           <li><b>Gusts of wind</b> - Small red AoEs that will lock on to and follow a single group member.  The circle does a small amount of damage to anyone inside and can quickly switch targets.  A single group member can get targeted by multiple gusts at a time.</li>
@@ -65,7 +65,7 @@ permalink: /trials/hel-ra-citadel/
           <li><b>Six Sword Assault</b> - The boss throws out four large AoEs in diagonal directions (his "corners") that return the same way and deal damage to anyone in their path.</li>
           <li><b>Sword Swirl</b> - At 35% (and at regular intervals thereafter if the fight goes on for a while) the boss will form a large AoE around him and continuously spin with his swords dealing large amounts of damage to any group member caught inside.</li>
         </ul>
-        <p>After defeating Ra Kotu the gate he came out of will be accessible. When 6 group members go inside the gate will close and the other 6 are locked out.  To the right is another door that will now be open and the remaining group members can proceed through here. You may wish to organise your group before proceeding.</p>
+        <p>After defeating Ra Kotu the gate he came out of will be accessible. When six group members go inside the gate will close and the other six are locked out.  To the right is another door that will now be open and the remaining group members can proceed through here. You may wish to organise your group before proceeding.</p>
         <div class="spoiler">
           <input type="checkbox" class="spoiler-button">
           <div class="spoiler-head">Strategies</div>
@@ -89,8 +89,8 @@ permalink: /trials/hel-ra-citadel/
         </div>
       </div>
       <div class="section" data-description="boss-2-1">
-        <h2>Boss 2 - Yokeda Rok'dun</h2>
-        <img src="{{ site.baseurl }}/images/trials/hrc/rokdun.jpg" alt="Boss 2 - Yokeda Rok'dun" />
+        <h2>Boss Two - Yokeda Rok'dun</h2>
+        <img src="{{ site.baseurl }}/images/trials/hrc/rokdun.jpg" alt="Boss Two - Yokeda Rok'dun" />
         <p>An archer that specialises in ranged attacks and controls welwa companions who aid him in battle.</p>
         <ul>
           <li><b>Release Flame</b> - A flame arrow will be shot towards a group member which hits the ground and splits into four flame trails, spreading out in different directions from the point of impact.</li>
@@ -117,8 +117,8 @@ permalink: /trials/hel-ra-citadel/
         </div>
       </div>
       <div class="section" data-description="boss-2-2">
-        <h2>Boss 2 - Yokeda Kai</h2>
-        <img src="{{ site.baseurl }}/images/trials/hrc/kai.jpg" alt="Boss 2 - Yokeda Kai" />
+        <h2>Boss Two - Yokeda Kai</h2>
+        <img src="{{ site.baseurl }}/images/trials/hrc/kai.jpg" alt="Boss Two - Yokeda Kai" />
         <p>A fire mage (a superior flame-shaper) that specialises in all things flammable.</p>
         <ul>
           <li><b>Impulse</b> - An AoE ability that forms beneath the bosses feet and does a lot of damage to anyone caught inside when it reaches its full size.</li>
@@ -146,8 +146,8 @@ permalink: /trials/hel-ra-citadel/
         </div>
       </div>
       <div class="section" data-description="boss-3">
-        <h2>Boss 3 - The Warrior</h2>
-        <img src="{{ site.baseurl }}/images/trials/hrc/warrior.jpg" alt="Boss 3 - The Warrior" />
+        <h2>Boss Three - The Warrior</h2>
+        <img src="{{ site.baseurl }}/images/trials/hrc/warrior.jpg" alt="Boss Three - The Warrior" />
         <p>Despite being one of the oldest, this is still one of the hardest hitting bosses in the game.  The Warrior puts a lot of pressure on the tank, requires full group co-ordination and a fair bit of effort from your healers to complete it.  There are two large circles, to the left and right of the boss as you enter the room. The left increases health recovery and the right increases damage done for anyone standing inside (including the enemies). These are generated by the statues on their respective side which will be destroyed one by one during the fight (left at 85%, right at 70%).  The boss will also destroy any chests around the room at 35% when he does his Shehai Storm mechanic so be sure to loot these before you start the fight!</p>
         <ul>
           <li><b>Channeled Swipes</b> - A series of heavy slashes that each do a lot of damage to whoever has aggro and to anyone standing close enough in front of him.</li>
@@ -158,10 +158,10 @@ permalink: /trials/hel-ra-citadel/
           <li><b>Adds</b> - Destroyers and Flame-shapers are summoned at different times during the fight.  These act exactly as described previously and will be destroyed at 35% when the boss triggers the initial explosion of his Shehai Storm mechanic (Shehai Shockwave).</li>
         </ul>
         <h2>Hardmode</h2>
-        <p>As with almost every other hardmode in the game, expect the boss to have more health and some of the above attacks to do more damage.</p>
+        <p>This is activated by destroying all three of the statues found outside the door to the final boss room and cannot be undone (as with later content), once activated you will need to kill the boss on hardmode or die trying.  As with almost every other hardmode in the game, expect the boss to have more health and some of the above attacks to do more damage.</p>
         <ul>
           <li><b>Stone Form</b> - A random group member will become encased in stone and unable to use any abilities.  While encased they will receive a unique synergy "Destructive Outbreak" which releases them from the stone but also does huge damage in a large circle around them.</li>
-          <li><b>Gargoyles</b> - In the area around the boss there are 12 statues, each containing a gargoyle.  The statues will start to come to life during the fight giving your group additional enemies to deal with.  They work exactly the same as described previously.</li>
+          <li><b>Gargoyles</b> - In the area around the boss there are twelve statues, each containing a gargoyle.  The statues will start to come to life during the fight giving your group additional enemies to deal with.  They work exactly the same as described previously.</li>
         </ul>
         <div class="spoiler">
           <input type="checkbox" class="spoiler-button">
