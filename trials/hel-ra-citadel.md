@@ -10,35 +10,35 @@ permalink: /trials/hel-ra-citadel/
       <span class="label">Bridge</span>
     </div>
     <input type="radio" class="first node" name="timeline-dot" data-description="notable-enemies">
-    <div class="dot-info above" data-description="notable-enemies">
-      <span class="label">Notable Enemies</span>
+    <div class="dot-info below" data-description="notable-enemies">
+      <span class="label">Outside the Gates</span>
     </div>
     <input type="radio" class="node" name="timeline-dot" data-description="boss-1">
-    <div class="dot-info below" data-description="boss-1">
+    <div class="dot-info above" data-description="boss-1">
       <span class="label">Boss One</span>
     </div>
     <input type="radio" class="node" name="timeline-dot" data-description="left">
-    <div class="dot-info above" data-description="left">
+    <div class="dot-info below" data-description="left">
       <span class="label">Left Route</span>
     </div>
     <input type="radio" class="node" name="timeline-dot" data-description="boss-2-1">
-    <div class="dot-info above" data-description="boss-2-1">
+    <div class="dot-info below" data-description="boss-2-1">
       <span class="label">Boss Two (left)</span>
     </div>
     <input type="radio" class="node" name="timeline-dot" data-description="right">
-    <div class="dot-info below" data-description="right">
+    <div class="dot-info above" data-description="right">
       <span class="label">Right Route</span>
     </div>
     <input type="radio" class="node" name="timeline-dot" data-description="boss-2-2">
-    <div class="dot-info below" data-description="boss-2-2">
+    <div class="dot-info above" data-description="boss-2-2">
       <span class="label">Boss Two (right)</span>
     </div>
     <input type="radio" class="node" name="timeline-dot" data-description="horn">
-    <div class="dot-info above" data-description="horn">
+    <div class="dot-info below" data-description="horn">
       <span class="label">Citadel Entrance</span>
     </div>
     <input type="radio" class="last node" name="timeline-dot" data-description="boss-3">
-    <div class="dot-info below" data-description="boss-3">
+    <div class="dot-info above" data-description="boss-3">
       <span class="label">Final Boss</span>
     </div>
     <div id="timeline-descriptions-wrapper">
@@ -49,12 +49,12 @@ permalink: /trials/hel-ra-citadel/
           <input type="checkbox" class="spoiler-button">
           <div class="spoiler-head">Strategies</div>
           <div class="spoiler-body">
-            <p>Typically, the group stacks at the start of the bridge, mounts up and tries to move as one unit all the way to the last pillar on your left where you can line of sight the enemies.  You can choose to handle these in waves on foot, having your tank group them up and you DPS burn them down.  The advantage of running behind the pillar is that the mobs will gather themselves and is altogether a faster approach.  You will have enemies on both sides of the pillar (facing back towards the bridge); your tank/s should be letting the melee enemies come to the group and pulling in the archers allowing your DPS and healers to focus everything in on place: where you are stackd.</p>
+            <p>Typically, the group stacks at the start of the bridge, mounts up and tries to move as one unit all the way to the last pillar on your left where you can line of sight the enemies.  You can choose to handle these in waves on foot, having your tank group them up and you DPS burn them down.  The advantage of running behind the pillar is that the mobs will gather themselves and is altogether a faster approach.  You will have enemies on both sides of the pillar (facing back towards the bridge); your tank/s should be letting the melee enemies come to the group and pulling in the archers allowing your DPS and healers to focus everything in on place: where you are stacked.</p>
           </div>
         </div>
       </div>
       <div class="section" data-description="notable-enemies">
-        <h2>Notable Enemies</h2>
+        <h2>Outside the Gates</h2>
         <ul>
           <li><b>Destroyers</b> - Melee enemies with two-handed weapons that carry banners (an indicator they are "elite" enemies).  They do fair damage, which can cleave, and have a frontal cone attack which knocks group members down.</li>
           <li><b>Flame-Shapers</b> - Ranged, bannered enemies equipped with an inferno staff.  These will perform an interruptible channeled attack which shoots fireballs at multiple members of the group.</li>
