@@ -663,6 +663,12 @@ $hrc_descriptions: 'bridge', 'notable-enemies', 'boss-1', 'left', 'boss-2-1', 'r
   box-shadow: 0 0 0 1px #0001;
 }
 .spoiler .key {
+  li {
+    position: relative;
+  }
+  li::marker {
+    font-size: 2rem;
+  }
   .list-yellow::marker {
     color: #fafa03;
   }
@@ -681,6 +687,10 @@ $hrc_descriptions: 'bridge', 'notable-enemies', 'boss-1', 'left', 'boss-2-1', 'r
   .list-red-arrow::marker {
     color: #fb2600;
     content: " \2193";
+  }
+  li span {
+    position: relative;
+    top: -0.2rem;
   }
 }
 
