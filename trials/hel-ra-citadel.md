@@ -221,7 +221,7 @@ permalink: /trials/hel-ra-citadel/
                   <ul class="clearfix key">
                     <li class="list-yellow"><span>Boss</span></li>
                     <li class="list-pink"><span>Main Tank</span></li>
-                    <li class="list-green"><span>Off Tank</span></span></li>
+                    <li class="list-green"><span>Off Tank</span></li>
                     <li class="list-orange"><span>Group</span></li>
                     <li class="list-blue"><span>Gargoyle</span></li>
                     <li class="list-red-arrow"><span>Shield Throw Direction</span></li>
