@@ -555,7 +555,7 @@ $hrc_descriptions: 'bridge', 'notable-enemies', 'boss-1', 'left', 'boss-2-1', 'r
 	#timeline-descriptions-wrapper {
 		margin-top: 0;
 		margin-left: 0;
-    div img {
+    div > img {
       display: none;
     }
   }
@@ -692,6 +692,7 @@ $hrc_descriptions: 'bridge', 'notable-enemies', 'boss-1', 'left', 'boss-2-1', 'r
     position: relative;
     top: -0.2rem;
   }
+  padding: 8%;
 }
 
 /* Footer */
