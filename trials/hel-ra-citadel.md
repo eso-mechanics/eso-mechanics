@@ -43,13 +43,13 @@ permalink: /trials/hel-ra-citadel/
     </div>
     <div id="timeline-descriptions-wrapper">
       <div class="section" data-description="bridge">
-        <h2>The Bridge (and first trash packs)</h2>
+        <h2>The Bridge (and first trash pack)</h2>
         <p>After crossing the bridge you will be met with multiple waves of smaller enemies.  None of these are significant but there are a lot of them to deal with before moving on.</p>
         <div class="spoiler">
           <input type="checkbox" class="spoiler-button">
           <div class="spoiler-head">Strategies</div>
           <div class="spoiler-body">
-            <p>Typically, the group stacks at the start of the bridge, mounts up and tries to move as one unit all the way to the last pillar on your left where you can line of sight the enemies.  You can choose to handle these wave by wave, having your tank group them up and your DPS burn them down if you want, however.</p>
+            <p>Typically, the group stacks at the start of the bridge, mounts up and tries to move as one unit all the way to the last pillar on your left where you can line of sight the enemies.  You can choose to handle these wave by wave, however, having your tank group them up and your DPS burn them down if you want.</p>
             <p>The advantage of running behind the pillar is that the melee mobs will end up stacking themselves on the group so everyone knows where to drop their damage and heals.  You will have enemies on both sides of the pillar (facing back towards the bridge) so your tank/s should be pulling in the archers.  This method is usually quicker but if someone gets left behind and focussed they may struggle to survive.</p>
           </div>
         </div>
@@ -65,8 +65,8 @@ permalink: /trials/hel-ra-citadel/
           <input type="checkbox" class="spoiler-button">
           <div class="spoiler-head">Strategies</div>
           <div class="spoiler-body">
-            <p>Your tank/s need to taunt and turn the Destroyers and War Priests away from the group.  None of the bannered enemies can be pulled but all of the important enemies in the first pack are melee so can be easily grouped and managed by using a ranged taunt as you run in.  The second wave is a group of five Flame-Shapers who should be interrupted as a priority, the tank will have plenty to deal with here so the group should spread themselves among the enemies and be ready to interrupt.</p>
-            <p><b>Tip:</b> If you get one tank to taunt all five of the Flame-Shapers and run along the wall left of the gate there is a hole in the floor that can be used to line of sight the enemies.  While the tank is doing this, other group members will need to make sure the enemies are interrupted but they will all move into a nice stack if done correctly.</p>
+            <p>Your tank/s need to taunt and turn the Destroyers and War Priests away from the group.  None of the bannered enemies can be pulled but all of the important enemies in the first pack are melee so can be easily grouped and managed.  The second wave is a group of five Flame-Shapers who should be interrupted as a priority, the tank will have plenty to deal with here so the group should spread themselves among the enemies and be ready to interrupt.</p>
+            <p><b>Tip:</b> If your tank/s to taunt the Flame-Shapers and run along the wall left of the gate there is a hole in the floor that can be used to line of sight the enemies.  While the tank is doing this, other group members will need to make sure the enemies are interrupted but they will all move into a nice stack if done correctly.</p>
           </div>
         </div>
       </div>
@@ -86,23 +86,27 @@ permalink: /trials/hel-ra-citadel/
           <input type="checkbox" class="spoiler-button">
           <div class="spoiler-head">Strategies</div>
           <div class="spoiler-body">
-            <p>When the fight starts the tank needs to taunt and turn the boss away from the group and be ready to block the heavy attack.  The group can spread out a little from each other to avoid stacking multiple gusts in one place (just a few steps, not so far away that your healers can't reach you).  If you have enough ranged DPS then you can position yourselves more directly behind the boss rather than to the left or right to avoid additional damage from the Six Sword Assault.  All of this damage can be healed through, however, but stacking multiple effects can make it more stressful.</p>
-            <p>The mechanic that causes issues is the Sword Swirl at 35%.  When the boss is approaching this health percentage take a few steps back to ensure you do not get hit by it.  Most tanks will be able to block and be healed through the damage (if not, you can kite the boss around during this attack) but other group members will not survive many hits from this attack.  Once this attack has started it will repeat at regular intervals until the boss is dead, if possible try to maintain a ranged position.  If you are melee be ready to get out of the circle as quickly as possible.</p>
+            <p>When the fight starts the tank needs to taunt and turn the boss away from the group and be ready to block the heavy attack.  The group can spread out a little from each other to avoid stacking multiple gusts in one place (just a few steps, not so far away that your healers can't reach you).  If you have enough ranged DPS then you can position yourselves more directly behind the boss rather than to the left or right to avoid additional damage from the Six Sword Assault.  All of this damage can be healed through but stacking multiple effects can make it unnecessarily stressful.</p>
+            <p>The mechanic that causes issues is the Sword Swirl at 35%.  When the boss is approaching this health percentage take a few steps back to ensure you do not get hit by it.  Most tanks will be able to block and heal/be healed through the damage (if not, you can kite the boss around during this attack) but other group members will not survive many hits from this.  Once this attack has started it will repeat at regular intervals until the boss is dead. Try to maintain enough distance to ensure you are not going to get caught by the next one (the bosses hit box is huge so you can melee attack outside of the AoE).</p>
+            <p>Once the boss is dead you can split your group.  If you only have one tank they should stay on the left but ideally you will have one tank, one healer and four damage dealers in each group.</p>
           </div>
         </div>
       </div>
       <div class="section" data-description="left">
         <h2>Left Route</h2>
-        <p>Your progress here is controlled by the other group as they will have access to levers which open the gates blocking your route.  You will meet mostly the same enemies here with two additions (see below) but many of them will keep respawning within an area until the other group have finished their section and unlocked the gate for you to move on.</p>
+        <p>Your progress here is controlled by the other group as they will have access to levers which open the gates blocking your route.  You will meet mostly the same enemies here with two additions (see below) but many of them will keep respawning within an area until the other group have finished and unlocked the gate for you to move on.</p>
         <ul>
           <li><b>Gargoyles</b> - Melee enemies who hit pretty damn hard.  They have a large frontal cone attack (breath/shout) which will turn anyone caught in it to stone and an AoE ground slam attack which will do a lot of damage to anyone inside the circle around them.</li>
-          <li><b>Welwa</b> - An introduction to the enemies you'll see when facing the boss on this side.  They perform a rear kick attack which does moderate damage in a cone behind them.</li>
+          <li><b>Armored Welwa</b> - An introduction to the enemies you'll see when facing the boss on this side.  They perform a rear kick attack which does moderate damage in a cone behind them.</li>
         </ul>
         <div class="spoiler">
           <input type="checkbox" class="spoiler-button">
           <div class="spoiler-head">Strategies</div>
           <div class="spoiler-body">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse non venenatis sem. Integer bibendum blandit varius. Maecenas rhoncus dignissim vulputate. Vivamus et libero consectetur, tempor enim non, sagittis erat. Nullam maximus neque ligula, in porta quam suscipit non. Nam maximus ut ante eu malesuada. Pellentesque auctor quis augue quis eleifend. Donec tincidunt porta ante ac consequat.</p>
+            <p>When entering the first room, enemies will start to jump in from the left after a short time. You will have waves of smaller enemies spawning until the right group has pulled a lever to open the next gate for you; proceeding to the next room stops anymore spawns in the previous.  The constant AoEs falling on the group from this point onwards is due to the catapults on the outer walls that your other group should deal with as they proceed.</p>
+            <p>Let the tank go on ahead to pick up Gargoyles which should be promptly positioned and turned away from the group.  Anyone caught in the cone and turned to stone should break free and after the second cone attack beware of the ground slam attack (damage dealers and healer take a couple of steps backwards).</p>
+            <p>The third area is the boss room but you have three enemy waves to deal with before he spawns.  The first two consist of all melee enemies so you can stay central, allow your tank to taunt them, turn them away from the group and burn them down together. Welwas pose no real threat but it is better if the group does not stand directly behind them to avoid their rear kick mechanic.</p>
+            <p>The last wave before the boss consists of two Flame-Shapers (at opposite sides of the room) and a pack of Welwas.  Your tank should try to taunt the Flame-Shaper furthest from the entrance and run back towards the entrance (up the stairs) to stack them as close as possible.  Again, other group members should watch out for interrupts in case they channel their hard-hitting ability while moving.  Welwas can be taunted and will run in as they are melee but help your tank out by moving close to the stack if you have any attacking you.</p>
           </div>
         </div>
       </div>
@@ -112,14 +116,16 @@ permalink: /trials/hel-ra-citadel/
         <p>An archer that specialises in ranged attacks and controls welwa companions who aid him in battle.</p>
         <ul>
           <li><b>Release Flame</b> - A flame arrow will be shot towards a group member which hits the ground and splits into four flame trails, spreading out in different directions from the point of impact.</li>
-          <li><b>Teleport</b> - The boss will "jump" away and reappear elsewhere in the arena, looking for the ranged advantage.</li>
-          <li><b>Armored Welwas</b> - A more fierce version of the welwas you faced previously.  They hit a bit harder and will be summoned continuously throughout the fight (if the fight lasts a long time you will have many of these to deal with).  After being alive for some time these will enrage, growing larger and hit a lot harder.  Any welwas that die during this battle will be resurrected by the boss.</li>
+          <li><b>Reposition</b> - The boss will run away from the tank and reposition himself in order to attack from a range position.</li>
+          <li><b>Armored Welwas</b> - Very similar to the welwas you faced previously but with an additional enrage mechanic.  They will be summoned continuously throughout the fight (if the fight lasts a long time you will have many of these to deal with).  After being alive for some time these will enrage, growing larger and hit a lot harder.  Any welwas that die during this battle will be resurrected by the boss.</li>
         </ul>
         <div class="spoiler">
           <input type="checkbox" class="spoiler-button">
           <div class="spoiler-head">Strategies</div>
           <div class="spoiler-body">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse non venenatis sem. Integer bibendum blandit varius. Maecenas rhoncus dignissim vulputate. Vivamus et libero consectetur, tempor enim non, sagittis erat. Nullam maximus neque ligula, in porta quam suscipit non. Nam maximus ut ante eu malesuada. Pellentesque auctor quis augue quis eleifend. Donec tincidunt porta ante ac consequat.</p>
+            <p>There are a couple of approaches to this fight that I would recommend depending on the groups DPS and tank's level of experience.  If the group has high DPS and an experienced tank then you may wish to have your tank taunt the Welwas and keep them away from the boss while the group focuses on getting the boss down as quickly as possible. This has the advantage of not having to deal with Welwas in the group at all but puts additional pressure on the tank but with higher DPS you should not see many additional Welwas spawning so this is probably a better approach.</p>
+            <p>With lower DPS you will see many additional Welwas spawning and the tank will likely struggle to handle all of them.  Here it's likely better to stack the Welwas on the boss, moving to him quickly each time he runs away, and keeping the Welwas in the groups AoE damage.  If required, when a Welwa enrages your group can focus this down quickly.  Bear in mind the boss will move to any dead Welwa and resurrect them so they should ideally die on the boss where possible to avoid unnecessary movement.  Remember that the Welwas do a "Rear Kick" that can do a fair amount of damage when they are enraged. This strategy allows the tank to receive heals and synergys constantly from the group.</p>
+            <p>The only mechanic to watch out for is the "Release Flame" attack which will target a random group member and a fountain of flames will spawn under their feet.  Get out of the fountain as quickly as possible but don't worry too much about the lines of flame that shoot out from it as these can be healed through easily.  If you remain in the centre then you will take a lot more damage.</p>
           </div>
         </div>
       </div>
@@ -133,7 +139,7 @@ permalink: /trials/hel-ra-citadel/
           <input type="checkbox" class="spoiler-button">
           <div class="spoiler-head">Strategies</div>
           <div class="spoiler-body">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse non venenatis sem. Integer bibendum blandit varius. Maecenas rhoncus dignissim vulputate. Vivamus et libero consectetur, tempor enim non, sagittis erat. Nullam maximus neque ligula, in porta quam suscipit non. Nam maximus ut ante eu malesuada. Pellentesque auctor quis augue quis eleifend. Donec tincidunt porta ante ac consequat.</p>
+            <p>You will need to make your way up and along the outer walls, killing the groups of enemies as you go and activating a lever in each area to open the gates for the other group.  The enemies are no different until you reach the top of the stairs where you will need to kill two Gargoyles.  Let the tank go on ahead to pick up Gargoyles which should be promptly positioned and turned away from the group.  Anyone caught in the cone and turned to stone should break free and after the second cone attack beware of the ground slam attack (damage dealers and healer take a couple of steps backwards).  Burn the catapults to stop these raining down additional damage on the other group.  The area after the catapults is the boss room but you will need to deal with the final pack of enemies first, nothing new here.</p>
           </div>
         </div>
       </div>
@@ -151,7 +157,10 @@ permalink: /trials/hel-ra-citadel/
           <input type="checkbox" class="spoiler-button">
           <div class="spoiler-head">Strategies</div>
           <div class="spoiler-body">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse non venenatis sem. Integer bibendum blandit varius. Maecenas rhoncus dignissim vulputate. Vivamus et libero consectetur, tempor enim non, sagittis erat. Nullam maximus neque ligula, in porta quam suscipit non. Nam maximus ut ante eu malesuada. Pellentesque auctor quis augue quis eleifend. Donec tincidunt porta ante ac consequat.</p>
+            <p>This boss can get messy if the group doesn't focus on the mechanics.  It's better to not stack on this fight and if you have ranged DPS in the group then they will likely take less damage staying at range.</p>
+            <p>When the boss does his "Impulse" attack you will see a spreading AoE from under his feet and you must block.  If you are out of the circle in plenty of time you will not get hit but it cannot be dodged so blocking is by far the safest option.</p>
+            <p>Similarly, random group members are targeted with the "Meteor" mechanic whereby a large AoE will spawn on them which should be blocked.  Many players die to these two mechanics by trying to escape the AoEs and failing.</p>
+            <p>When the boss disappears and four clones appear then the group should split up.  Each clone should have one player assigned to focus on the interruptible "Inferno" mechanic.  The real bosses position should be called out as soon as possible (you can tell this by looking at the health bars, three of the clones will have a solid gold coloured bar which indicates they are immune to damage).  If you are assigned a clone then stay close to it, block its "Impulse" attack, interrupt it when it starts to channel the "Inferno" attack and return to your original position on the real boss.  Once the clones have been interrupted they will despawn.  The four versions will always spawn in the same locations but the real boss can spawn at any one of these.</p>
           </div>
         </div>
       </div>
