@@ -251,7 +251,7 @@ nav {
          .nav__submenu {
            display: block;
          }
-         background-color: $darkerGray;
+         background-color: $black;
        }
     }
   }
@@ -266,7 +266,7 @@ nav {
     &-item {
       text-align: left;
       &:hover {
-        background-color: $darkerGray;
+        background-color: $black;
       }
     }
   }
