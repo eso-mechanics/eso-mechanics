@@ -218,13 +218,13 @@ permalink: /trials/hel-ra-citadel/
                     <img src="{{ site.baseurl }}/images/trials/hrc/boss-room.jpg" alt="Hel Ra Citadel - Positioning" />
                   </a>
                   <h3>Key:</h3>
-                  <ul class="clearfix mechs">
-                    <li class="list-yellow">Boss</li>
-                    <li class="list-pink">Main Tank</li>
-                    <li class="list-green">Off Tank</li>
-                    <li class="list-orange">Group</li>
-                    <li class="list-blue">Gargoyle</li>
-                    <li class="list-red-arrow">Shield Throw Direction</li>
+                  <ul class="clearfix key">
+                    <li class="list-yellow"><span>Boss</span></li>
+                    <li class="list-pink"><span>Main Tank</span></li>
+                    <li class="list-green"><span>Off Tank</span></span></li>
+                    <li class="list-orange"><span>Group</span></li>
+                    <li class="list-blue"><span>Gargoyle</span></li>
+                    <li class="list-red-arrow"><span>Shield Throw Direction</span></li>
                   </ul>
                   <p>Notice how all of the players will be positioned in a perfectly straight line to dictate the direction of the "Shield Throw" through the Gargoyles.</p>
                   <p>NB: Positioning shown for the first position only; the only potential difference lies at positions 2, 4 and 6 where the Gargoyles are very close together.  You may want to position your group behind the rear Gargoyle rather than in front of it to allow your off tank room to position the adds.</p>
