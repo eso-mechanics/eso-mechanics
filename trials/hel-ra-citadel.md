@@ -217,6 +217,7 @@ permalink: /trials/hel-ra-citadel/
                   <a href="{{ site.baseurl }}/images/trials/hrc/boss-room.jpg" target="_blank">
                     <img src="{{ site.baseurl }}/images/trials/hrc/boss-room.jpg" alt="Hel Ra Citadel - Positioning" />
                   </a>
+                  <h3>Key:</h3>
                   <ul class="clearfix mechs">
                     <li class="list-yellow">Boss</li>
                     <li class="list-pink">Main Tank</li>
