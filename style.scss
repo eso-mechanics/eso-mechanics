@@ -611,7 +611,6 @@ $hrc_descriptions: 'bridge', 'notable-enemies', 'boss-1', 'left', 'boss-2-1', 'r
 }
 .spoiler > .spoiler-button:checked ~ .spoiler-body {
   opacity: 1;
-  max-height: 50em;
   overflow: auto;
 }
 @keyframes spoiler-focus {
