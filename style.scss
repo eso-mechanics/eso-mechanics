@@ -464,6 +464,8 @@ input.node {
     height: 330px;
     padding: 20px;
     border-radius: 8%;
+    position: relative;
+    z-index: 1;
   }
 }
 
