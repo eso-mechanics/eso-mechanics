@@ -227,7 +227,7 @@ permalink: /trials/hel-ra-citadel/
                     <li class="list-red-arrow"><span>Shield Throw Direction</span></li>
                   </ul>
                   <p>Notice how all of the players will be positioned in a perfectly straight line to dictate the direction of the "Shield Throw" through the Gargoyles.</p>
-                  <p>NB: Positioning shown for the first position only; the only potential difference lies at positions 2, 4 and 6 where the Gargoyles are very close together.  You may want to position your group behind the rear Gargoyle rather than in front of it to allow your off tank room to position the adds.</p>
+                  <p>The numbers indicate the order in which to stand at each position.  The main tank should always be moving the shortest distance to position the boss as quickly as possible.  You may wish to move the group behind the Gargoyle in positions 2, 4 and 6 as the Gargoyles here are quite close together.</p>
                 </div>
             </div>
             <p>A random group member will get turned to stone and unable to use abilities.  If this is on someone in the stack they should avoid pressing the synergy and wait for the next "Shield Throw" mechanic as this will break them free.  If this is on the main tank then they should call "Breaking out in 3..2..1" and press the synergy allowing any group members that are closer to back away.  The main tank needs to break free to deal with the boss but everybody else can wait to be released.</p>
