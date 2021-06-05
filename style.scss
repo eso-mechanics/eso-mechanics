@@ -663,6 +663,9 @@ $hrc_descriptions: 'bridge', 'notable-enemies', 'boss-1', 'left', 'boss-2-1', 'r
   box-shadow: 0 0 0 1px #0001;
 }
 .spoiler .mechs {
+  li::marker {
+    content: "\26AB"
+  }
   .list-yellow::marker {
     color: #fafa03;
   }
