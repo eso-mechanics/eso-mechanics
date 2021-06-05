@@ -214,7 +214,7 @@ permalink: /trials/hel-ra-citadel/
               <input type="checkbox" class="spoiler-button">
               <div class="spoiler-head">Positioning</div>
                 <div class="spoiler-body">
-
+                  <img src="{{ site.baseurl }}/images/trials/hrc/boss-room.jpeg" alt="Hel Ra Citadel - Positioning" />
                 </div>
             </div>
             <p>A random group member will get turned to stone and unable to use abilities.  If this is on someone in the stack they should avoid pressing the synergy and wait for the next "Shield Throw" mechanic as this will break them free.  If this is on the main tank then they should call "Breaking out in 3..2..1" and press the synergy allowing any group members that are closer to back away.  The main tank needs to break free to deal with the boss but everybody else can wait to be released.</p>
