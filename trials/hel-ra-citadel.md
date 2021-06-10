@@ -192,7 +192,7 @@ permalink: /trials/hel-ra-citadel/
           <li><b>Adds</b> - Destroyers and Flame-shapers are summoned at different times during the fight.  These act exactly as described previously and will be destroyed at 35% when the boss triggers the initial explosion of his Shehai Storm mechanic (Shehai Shockwave).</li>
         </ul>
         <h2>Hardmode</h2>
-        <p>Activated by destroying all three of the statues found outside the door to the final boss room and cannot be undone (as with later content), once activated you will need to kill the boss on hardmode or die trying.  As with almost every other hardmode in the game, expect the boss to have more health and some of the above attacks to do more damage.</p>
+        <p>Activated by destroying all three of the statues found outside the door to the final boss room and cannot be undone; once activated you will need to kill the boss on hardmode or die trying.  As with almost every other hardmode in the game, expect the boss to have more health and some of the above attacks to do more damage.</p>
         <ul>
           <li><b>Stone Form</b> - A random group member will become encased in stone and unable to use any abilities.  While encased they will receive a unique synergy "Destructive Outbreak", which releases them from the stone but also does huge damage in a large circle around them.</li>
           <li><b>Gargoyles</b> - In the area around the boss there are twelve statues, each containing a Gargoyle.  The statues will start to come to life during the fight giving your group additional enemies to deal with.  They work exactly the same as described previously.</li>
