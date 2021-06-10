@@ -26,7 +26,7 @@ permalink: /trials/aetherian-archive/
       <span class="label">Boss Three</span>
     </div>
     <input type="radio" class="node" name="timeline-dot" data-description="six">
-    <div class="dot-info above" data-description="six">
+    <div class="dot-info below" data-description="six">
       <span class="label">Split Two</span>
     </div>
     <input type="radio" class="node" name="timeline-dot" data-description="seven">
@@ -34,7 +34,7 @@ permalink: /trials/aetherian-archive/
       <span class="label">Boss Three</span>
     </div>
     <input type="radio" class="last node" name="timeline-dot" data-description="eight">
-    <div class="dot-info above" data-description="eight">
+    <div class="dot-info below" data-description="eight">
       <span class="label">Final Boss</span>
     </div>
     <div id="timeline-descriptions-wrapper">
