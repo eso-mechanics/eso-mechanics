@@ -5,36 +5,40 @@ permalink: /trials/aetherian-archive/
 ---
 <div class="flex-parent">
   <div class="input-flex-container">
-    <input type="radio" class="first node" name="timeline-dot" data-description="intro" checked>
-    <div class="dot-info above" data-description="intro">
+    <input type="radio" class="first node" name="timeline-dot" data-description="one" checked>
+    <div class="dot-info above" data-description="one">
       <span class="label">Beginning</span>
     </div>
-    <input type="radio" class="node" name="timeline-dot" data-description="boss-1">
-    <div class="dot-info below" data-description="boss-1">
+    <input type="radio" class="node" name="timeline-dot" data-description="two">
+    <div class="dot-info below" data-description="two">
       <span class="label">Boss One</span>
     </div>
-    <input type="radio" class="node" name="timeline-dot" data-description="pads-1">
-    <div class="dot-info above" data-description="pads-1">
+    <input type="radio" class="node" name="timeline-dot" data-description="three">
+    <div class="dot-info above" data-description="three">
       <span class="label">Split One</span>
     </div>
-    <input type="radio" class="node" name="timeline-dot" data-description="reunited-1">
-    <div class="dot-info below" data-description="reunited-1">
+    <input type="radio" class="node" name="timeline-dot" data-description="four">
+    <div class="dot-info below" data-description="four">
       <span class="label">Reunited</span>
     </div>
-    <input type="radio" class="node" name="timeline-dot" data-description="pads-2">
-    <div class="dot-info above" data-description="pads-2">
-      <span class="label">Split Two</span>
-    </div>
-    <input type="radio" class="node" name="timeline-dot" data-description="boss-3">
-    <div class="dot-info above" data-description="boss-3">
+    <input type="radio" class="node" name="timeline-dot" data-description="five">
+    <div class="dot-info above" data-description="five">
       <span class="label">Boss Three</span>
     </div>
-    <input type="radio" class="last node" name="timeline-dot" data-description="boss-4">
-    <div class="dot-info above" data-description="boss-4">
+    <input type="radio" class="node" name="timeline-dot" data-description="six">
+    <div class="dot-info above" data-description="six">
+      <span class="label">Split Two</span>
+    </div>
+    <input type="radio" class="node" name="timeline-dot" data-description="seven">
+    <div class="dot-info above" data-description="seven">
+      <span class="label">Boss Three</span>
+    </div>
+    <input type="radio" class="last node" name="timeline-dot" data-description="eight">
+    <div class="dot-info above" data-description="eight">
       <span class="label">Final Boss</span>
     </div>
     <div id="timeline-descriptions-wrapper">
-      <div class="section" data-description="intro">
+      <div class="section" data-description="one">
         <h2>Starting Trash & Notable Enemies</h2>
         <img src="{{ site.baseurl }}/images/trials/hrc/bridge.jpg" alt="Hel Ra Citadel - Bridge" />
         <p>Upon entering the trial you will make your way through three rooms.  The first contains lots of fire and a group of Fire Atronachs at the top of the stairs.  The second contains swirling ice circles that will immobilise anyone that they touch, you'll be greeted by two Frost Atronachs when you make it through these.  The third room has no enemies but random lightning strikes on players as you run through.</p>
@@ -52,7 +56,7 @@ permalink: /trials/aetherian-archive/
           </div>
         </div>
       </div>
-      <div class="section" data-description="boss-1">
+      <div class="section" data-description="two">
         <h2>Boss One - Lightning Storm Atronach</h2>
         <p>After dropping down into the next room (and after a short dialogue) a large Storm Atronach will explode into being in the centre of the middle circle on the floor.  This boss has two main attacks to be aware of:</p>
         <ul>
@@ -68,7 +72,7 @@ permalink: /trials/aetherian-archive/
           </div>
         </div>
       </div>
-      <div class="section" data-description="pads-1">
+      <div class="section" data-description="three">
         <h2>Teleport Pads & First Group Split</h2>
         <p>There are three sets of teleport pads around the room (in groups of four) which can only be activated when one player is standing on each; you need twelve members to proceed through this trial.  Once activated, each group will be transported to a different floating island with their own enemies to deal with before proceeding.  There is an Overcharger on the right, a new enemy on the left; a Nullifier and a pack of small enemies in the middle.  Once all the enemies are killed on each side, bridges will form allowing the group to meet on the middle island and use the teleport pads to jump back to the previous boss room.</p>
         <ul>
@@ -83,7 +87,7 @@ permalink: /trials/aetherian-archive/
           </div>
         </div>
       </div>
-      <div class="section" data-description="reunited-1">
+      <div class="section" data-description="four">
         <h2>Reunited</h2>
         <p>Back in the first boss room a new bridge will spawn allowing you to proceed.  Here you will face a few waves of enemies, each wave consisting of the elite mobs you have seen before.  Once you have killed all of these there are another twelve teleport pads to safely transport you to the next boss room.</p>
         <div class="spoiler">
@@ -95,7 +99,7 @@ permalink: /trials/aetherian-archive/
           </div>
         </div>
       </div>
-      <div class="section" data-description="boss-2">
+      <div class="section" data-description="five">
         <h2>Boss Two - Foundation Stone Atronach</h2>
         <p>Once you are teleported down to the next island you will be greeted by a large Stone Atronach located at the rear of the island.  You will have both Chainspinners and Nullifiers spawn throughout this fight (one of each at a time).  The boss itself will do two notable attacks:</p>
         <ul>
@@ -112,7 +116,7 @@ permalink: /trials/aetherian-archive/
           </div>
         </div>
       </div>
-      <div class="section" data-description="pads-2">
+      <div class="section" data-description="six">
         <h2>Right Route</h2>
         <p>After the boss is defeated you will gain access to another three sets of teleport pads which will split the group into three again.  The left group will be the only one with elite enemies this time, a Chainspinner and a Nullifier, the middle group is very similar to before and the right group has a large number of imps to deal with. Once complete, cross the newly formed bridges to meet with your group and ascend the winding ledges to drop down into the next boss room.</p>
         <div class="spoiler">
@@ -123,7 +127,7 @@ permalink: /trials/aetherian-archive/
           </div>
         </div>
       </div>
-      <div class="section" data-description="boss-3">
+      <div class="section" data-description="seven">
         <h2>Boss Three - Varlariel</h2>
         <p>A Wispmother that summons lesser versions of herself to aid her throughout the battle.</p>
         <ul>
@@ -142,8 +146,8 @@ permalink: /trials/aetherian-archive/
           </div>
         </div>
       </div>
-      <div class="section" data-description="boss-4">
-        <h2>Boss Four - The Mage</h2>
+      <div class="section" data-description="eight">
+        <h2>Final Boss - The Mage</h2>
         <p>There is a pack of enemies to face when you reach the boss island and another wave spawns in when these are killed.  Once the last enemy dies The Mage will float down to the middle of the room and the fight begins.  Make sure your group is ready to face the boss before engaging the trash pack.</p>
         <p>The Mage has some confusing mechanics which can be incredibly punishing until they are understood.  This will be a test for your healers and off tank (especially on hardmode).</p>
         <ul>

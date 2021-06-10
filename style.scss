@@ -471,9 +471,9 @@ input.node {
 }
 
 // magic shenanigans
-$hrc_descriptions: 'bridge', 'notable-enemies', 'boss-1', 'left', 'boss-2-1', 'right', 'boss-2-2', 'horn', 'boss-3';
+$descriptions: 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine';
 
-@each $desc in $hrc_descriptions {
+@each $desc in $descriptions {
 	input[data-description="#{$desc}"]:checked ~ #timeline-descriptions-wrapper {
 		div[data-description="#{$desc}"] {
 			display: block;

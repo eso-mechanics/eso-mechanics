@@ -5,44 +5,44 @@ permalink: /trials/hel-ra-citadel/
 ---
 <div class="flex-parent">
   <div class="input-flex-container">
-    <input type="radio" class="first node" name="timeline-dot" data-description="bridge" checked>
-    <div class="dot-info above" data-description="bridge">
+    <input type="radio" class="first node" name="timeline-dot" data-description="one" checked>
+    <div class="dot-info above" data-description="one">
       <span class="label">Bridge</span>
     </div>
-    <input type="radio" class="node" name="timeline-dot" data-description="notable-enemies">
-    <div class="dot-info below" data-description="notable-enemies">
+    <input type="radio" class="node" name="timeline-dot" data-description="two">
+    <div class="dot-info below" data-description="two">
       <span class="label">Outside the Gates</span>
     </div>
-    <input type="radio" class="node" name="timeline-dot" data-description="boss-1">
-    <div class="dot-info above" data-description="boss-1">
+    <input type="radio" class="node" name="timeline-dot" data-description="three">
+    <div class="dot-info above" data-description="three">
       <span class="label">Boss One</span>
     </div>
-    <input type="radio" class="node" name="timeline-dot" data-description="left">
-    <div class="dot-info below" data-description="left">
+    <input type="radio" class="node" name="timeline-dot" data-description="four">
+    <div class="dot-info below" data-description="four">
       <span class="label">Left Route</span>
     </div>
-    <input type="radio" class="node" name="timeline-dot" data-description="boss-2-1">
-    <div class="dot-info above" data-description="boss-2-1">
+    <input type="radio" class="node" name="timeline-dot" data-description="five">
+    <div class="dot-info above" data-description="five">
       <span class="label">Boss Two (left)</span>
     </div>
-    <input type="radio" class="node" name="timeline-dot" data-description="right">
-    <div class="dot-info below" data-description="right">
+    <input type="radio" class="node" name="timeline-dot" data-description="six">
+    <div class="dot-info below" data-description="six">
       <span class="label">Right Route</span>
     </div>
-    <input type="radio" class="node" name="timeline-dot" data-description="boss-2-2">
-    <div class="dot-info above" data-description="boss-2-2">
+    <input type="radio" class="node" name="timeline-dot" data-description="seven">
+    <div class="dot-info above" data-description="seven">
       <span class="label">Boss Two (right)</span>
     </div>
-    <input type="radio" class="node" name="timeline-dot" data-description="horn">
-    <div class="dot-info below" data-description="horn">
+    <input type="radio" class="node" name="timeline-dot" data-description="eight">
+    <div class="dot-info below" data-description="eight">
       <span class="label">Citadel Entrance</span>
     </div>
-    <input type="radio" class="last node" name="timeline-dot" data-description="boss-3">
-    <div class="dot-info above" data-description="boss-3">
+    <input type="radio" class="last node" name="timeline-dot" data-description="nine">
+    <div class="dot-info above" data-description="nine">
       <span class="label">Final Boss</span>
     </div>
     <div id="timeline-descriptions-wrapper">
-      <div class="section" data-description="bridge">
+      <div class="section" data-description="one">
         <h2>The Bridge (and first trash pack)</h2>
         <img src="{{ site.baseurl }}/images/trials/hrc/bridge.jpg" alt="Hel Ra Citadel - Bridge" />
         <p>After crossing the bridge you will be met with multiple waves of smaller enemies.  None of these are significant but there are a lot of them to deal with before moving on.</p>
@@ -55,7 +55,7 @@ permalink: /trials/hel-ra-citadel/
           </div>
         </div>
       </div>
-      <div class="section" data-description="notable-enemies">
+      <div class="section" data-description="two">
         <h2>Outside the Gates</h2>
         <ul>
           <li><b>Destroyers</b> - Melee enemies with two-handed weapons that carry banners (an indicating that they are "elite" enemies).  They do fair damage, which can cleave, and have a frontal cone attack which knocks group members down.</li>
@@ -71,7 +71,7 @@ permalink: /trials/hel-ra-citadel/
           </div>
         </div>
       </div>
-      <div class="section" data-description="boss-1">
+      <div class="section" data-description="three">
         <h2>Boss One - Ra Kotu</h2>
         <img src="{{ site.baseurl }}/images/trials/hrc/ra-kotu.jpg" alt="Hel Ra Citadel - Ra Kotu" />
         <p>A huge air atronach that spawns in with three additional enemies and is typically pulled immediately.</p>
@@ -93,7 +93,7 @@ permalink: /trials/hel-ra-citadel/
           </div>
         </div>
       </div>
-      <div class="section" data-description="left">
+      <div class="section" data-description="four">
         <h2>Left Route</h2>
         <p>Your progress here is controlled by the other group as they will have access to levers which open the gates blocking your route.  You will meet mostly the same enemies here with two additions (see below) but many of them will keep respawning within an area until the other group have finished and unlocked the gate for you to move on.</p>
         <ul>
@@ -111,7 +111,7 @@ permalink: /trials/hel-ra-citadel/
           </div>
         </div>
       </div>
-      <div class="section" data-description="boss-2-1">
+      <div class="section" data-description="five">
         <h2>Boss Two - Yokeda Rok'dun</h2>
         <img src="{{ site.baseurl }}/images/trials/hrc/rokdun.jpg" alt="Hel Ra Citadel - Yokeda Rok'dun" />
         <p>An archer that specialises in ranged attacks and controls welwa companions who aid him in battle.</p>
@@ -130,7 +130,7 @@ permalink: /trials/hel-ra-citadel/
           </div>
         </div>
       </div>
-      <div class="section" data-description="right">
+      <div class="section" data-description="six">
         <h2>Right Route</h2>
         <p>There is only one new enemy (see below) for you to face on this side while you make your way up and along the outer walls.  After each pack of enemies is defeated you will have access to a lever, which will open a gate on the other side allowing the other group to proceed further.  Destroying the catapults as you go prevents additional damage being rained down on your team-mates.</p>
         <ul>
@@ -144,7 +144,7 @@ permalink: /trials/hel-ra-citadel/
           </div>
         </div>
       </div>
-      <div class="section" data-description="boss-2-2">
+      <div class="section" data-description="seven">
         <h2>Boss Two - Yokeda Kai</h2>
         <img src="{{ site.baseurl }}/images/trials/hrc/kai.jpg" alt="Hel Ra Citadel - Yokeda Kai" />
         <p>A fire mage (a superior Flame-Shaper) that specialises in all things flammable.</p>
@@ -165,7 +165,7 @@ permalink: /trials/hel-ra-citadel/
           </div>
         </div>
       </div>
-      <div class="section" data-description="horn">
+      <div class="section" data-description="eight">
         <h2>Citadel Entrance</h2>
         <img src="{{ site.baseurl }}/images/trials/hrc/warhorn.jpg" alt="Hel Ra Citadel - Warhorn" />
         <p>Prepare to face a collection of all of the enemies you have faced before who are guarding the entrance to the citadel.  Using the horn at the back of the room will aggro all of them immediately and grants you an achievement "The War Horn" if used on veteran mode.  There are a few heavy sacks and chests here and through the corridor towards the last boss.</p>
@@ -179,8 +179,8 @@ permalink: /trials/hel-ra-citadel/
           </div>
         </div>
       </div>
-      <div class="section" data-description="boss-3">
-        <h2>Boss Three - The Warrior</h2>
+      <div class="section" data-description="nine">
+        <h2>Final Boss - The Warrior</h2>
         <img src="{{ site.baseurl }}/images/trials/hrc/warrior.jpg" alt="Hel Ra Citadel - The Warrior" />
         <p>Despite being one of the oldest, this is still one of the hardest hitting bosses in the game.  The Warrior puts a lot of pressure on the tank, requires full group co-ordination and a fair bit of effort from your healers to complete it.  There are two large circles, to the left and right of the boss as you enter the room; the left increases health recovery and the right increases damage done for anyone standing inside (including the enemies). These are generated by the statues on their respective side which will be destroyed one by one during the fight (left at 85%, right at 70%).  The boss will also destroy any chests and remaining adds around the room at 35% when he does his Shehai Storm mechanic so be sure to loot these before you start the fight (sticking to the outer walls will ensure you do not aggro the boss).</p>
         <ul>
