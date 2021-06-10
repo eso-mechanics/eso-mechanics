@@ -116,7 +116,7 @@ permalink: /trials/aetherian-archive/
         </div>
       </div>
       <div class="section" data-description="six">
-        <h2>Right Route</h2>
+        <h2>Teleport Pads & Second Group Split</h2>
         <p>After the boss is defeated you will gain access to another three sets of teleport pads which will split the group into three again.  The left group will be the only one with elite enemies this time, a Chainspinner and a Nullifier, the middle group is very similar to before and the right group has a large number of imps to deal with. Once complete, cross the newly formed bridges to meet with your group and ascend the winding ledges to drop down into the next boss room.</p>
         <div class="spoiler">
           <input type="checkbox" class="spoiler-button">
