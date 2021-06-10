@@ -176,12 +176,10 @@ permalink: /trials/aetherian-archive/
             <p>"Black Holes" should be avoided.  If you are in the correct position you will not have to move much at all.  If a "Black Hole" is spreading into the group or onto the tank then communicate which direction you need to move.  If the tank needs to turn the boss then the group should move the other way (maintaining maximum melee range) to ensure they stay directly behind where possible.</p>
             <p>In execute a lot of healing is required along with a lot of damage, throw out everything you've got.  Using ultimates here is a wise decision, mixing barriers and novas with horns, DPS ultimates can provide a lot of mitigation with a decent amount of damage.  Any "Conjured Reflections" left alive should be killed by the knockdowns from the boss but this isn't always the case.  Try and make sure these die before you push the boss to 15%.</p>
             <h3>Hardmode Changes</h3>
-            <p>The fight positioning remains exactly the same but there are a couple of additional mechanics to deal with:</p>
-            <ul>
-              <li>"Storm Atronachs" should be taunted by the main tank so that they position themselves close to the boss and these should be focussed.  Never leave these alive for a long time when they have low health as their "Unstable Explosion" does a huge amount of damage.</li>
-              <li>"Meteors" can simply be blocked.  If you choose to stack as described above these will frequently be falling directly into the group.  Everyone should block to avoid getting stunned.</li>
-              <li>In execute the boss will also regain some health during her knockdown mechanic on hardmode.</li>
-            </ul>
+            <p>The fight positioning remains exactly the same but there are a couple of additional mechanics to deal with.</p>
+            <p>"Storm Atronachs" should be taunted by the main tank so that they position themselves close to the boss and these should be focussed.  Never leave these alive for a long time when they have low health as their "Unstable Explosion" does a huge amount of damage.</p>
+            <p>"Meteors" can simply be blocked.  If you choose to stack as described above these will frequently be falling directly into the group.  Everyone should block to avoid getting stunned.</p>
+            <p>In execute the boss will also regain some health during her knockdown mechanic on hardmode.</p>
           </div>
         </div>
       </div>
