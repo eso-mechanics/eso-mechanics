@@ -40,7 +40,6 @@ permalink: /trials/aetherian-archive/
     <div id="timeline-descriptions-wrapper">
       <div class="section" data-description="one">
         <h2>Starting Trash & Notable Enemies</h2>
-        <img src="{{ site.baseurl }}/images/trials/hrc/bridge.jpg" alt="Hel Ra Citadel - Bridge" />
         <p>Upon entering the trial you will make your way through three rooms.  The first contains lots of fire and a group of Fire Atronachs at the top of the stairs.  The second contains swirling ice circles that will immobilise anyone that they touch, you'll be greeted by two Frost Atronachs when you make it through these.  The third room has no enemies but random lightning strikes on players as you run through.</p>
         <p>The final room before the boss has a large pack of enemies.  You will encounter some of these throughout the trial and should be aware of the following elite mobs (they carry banners and have fancy health bars):</p>
         <ul>
