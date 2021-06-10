@@ -17,7 +17,7 @@ permalink: /trials/
       <img src="{{ site.baseurl }}/images/trials/SO.jpg" alt="Sanctum Ophidia" />
     </a>
   </div>
-  <div class="column third soon">
+  <div class="column third">
     <a href="{{ site.baseurl }}/trials/aetherian-archive">
       <h3>Aetherian Archive</h3>
       <img src="{{ site.baseurl }}/images/trials/AA.jpg" alt="Aetherian Archive" />
