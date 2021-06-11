@@ -23,7 +23,7 @@ permalink: /trials/aetherian-archive/
     </div>
     <input type="radio" class="node" name="timeline-dot" data-description="five">
     <div class="dot-info above" data-description="five">
-      <span class="label">Boss Three</span>
+      <span class="label">Boss Two</span>
     </div>
     <input type="radio" class="node" name="timeline-dot" data-description="six">
     <div class="dot-info below" data-description="six">
