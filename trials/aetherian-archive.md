@@ -43,15 +43,15 @@ permalink: /trials/aetherian-archive/
         <p>Upon entering the trial you will make your way through three rooms.  The first contains lots of fire and a group of Fire Atronachs at the top of the stairs.  The second contains swirling ice circles that will immobilise anyone that they touch, you'll be greeted by two Frost Atronachs when you make it through these.  The third room has no enemies but random lightning strikes on players as you run through.</p>
         <p>The final room before the boss has a large pack of enemies.  You will encounter some of these throughout the trial and should be aware of the following elite mobs (they carry banners and have fancy health bars):</p>
         <ul>
-          <li><b>Overchargers</b> - Ranged enemies that will cause random members of the group to become "Overcharged"; inflicting them with a large red AoE under their feet which moves with them and causing a lot of damage while it persists.</li>
-          <li><b>Chainspinners</b> - Melee enemies that drop a large AoE on a random player that does a large fair amount of damage.</li>
+          <li><b>Overchargers</b> - Ranged enemies that will cause random members of the group to become "Overcharged"; inflicting them with a large red AoE under their feet which moves with them and causes a lot of damage to anyone standing in it.  They also target group members with a continuous lightning attack which will spawn smaller, spreading red circles under the players feet and damage inflict damage if the player does not move out when they reach full size.</li>
+          <li><b>Chainspinners</b> - Melee enemies that perform an AoE attack which stuns players and also drop a large AoE on a random player that does a fair amount of damage.</li>
         </ul>
         <div class="spoiler">
           <input type="checkbox" class="spoiler-button">
           <div class="spoiler-head">Strategies</div>
           <div class="spoiler-body">
             <p>Until the final group of enemies here there is nothing too stressful.  Move as a group through the rooms and ensure your tanks are leading to pick up the enemies.  Move all the way up the stairs to avoid the fire and stack up the Fire Atronachs.  Dodge roll to escape the immobilise from the ice circles and ensure your tanks turn the Frost Atronachs away from the group as they have a frontal cleave attack.  In the lightning room you'll notice a glowing circle on the floor, standing in this will stop damage from the lightning and is an indicator for how to deal with the first boss.</p>
-            <p>The last group of enemies should be stacked where they are and killed together.  The group should spread out a little and focus the Overcharger first.  Anyone affected by "Overcharged" should remain still and block cast while everyone else steps away from them and out of their AoE.  Healers may need to focus some heals on these players.  Move out of the large red AoE dropped by the Chainspinners.</p>
+            <p>The last group of enemies should be stacked where they are and killed together.  The group should spread out a little and focus the Overcharger first.  Anyone affected by "Overcharged" should remain still and block cast while everyone else steps away from them and out of their AoE.  Healers may need to focus some heals on these players.  Any player with the smaller red circles under their feet should kite (keep moving) to avoid the damage, both of these attacks can target the same player at the same time.  Move out of the large red AoE dropped by the Chainspinners and block the AoE that they do around them (if you are in melee range).</p>
           </div>
         </div>
       </div>
