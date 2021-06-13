@@ -147,7 +147,7 @@ permalink: /trials/sanctum-ophidia/
       </div>
       <div class="section" data-description="seven">
         <h2>Feeding Pit</h2>
-        <p>An optional battle is available on the right hand side after dealing with the final trash pack on the way to the final boss.  The group member that picked up the meat after the first boss will need to place it in the centre of the feeding pit and the group can brace for impact.  Survive the onslaught of Trolls to get the achievement.</p>
+        <p>An optional battle is available in the room on the right hand side on the way to the final boss (after dealing with the final trash pack).  The group member that picked up the meat after defeating the first boss will need to place it in the centre of the feeding pit and the group should brace for impact.  Survive the onslaught of Trolls to get the achievement.</p>
       </div>
       <div class="section" data-description="eight">
         <h2>Final Boss - The Serpent</h2>
