@@ -11,7 +11,7 @@ permalink: /trials/
       <img src="{{ site.baseurl }}/images/trials/HRC.jpg" alt="Hel Ra Citadel" />
     </a>
   </div>
-  <div class="column third soon">
+  <div class="column third">
     <a href="{{ site.baseurl }}/trials/sanctum-ophidia">
       <h3>Sanctum Ophidia</h3>
       <img src="{{ site.baseurl }}/images/trials/SO.jpg" alt="Sanctum Ophidia" />
