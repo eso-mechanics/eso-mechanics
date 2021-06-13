@@ -4,6 +4,7 @@ title: Sanctum Ophidia
 permalink: /trials/sanctum-ophidia/
 ---
 <div class="flex-parent">
+  <h1 class="page-title">Sanctum Ophidia</h2>
   <div class="input-flex-container">
     <input type="radio" class="first node" name="timeline-dot" data-description="one" checked>
     <div class="dot-info above" data-description="one">
