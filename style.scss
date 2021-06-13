@@ -563,6 +563,10 @@ $descriptions: 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', '
       display: none;
     }
   }
+  .column {
+    h3 {
+      margin: 15px 0;
+    }
 }
 
 @media (max-width: 480px) {
