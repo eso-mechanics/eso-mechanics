@@ -118,7 +118,7 @@ permalink: /trials/sanctum-ophidia/
       </div>
       <div class="section" data-description="five">
         <h2>Rooms & Levers</h2>
-        <p>Continuing on you will enter a large room with a pillar on each side, infront of each pillar will be a lever.  These need to be pulled at the same time to open the doors on the sides of the room and this is a common mechanic for opening all of the doors from hereon in the trial.  You will meet no new enemies on your way to the next boss but will have to clear several rooms and pull several levers.  Be careful of all the massive holes in the floor as nobody likes having to run back after dying.</p>
+        <p>Continuing on you will enter a large room with a pillar on each side, infront of each pillar will be a lever.  These need to be pulled at the same time to open the doors on the sides of the room and this is a common mechanic for opening all of the doors from this point in the trial.  You will meet no new enemies on your way to the next boss but will have to clear several rooms and pull several levers.  Be careful of all the massive holes in the floor as nobody likes having to run back after dying.</p>
         <div class="spoiler">
           <input type="checkbox" class="spoiler-button">
           <div class="spoiler-head">Strategies</div>
