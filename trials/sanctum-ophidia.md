@@ -118,12 +118,12 @@ permalink: /trials/sanctum-ophidia/
       </div>
       <div class="section" data-description="five">
         <h2>Rooms & Levers</h2>
-        <p>Continuing on you will enter a large room with a pillar on each side, infront of each pillar will be a lever.  These need to be pulled at the same time to open the doors on the sides of the room and this is a common mechanic for opening all of the doors from this point in the trial.  You will meet no new enemies on your way to the next boss but will have to clear several rooms and pull several levers.  Be careful of all the massive holes in the floor as nobody likes having to run back after dying.</p>
+        <p>Continuing on you will enter a large room with a pillar on each side, infront of each pillar will be a lever.  These need to be pulled at the same time to open the doors on the sides of the room and this is a common mechanic for opening all of the doors from this point in the trial.  You will meet no new enemies during the rest of the trial but there are several more packs to deal with along the way.  Be careful of all the massive holes in the floor as you progress as it can be a long run back.</p>
         <div class="spoiler">
           <input type="checkbox" class="spoiler-button">
           <div class="spoiler-head">Strategies</div>
           <div class="spoiler-body">
-            <p>You can split the your team into two even groups (one tank, one healer and four damage dealers in each) to deal with to rooms simultaneously if this is preferred.  It does speed things up a little but all rooms can be managed one by one otherwise.  For the first two doors, however, all enemies are aggro's when you enter either room so be prepared from them coming in behind your group if you choose to tackle this as one group.</p>
+            <p>You can split the your team into two even groups (one tank, one healer and four damage dealers in each) to deal with to rooms simultaneously if this is preferred.  It does speed things up a little but all rooms can be managed one by one otherwise.  For the first two doors, however, all enemies are aggro'd when you enter either room so be prepared from them coming in behind your group if you choose to tackle this as one group.  You should prioritise the enemies as before, don't be afraid to use ultimates on cooldown as the trash is particularly challenging in this trial.</p>
           </div>
         </div>
       </div>
