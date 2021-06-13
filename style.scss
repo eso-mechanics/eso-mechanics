@@ -290,7 +290,6 @@ nav {
   h2,
   h3 {
     text-align: center;
-    margin-top: 0;
   }
   img {
     margin-top: 8px;
@@ -561,11 +560,6 @@ $descriptions: 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', '
 		margin-left: 0;
     div > img {
       display: none;
-    }
-  }
-  .column {
-    h3 {
-      margin: 15px 0;
     }
   }
 }
