@@ -67,7 +67,7 @@ permalink: /trials/aetherian-archive/
           <div class="spoiler-head">Strategies</div>
           <div class="spoiler-body">
             <p>There are five faint circled (the same as the one in the last library room except these are not yet glowing) around the room which should be identified and named before the boss is pulled.  There are two on the right, one where you enter the room, one on the other side of the boss and one on the left.  We typically name these "Right Exit", "Right Entrance", "Entrance", "Exit" and "Left" respectively but as long as your group knows which is which name them whatever you want.  When the boss raises his hands one of these circles will begin to glow and the "lightning Storm" begins, the glowing circle is a safe zone which you can move to and avoid the damage but you need to be quick.  Communication here is important as not everyone in the group will see which pad has lit up so it is better to have all group members call it (there is nothing else to call in this fight so voice chat won't get confusing).  Lots of shields and heals are a good idea while moving to the safe zones.</p>
-            <p>The "Impending Storm" mechanic can simply be blocked and the rest of the fight is just a tank and spank.  Try to keep the boss central so that the safe zones are all an equal distance away and stay stacked as a group when you are on the boss to make your healers lives easier.</p>
+            <p>The "Impending Storm" mechanic can simply be blocked and the rest of the fight is just stack and burn.  Try to keep the boss central so that the safe zones are all an equal distance away and stay stacked as a group when you are on the boss to make your healers lives easier.</p>
           </div>
         </div>
       </div>
