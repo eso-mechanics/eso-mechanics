@@ -24,31 +24,31 @@ permalink: /trials/
     </a>
   </div>
   <div class="column third soon">
-    <a href="{{ site.baseurl }}/trials/halls-of-fabrication">
+    <a href="#">
       <h3>Halls of Fabrication</h3>
       <img src="{{ site.baseurl }}/images/trials/HoF.jpg" alt="Halls of Fabrication" />
     </a>
   </div>
   <div class="column third soon">
-    <a href="{{ site.baseurl }}/trials/maw-of-lorkhaj">
+    <a href="#">
       <h3>Maw of Lorkhaj</h3>
       <img src="{{ site.baseurl }}/images/trials/MoL.jpg" alt="Maw of Lorkhaj" />
     </a>
   </div>
   <div class="column third soon">
-    <a href="{{ site.baseurl }}/trials/asylum-sanctorum">
+    <a href="#">
       <h3>Asylum Sanctorum</h3>
       <img src="{{ site.baseurl }}/images/trials/AS.jpg" alt="Asylum Sanctorum" />
     </a>
   </div>
   <div class="column half soon">
-    <a href="{{ site.baseurl }}/trials/cloudrest">
+    <a href="#">
       <h3>Cloudrest</h3>
       <img src="{{ site.baseurl }}/images/trials/CR.jpg" alt="Cloudrest" />
     </a>
   </div>
   <div class="column half soon">
-    <a href="{{ site.baseurl }}/trials/sunspire">
+    <a href="#">
       <h3>Sunspire</h3>
       <img src="{{ site.baseurl }}/images/trials/SS.jpg" alt="Sunspire" />
     </a>
