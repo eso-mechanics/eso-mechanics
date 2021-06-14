@@ -31,7 +31,7 @@ permalink: /trials/sanctum-ophidia/
     </div>
     <input type="radio" class="node" name="timeline-dot" data-description="seven">
     <div class="dot-info above" data-description="seven">
-      <span class="label">Feeding Pit</span>
+      <span class="label">Feeding Pit (optional)</span>
     </div>
     <input type="radio" class="last node" name="timeline-dot" data-description="eight">
     <div class="dot-info below" data-description="eight">
