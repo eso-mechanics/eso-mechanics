@@ -162,7 +162,7 @@ permalink: /trials/sanctum-ophidia/
             </ul>
           The effects from the Totems will remain active as long as they are still alive.
           </li>
-          <li><b>Mantikora</b> - These spawn at ~60% and again at ~40% from one of the two bloop pools on the edge of the room.  They are similar to the first boss and perform the same "Enraged Slam" ability which will do a lot of damage if it is not blocked and apply a bleed to everyone in it.</li>
+          <li><b>Mantikora</b> - These spawn at ~60% and again at ~40% from one of the two blood pools on the edge of the room.  They are similar to the first boss and perform the same "Enraged Slam" ability which will do a lot of damage if it is not blocked and apply a bleed to everyone in it.</li>
           <li><b>Lamia Howlers</b> - These spawn from the back left of the room and have a front, conal attack (a scream) which will stun anyone caught inside it that isn't blocking.  When these die they explode causing a "Sonic Boom" which does large amounts of damage to anyone nearby.</li>
           <li><b>Run to Stone</b> - The boss remains kneeling with his sword in the ground after the "Poison Mist" mechanic and small pink orbs appears around the room.  These provide a pink shield to any player that picks one up and will protect them from the "Repulse" explosion that the boss does shortly after they spawn.  This will kill anyone that is not protected.</li>
           <li><b>Celestial Spray</b> - A frontal, cleave attack which will kill anyone but the tank.</li>
