@@ -164,8 +164,8 @@ permalink: /trials/sanctum-ophidia/
           </li>
           <li><b>Mantikora</b> - These spawn at ~60% and again at ~40% from one of the two blood pools on the edge of the room.  They are similar to the first boss and perform the same "Enraged Slam" ability which will do a lot of damage if it is not blocked and apply a bleed to everyone in it.</li>
           <li><b>Lamia Howlers</b> - These spawn behind the boss on the left of the room and have a front, conal attack (a scream) which will stun anyone caught inside it that isn't blocking.  When these die they explode causing a "Sonic Boom" which does large amounts of damage to anyone nearby.</li>
-          <li><b>Run to Stone</b> - The boss remains kneeling with his sword in the ground after the "Poison Mist" mechanic and small pink orbs appears around the room.  These provide a pink shield to any player that picks one up and will protect them from the "Repulse" explosion that the boss does shortly after they spawn.  This will kill anyone that is not protected.</li>
-          <li><b>Celestial Spray</b> - A frontal, cleave attack which will kill anyone but the tank.</li>
+          <li><b>Run to Stone</b> - The boss remains kneeling with his sword in the ground after the "Poison Mist" mechanic and small pink orbs appears around the room.  These provide a pink shield to any player that picks one up and will protect them from the "Repulse" explosion that the boss does shortly after they spawn.  This will kill anything that is not protected, including any remaining Lamias.</li>
+          <li><b>Celestial Spray</b> - A frontal, cleave attack which will likely kill anyone but the tank.</li>
         </ul>
         <h2>Hardmode</h2>
         <p>Activated by burning a banner at the end of each corridor found on the left and right before entering the boss room.  This adds one additional mechanic to the mix but also makes the boss put out a bit more damage during the fight.</p>
