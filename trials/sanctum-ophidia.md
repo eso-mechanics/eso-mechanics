@@ -52,6 +52,7 @@ permalink: /trials/sanctum-ophidia/
       </div>
       <div class="section" data-description="two">
         <h2>Boss One - Possessed Mantikora</h2>
+        <img src="{{ site.baseurl }}/images/trials/so/mantikora.jpg" alt="Sanctum Ophidia - Mantikora" />
         <p>Once the majority of the enemies have been disposed of the boss will spawn in the little alcove with the torches.  While a lot more manageable today, this boss still gives a lot of players trouble due to the infamous "Popcorn" mechanic.</p>
         <ul>
           <li><b>Quake</b> - The "Popcorn" mechanic happens when the boss looks up and appears to scream.  Three players will be targeted by this attack and will each have a fast spreading AoE under their feet, three times in a row.  Each time the circle reaches its full size anyone caught inside will be thrown into the air and receive a fair amount of damage.  This can target the tank as well.</li>
@@ -94,6 +95,7 @@ permalink: /trials/sanctum-ophidia/
       </div>
       <div class="section" data-description="four">
         <h2>Boss Two - Stonebreaker</h2>
+        <img src="{{ site.baseurl }}/images/trials/so/stonebreaker.jpg" alt="Sanctum Ophidia - Stonebreaker" />
         <p>This boss is incredibly challenging with some of the changes it has seen and is considered to be a bit "broken" to many (as of the time of writing).  It can, however, be dealt with when you understand what is happening although any deaths in this fight will hurt the group a lot and this can quickly cause a domino effect which likely results in a wipe.  There is also a Shaman, War Priest and Serpent Fang with the boss.</p>
         <ul>
           <li><b>Spreading Poison</b> - As with the Trolls you have already faced, members of the group will be afflicted with a small poison circle that will do damage to anyone inside and spread to anyone it touches.  It is likely the whole group will have this on them for the majority of the fight.</li>
@@ -129,6 +131,7 @@ permalink: /trials/sanctum-ophidia/
       </div>
       <div class="section" data-description="six">
         <h2>Boss Three - Ozara</h2>
+        <img src="{{ site.baseurl }}/images/trials/so/ozara.jpg" alt="Sanctum Ophidia - Ozara" />
         <p>Shortly after entering the boss room you will see multiple enemies spawn in (all of which you have faced before) along with Ozara, a large Lamia.  The additional enemies here cause more of an issue than the boss herself typically as they will respawn ~15s after dying.  Immediately after Ozara dies the left door will open and three Trolls will come to congratulate you on your victory.</p>
         <ul>
           <li><b>Trapping Bolts</b> - The boss throws her arms up into the air and pins three group members to the floor.  These bolts can only be removed by another group member standing over them and using the provided synergy "Remove Bolt".</li>
@@ -151,6 +154,7 @@ permalink: /trials/sanctum-ophidia/
       </div>
       <div class="section" data-description="eight">
         <h2>Final Boss - The Serpent</h2>
+        <img src="{{ site.baseurl }}/images/trials/so/serpent.jpg" alt="Sanctum Ophidia - Serpent" />
         <p>This is mostly a stack and burn fight with a couple of unique mechanics that can cause some issues.  Catering to your group is key here as you may find you need to swap some skills or perform additional steps depending on the group you are in.</p>
         <ul>
           <li><b>Poison Mist</b> - The boss fades into the floor and re-appears in the centre of the circle where he spawned and kneel down.  During this attack everyone in the group will take a lot of poison damage.</li>
