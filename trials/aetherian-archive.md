@@ -57,6 +57,7 @@ permalink: /trials/aetherian-archive/
       </div>
       <div class="section" data-description="two">
         <h2>Boss One - Lightning Storm Atronach</h2>
+        <img src="{{ site.baseurl }}/images/trials/aa/storm.jpg" alt="Aetherian Archive - Lightning Storm Atronach" />
         <p>After dropping down into the next room (and after a short dialogue) a large Storm Atronach will explode into being in the centre of the middle circle on the floor.  This boss has two main attacks to be aware of:</p>
         <ul>
           <li><b>Impending Storm</b> - A large, spreading AoE that appears under the bosses feet and explodes upon reaching its full size.</li>
@@ -100,6 +101,7 @@ permalink: /trials/aetherian-archive/
       </div>
       <div class="section" data-description="five">
         <h2>Boss Two - Foundation Stone Atronach</h2>
+        <img src="{{ site.baseurl }}/images/trials/aa/stone.jpg" alt="Aetherian Archive - Foundation Stone Atronach" />
         <p>Once you are teleported down to the next island you will be greeted by a large Stone Atronach located at the rear of the island.  You will have both Chainspinners and Nullifiers spawn throughout this fight (one of each at a time).  The boss itself will do two notable attacks:</p>
         <ul>
           <li><b>Big Quake</b> - The boss spreads itself out and repeatedly pounds the ground with its head (I think...) dealing damage to everyone in the group with each hit.</li>
@@ -128,6 +130,7 @@ permalink: /trials/aetherian-archive/
       </div>
       <div class="section" data-description="seven">
         <h2>Boss Three - Varlariel</h2>
+        <img src="{{ site.baseurl }}/images/trials/aa/varlariel.jpg" alt="Aetherian Archive - Varlariel" />
         <p>A Wispmother that summons lesser versions of herself to aid her throughout the battle.</p>
         <ul>
           <li><b>Frozen Breath</b> - An AoE ability beneath and in front of the bosses feet and does a lot of damage to anyone caught inside.</li>
@@ -147,6 +150,7 @@ permalink: /trials/aetherian-archive/
       </div>
       <div class="section" data-description="eight">
         <h2>Final Boss - The Mage</h2>
+        <img src="{{ site.baseurl }}/images/trials/aa/mage.jpg" alt="Aetherian Archive - Mage" />
         <p>There is a pack of enemies to face when you reach the boss island and another wave spawns in when these are killed.  Once the last enemy dies The Mage will float down to the middle of the room and the fight begins.  Make sure your group is ready to face the boss before engaging the trash pack.</p>
         <p>The Mage has some confusing mechanics which can be incredibly punishing until they are understood.  This will be a test for your healers and off tank (especially on hardmode).</p>
         <ul>
