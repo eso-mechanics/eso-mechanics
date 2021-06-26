@@ -25,6 +25,13 @@ body {
   display: flex;
   color: $white;
   flex-direction: column;
+  background: url(images/background.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
 }
 
 .container {
@@ -171,9 +178,17 @@ img {
 //
 // .masthead
 //
+.wrapper-masthead {
+  background: #252F2F;
+  margin: 0 auto;
+  max-width: 740px;
+  width: 100%;
+  flex: 1 0 auto;
+}
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $green;
+
 
   @include sixforty {
     text-align: center;
@@ -286,6 +301,9 @@ nav {
 //
 // .main
 //
+#main {
+  background: #252F2F;
+}
 .page {
   margin-top: 20px;
 }
