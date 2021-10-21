@@ -342,6 +342,9 @@ nav {
     border-top: 2px solid $white;
     border-bottom: 2px solid $white;
   }
+  &.soon + div {
+    top: -65px;
+  }
   &.half {
     flex: 50%;
     max-width: 50%;
