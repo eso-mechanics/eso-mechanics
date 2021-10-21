@@ -41,16 +41,22 @@ permalink: /trials/
       <img src="{{ site.baseurl }}/images/trials/AS.jpg" alt="Asylum Sanctorum" />
     </a>
   </div>
-  <div class="column half soon">
+  <div class="column third soon">
     <a href="#">
       <h3>Cloudrest</h3>
       <img src="{{ site.baseurl }}/images/trials/CR.jpg" alt="Cloudrest" />
     </a>
   </div>
-  <div class="column half soon">
+  <div class="column third soon">
     <a href="#">
       <h3>Sunspire</h3>
       <img src="{{ site.baseurl }}/images/trials/SS.jpg" alt="Sunspire" />
+    </a>
+  </div>
+  <div class="column third soon">
+    <a href="#">
+      <h3>Kyne's Aegis</h3>
+      <img src="{{ site.baseurl }}/images/trials/KA.jpg" alt="Kyne's Aegis" />
     </a>
   </div>
 </div>
