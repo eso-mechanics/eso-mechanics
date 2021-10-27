@@ -282,6 +282,7 @@ nav {
     width: 220px;
     background-color: $darkerGray;
     z-index: 1;
+    border: 1px solid #DDDFDE;
     &-item {
       text-align: left;
       &:hover {
