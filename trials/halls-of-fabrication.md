@@ -44,47 +44,49 @@ permalink: /trials/halls-of-fabrication/
         <ul>
           <li><b>Kagouti Fabricants</b> - Melee enemies that perform a "Charge" ability, indicated by a rectangular AoE.</li>
           <li><b>Shalk Fabricants</b> - Small melee enemies that don't pose much of a threat.  Their attacks are mainly single target but they do have poison and fire attacks.</li>
-          <li><b>Refabricated Arquebus</b> - Spawned by the dead centurion, these are ranged enemies that have a few channeled abilities; the nastiest of which "Shack Barrage" can be interrupted.  These will do a fair amount of damage to all group members especially if they are not interrupted.</li>
+          <li><b>Refabricated Arquebus</b> - Spawned by the dead centurion, these are ranged enemies that have a few channeled abilities; the nastiest of which "Shock Barrage" can be interrupted.  These will do a fair amount of damage to all group members especially if they are not interrupted quickly.</li>
         </ul>
         <div class="spoiler">
           <input type="checkbox" class="spoiler-button">
           <div class="spoiler-head">Strategies</div>
           <div class="spoiler-body">
-            <p>Typically, groups will run past the initial enemies to where the first Refabricated Arquebus' spawn (known as spheres) and the tanks will try to group everything up.  It helps to have one tank taunt the Spheres (ranged) and one tank taunt the Kagoutis and smaller adds (melee).  This way the tank with the ranged adds can get out of their line of sight and group them up efficiently while the take with the melee adds can simply move them int the stack.</p>
-            <p>The group should spread out a little bit, be ready to interrupt the spheres and burn everything down when it is grouped up.  The spheres will attack random group members so lots of healing is required but a lot of damage can be mitigated by not stacking on top of each other.</p>
+            <p>Typically, groups will run past the initial enemies to where the first Refabricated Arquebus' (a.k.a Spheres) spawn and the tanks will try to group everything up.  It helps to have one tank taunt the Spheres (ranged) and one tank taunt the Kagoutis and smaller adds (melee).  This way the tank with the ranged adds can get out of their line of sight and group them up efficiently while the tank with the melee adds can simply move them into the stack.</p>
+            <p>The group should spread out a little, be ready to help interrupt the spheres and burn everything down when it is grouped up.  The spheres will attack random group members so lots of healing is required but a lot of damage can be mitigated by not stacking directly on top of each other.</p>
           </div>
         </div>
       </div>
       <div class="section" data-description="two">
         <h2>Boss One - The Hunter Killers</h2>
-        <p>Possibly the toughest first boss of any trial in this game even after a recent nerf to some of their abilities.  The bosses themselves have exactly the same attacks and don't pose a major threat to the group on their own (although the tanks can take considerable damage) but the Refabricated Spheres that spawn continuously through the fight are especially nasty.</p>
+        <p>Possibly the toughest first boss of any trial in this game even after a nerf to some of their abilities.  The bosses themselves have exactly the same attacks and don't pose a major threat to the group on their own (although the tanks can take considerable damage) but the Refabricated Spheres that spawn continuously throughout the fight are especially nasty.</p>
         <ul>
           <li><b>Shock Lash</b> - The boss whips it's tail at the tank causing a small amount of damage.  Small shock balls spread out and away from behind the boss and do damage to anyone they hit.</li>
-          <li><b>Charged Gore</b> - A nasty bleed that applies a healing debuff but can be purged.  This will only hit whoever has aggro so should always be on the tanks.</li>
+          <li><b>Charged Gore</b> - A nasty bleed that applies a healing debuff which can be purged.  This will only hit whoever has aggro so should always be on the tanks.</li>
           <li><b>Residual Static</b> - Whoever has aggro will get an AoE lightning field placed under their feet which does a lot of damage.</li>
-          <li><b>Lightning Lunge</b> - The bosses telegraphed, heavy attack.  If this is not blocked then the targeted player (whoever has aggro) will be pinned to the ground and another group member will need to interrupt the boss to release the pinned player.</li>
-          <li><b>Rending Leap</b> - When the player with aggro moves too far from the boss it leaps to them causing very minor damage.</li>
+          <li><b>Lightning Lunge</b> - The bosses telegraphed, heavy attack.  If this is not blocked then the targeted player (whoever has aggro) will be pinned to the ground and another group member will need to interrupt the boss to release the pinned player before they die.</li>
+          <li><b>Rending Leap</b> - When the player with aggro moves too far from the boss it leaps to them causing minor damage.</li>
+          <li><b>Enrage</b> - When the bosses get too close together they will be linked by an electric beam that enrages them both and they will do a lot more damage.  This enraged mechanic also happens to the remaining boss when the other is killed.</li>
           <li><b>Refabricated Spheres</b> - These will randomly spawn throughout the fight on the circular pads around the middle of the room accompanied by a huge shield.  They only have two attacks but both can cause major problems:
             <ul>
-              <li><b>Venom Burst</b> - A random member of the group will be targeted with a purgeable, poison DoT which quickly ramps up in damage.  This attack is used incredibly frequently so expect most of the group to have this DoT most of the fight.</li>
-              <li><b>Taking Aim</b> - An interruptible, charged shot that can be dodged.  This is aimed at a random group member and will instantly kill anyone that isn't a tank on impact.</li>
+              <li><b>Venom Burst</b> - A poison DoT that will hit group members and ramps up in damage.  This is purgable but will be a consistent source of damage for the whole group throughout the entire fight.</li>
+              <li><b>Taking Aim</b> - An interruptible, charged shot that can be dodged.  This is aimed at a random group member and will likely one-shot anyone targeted that isn't a tank.</li>
             </ul>
           </li>
-          <li><b>Shalk Fabricants</b> - These will spawn in when the bosses combined health reaches 75%, 50% and 25% and simply serve to add more damage to an already intense situation.</li>
+          <li><b>Shalk Fabricants</b> - These will spawn in when the bosses combined health reaches 75%, 50% and 25%.  They will do a fair amount of damage on top of everything else so can cause issues if they are alive for a long time.</li>
         </ul>
         <div class="spoiler">
           <input type="checkbox" class="spoiler-button">
           <div class="spoiler-head">Strategies</div>
           <div class="spoiler-body">
-            <p></p>
+            <p>There are multiple ways to handle this fight but below are two common strategies.  The first is more of a beginner/safe strat that is likely required when group DPS is low.  The second is very difficult to pull off if the group is not using an add-on (alerting them of when to dodge the "taking aim" attack) or if group DPS is low.  Either strat will require a lot of healing and a lot of purges, both healers and tanks should slot and use purge frequently where possible (sets such as Winters Respite, for more healing, and Curse Eater, free purges, can help here).  Tanks will need to block the heavy attack, purge themselves of the DoT and move out of the dropped lightning field ASAP.
+            1. The group stacks up in the middle while the tanks taunt one boss each and tank their boss on opposite sides of the room.  The group focuses one boss until it is at about 15% health and then switches to the other boss in order to kill them both at a similar time and keep the enrage to a minimum.  At least one damage dealer should slot a ranged interrupt and focus on interrupting the Spheres but these will need to be the top priority for damage throughout the fight regardless.  The shalks should also be killed ASAP when they spawn as they can cause major issues for the tanks if they choose to focus them.  The tanks will need to communicate well here, calling which Sphere they are going to focus next.  The tank holding the boss that is being damaged should stack close to the called Sphere (allowing the boss to take some cleave damage while the group focuses the sphere) while the other tank brings their boss close enough to spawn the electric beam through the Sphere (this is a very quick way to destroy the shields).  Once the shield for that Sphere is down then they should re-position in the same way on the next one (moving around the room so that the beam is never spawned through the group).
+            2. The group stacks closer to the entrance and one tank brings one boss close to the group, turning it to the side.  When the lightning field is dropped the tank can simply rotate the boss 90° ready for the next one.  The other tank can take the other boss towards the far side of the room (a little past the centre) and dance with it until the focussed boss is nearly dead.  Their job will be to interrupt as many Spheres as possible while keeping their boss away.  The group remains stacked throughout the fight, only moving to dodge the "taking aim" attack from the Spheres when required.  One healer can move closer to the centre of the room to force the boss to target them with the lightning attack from the tail swipe rather than this all going straight through the group.  When the boss is on low health the second tank can bring their boss a little closer to allow the first tank to taunt it then this one can be focussed down in the same way.  The second tank is now free to focus purely on the interrupts but do not expect these to all be caught (there will be far too many at this stage).</p>
           </div>
         </div>
       </div>
       <div class="section" data-description="three">
-        <h2>Boss One - Ra Kotu</h2>
-        <img src="{{ site.baseurl }}/images/trials/hrc/ra-kotu.jpg" alt="Hel Ra Citadel - Ra Kotu" />
-        <p>A huge air atronach that spawns in with three additional enemies and is typically pulled immediately.</p>
-        <p>His notable attacks are as follows:</p>
+        <h2>Boss Two - Pinnacle Factotum</h2>
+        <img src="{{ site.baseurl }}/images/trials/hof/pinnacle.jpg" alt="Halls of Fabrication - Pinnacle Factotum" />
+        <p>After a small pack of enemies the second boss will spawn in the middle of the room.  As with most fights in this instance there is a lot of lightning damage, stuns and magicka drain to deal with.</p>
         <ul>
           <li><b>Gusts of wind</b> - Small red AoEs that will lock on to and follow a single group member.  The circle does a small amount of damage to anyone inside and can quickly switch targets.  A single group member can get targeted by multiple gusts at a time.</li>
           <li><b>Heavy Attack</b> - Indicated by the usual "yellow sparks" the boss wraps his arms around his body and unleashes a powerful attack on whoever has aggro.</li>
