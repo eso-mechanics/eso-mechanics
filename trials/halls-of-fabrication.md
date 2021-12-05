@@ -128,7 +128,7 @@ permalink: /trials/halls-of-fabrication/
         <p>An archer that specialises in ranged attacks and controls welwa companions who aid him in battle.</p>
         <ul>
           <li><b>Release Flame</b> - A flame arrow will be shot towards a group member which hits the ground and splits into four flame trails, spreading out in different directions from the point of impact.</li>
-          <li><b>Reposition</b> - The boss will run away from the tank and reposition himself in order to attack from a range position.</li>
+          <li><b>Reposition</b> - The boss will run away from the tank and reposition himself in order to attack from a range.</li>
           <li><b>Armored Welwas</b> - Very similar to the welwas you faced previously but with an additional enrage mechanic.  They will be summoned continuously throughout the fight (if the fight lasts a long time you will have many of these to deal with).  After being alive for some time these will enrage, growing larger and hit a lot harder.  Any welwas that die during this battle will be resurrected by the boss.</li>
         </ul>
         <div class="spoiler">
