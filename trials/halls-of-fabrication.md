@@ -83,7 +83,6 @@ permalink: /trials/halls-of-fabrication/
       </div>
       <div class="section" data-description="three">
         <h2>Boss Two - Pinnacle Factotum</h2>
-        <img src="{{ site.baseurl }}/images/trials/hof/pinnacle.jpg" alt="Halls of Fabrication - Pinnacle Factotum" />
         <p>After a small pack of enemies the second boss will spawn in the middle of the room.  As with most fights in this instance there is a lot of lightning AoE damage, stuns and magicka drain to deal with.  After this fight a teleportation beam will appear in the middle of the room which grants access to the next area.</p>
         <ul>
           <li><b>Lightning Strike</b> - The bosses light attack.</li>
