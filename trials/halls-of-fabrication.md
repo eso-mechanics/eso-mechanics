@@ -18,19 +18,19 @@ permalink: /trials/halls-of-fabrication/
       <span class="label">Boss Two</span>
     </div>
     <input type="radio" class="node" name="timeline-dot" data-description="four">
-    <div class="dot-info above" data-description="four">
+    <div class="dot-info below" data-description="four">
       <span class="label">Boss Three</span>
     </div>
     <input type="radio" class="node" name="timeline-dot" data-description="five">
-    <div class="dot-info below" data-description="five">
+    <div class="dot-info above" data-description="five">
       <span class="label">Tunnels and Junkyard</span>
     </div>
     <input type="radio" class="node" name="timeline-dot" data-description="six">
-    <div class="dot-info above" data-description="six">
+    <div class="dot-info below" data-description="six">
       <span class="label">Boss Four</span>
     </div>
-    <input type="radio" class="node" name="timeline-dot" data-description="seven">
-    <div class="dot-info below" data-description="seven">
+    <input type="radio" class="last node" name="timeline-dot" data-description="seven">
+    <div class="dot-info above" data-description="seven">
       <span class="label">Final Boss</span>
     </div>
     <div id="timeline-descriptions-wrapper">
