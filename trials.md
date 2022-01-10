@@ -23,8 +23,8 @@ permalink: /trials/
       <img src="{{ site.baseurl }}/images/trials/AA.jpg" alt="Aetherian Archive" />
     </a>
   </div>
-  <div class="column third soon">
-    <a href="#">
+  <div class="column third">
+    <a href="{{ site.baseurl }}/trials/halls-of-fabrication">
       <h3>Halls of Fabrication</h3>
       <img src="{{ site.baseurl }}/images/trials/HoF.jpg" alt="Halls of Fabrication" />
     </a>
