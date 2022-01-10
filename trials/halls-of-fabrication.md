@@ -133,6 +133,7 @@ permalink: /trials/halls-of-fabrication/
           <li><b>Capacitor</b> - Another robot but this time one is ranged, whereas the Calefactor and Dissector are melee, making it awkward to position.  It will perform an AoE attack on a player which hits hard and will drain magicka.</li>
           <li><b>Ruptured Centurion</b> - The larger robots should be handled by a tank and turned away from the group to avoid any cleave damage.  Once they are nearly dead they will revive several Refabricated Arquebuses in the area that perform the same attacks as those previously.</li>
         </ul>
+      </div>
       <div class="section" data-description="six">
         <h2>Boss Four - The Refabrication Committee</h2>
         <p>This boss fight consists of three separate enemies, the Reducer (left), Reclaimer (middle) and Reactor (right).  Each one has it's own mechanics which require decent co-ordination and movement from the tanks to deal with along with prioritising which targets to DPS and burst damage where required.</p>
