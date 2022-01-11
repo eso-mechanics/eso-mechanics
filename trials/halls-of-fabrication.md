@@ -180,7 +180,7 @@ permalink: /trials/halls-of-fabrication/
           <div class="spoiler-body">
             <p>I'll cover two approaches to this fight that are commonly used.  The first is a safer approach and the second is a more optimised but riskier tactic that will be harder with lower DPS.  A couple of things are common for both approaches:</p>
             <ul>
-              <li>Assign each group member a position in the centre square before starting so you are not stacked up on top of each other.  We typically put two DDs at the end of each of the blade tracks, healers on opposite corners and tanks on the other corners.  Remember your positions and get there as soon as possible in execute.</li>
+              <li>Each group member should be assigned a position in the centre square before starting so you are not stacked up on top of each other.  We typically put two DDs at the end of each of the blade tracks, healers on opposite corners and tanks on the other corners.  Remember your positions and get there as soon as possible in execute.</li>
               <li>Only two terminals need to be killed to avoid a one-shot from Terminal Feedback and organising which terminals you will kill will help you stay together as a group.  Typically we would opt to always turn right when navigating the corridors.</li>
               <li>In execute everyone should stick to their role and trust the others; there needs to be enough damage here as your healers will not be able to sustain indefinitely.  Tanks can supply additional healing with Echoing Vigor and Healing Orbs but DDs should focus on parsing on the boss here rather than shielding etc.</li>
             </ul>
