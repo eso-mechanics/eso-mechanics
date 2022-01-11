@@ -55,8 +55,8 @@ permalink: /trials/
   </div>
   <div class="column third soon">
     <a href="#">
-      <h3>Kyne's Aegis</h3>
-      <img src="{{ site.baseurl }}/images/trials/KA.jpg" alt="Kyne's Aegis" />
+      <h3>Kynes Aegis</h3>
+      <img src="{{ site.baseurl }}/images/trials/KA.jpg" alt="Kynes Aegis" />
     </a>
   </div>
 </div>
