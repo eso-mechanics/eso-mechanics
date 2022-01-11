@@ -161,7 +161,7 @@ permalink: /trials/halls-of-fabrication/
         <h2>Final Boss - Assembly General</h2>
         <p>On huge robot.  This big boy won't be moved by anyone but he will change positions at set times during the fight.  There's a lot going on here and a lot of different things out to kill you so healers will need to be on their toes while you learn it.</p>
         <ul>
-          <li><b>Stomp</b> - The boss crashes his LEFT foot into the group knocking anyone nearby flying backwards unless they are blocking.</li>
+          <li><b>Stomp</b> - The boss crashes his LEFT foot into the group knocking anyone nearby flying backwards unless they are blocking.  Failing to block three of these stomps in a row will result in that players demise.</li>
           <li><b>Bombard</b> - Meteors will continuously rain down on members of the group causing a fair amount of damage.</li>
           <li><b>Toxic Coolant</b> - When the boss is at the end of any of the four corridors there will always be poison directly behind him.  This poison hits extremely hard and nobody can survive it for long.  When the boss moves to the middle this poison will spread along the edges of all four corridors.</li>
           <li><b>Sawblade & Enkindle</b> - The bosses left arm will shoot fire and the right arm will attempt to cut through the group.  These arms will first target anyone on their respective platforms but if there is nobody there they will target the tank/group in front of the boss.</li>
