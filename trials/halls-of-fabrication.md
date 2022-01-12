@@ -53,6 +53,7 @@ permalink: /trials/halls-of-fabrication/
       </div>
       <div class="section" data-description="two">
         <h2>Boss One - The Hunter Killers</h2>
+        <img src="{{ site.baseurl }}/images/trials/hof/hunter-killers.jpg" alt="Halls of Fabrication - The Hunter Killers" />
         <p>Possibly the toughest first boss of any trial in this game even after a nerf to some of their abilities.  The bosses themselves have exactly the same attacks and don't pose a major threat to the group on their own (although the tanks can take considerable damage) but the Refabricated Spheres that spawn continuously throughout the fight are especially nasty.</p>
         <ul>
           <li><b>Shock Lash</b> - The boss whips its tail at the tank causing a small amount of damage.  Small shock balls spread out and away from behind the boss and do damage to anyone they hit.</li>
@@ -83,6 +84,7 @@ permalink: /trials/halls-of-fabrication/
       </div>
       <div class="section" data-description="three">
         <h2>Boss Two - Pinnacle Factotum</h2>
+        <img src="{{ site.baseurl }}/images/trials/hof/pinnacle-factotum.jpg" alt="Halls of Fabrication - Pinnacle Factotum" />
         <p>After a small pack of enemies the second boss will spawn in the middle of the room.  As with most fights in this instance there is a lot of lightning AoE damage, stuns and magicka drain to deal with.  After this fight a teleportation beam will appear in the middle of the room which grants access to the next area.</p>
         <ul>
           <li><b>Lightning Strike</b> - The bosses light attack.</li>
@@ -109,6 +111,7 @@ permalink: /trials/halls-of-fabrication/
       </div>
       <div class="section" data-description="four">
         <h2>Boss Three - Archcustodian</h2>
+        <img src="{{ site.baseurl }}/images/trials/hof/archcustodian.jpg" alt="Halls of Fabrication - Archcustodian" />
         <p>The next room has a LOT of Refabricated Spiders to deal with while avoiding Whirring Blade Traps which continuously spin and travel along their tracks.  The spiders don't pose a major threat but can explode and charge up others; the blades, however, will stack a nasty bleed on anyone they hit.  Once the room has been cleared you can engage the huge spider boss: The Archcustodian, who is hanging around on the opposite side of the room to the entrance.  The boss itself does not actually perform any attacks but that does not mean it is easy.  Instead I'll highlight the main fight components and what threat the other enemies pose.</p>
         <ul>
           <li><b>Archcustodian</b> - From the start of the fight the Archcustodian will have a shield which will do a huge amount of damage to anyone who touches it and will reflect projectiles.  The shield can only be removed by having the Archcustodian walk into a shock laser trap which are located at the pylons throughout the room and activated by pulling the nearby levers.  These traps are only active for a few seconds and have a large cooldown but activating them at the right time will remove the bosses shield and stun it for a short time.  Unfortuantely, shortly after a lever has been pulled two enemies will spawn and the boss will speed up slightly.  If you move too far away from the boss you will get targeted with a ranged attack which does a lot of damage.</li>
@@ -136,6 +139,7 @@ permalink: /trials/halls-of-fabrication/
       </div>
       <div class="section" data-description="six">
         <h2>Boss Four - The Refabrication Committee</h2>
+        <img src="{{ site.baseurl }}/images/trials/hof/refabrication-committee.jpg" alt="Halls of Fabrication - The Refabrication Committee" />
         <p>This boss fight consists of three separate enemies, the Reducer (left), Reclaimer (middle) and Reactor (right).  Each one has its own mechanics which require decent co-ordination and movement from the tanks to deal with along with prioritising which targets to DPS and burst damage where required.</p>
         <ul>
           <li><b>Reducer</b> - Melee boss that performs a heavy attack (Clash) which does a lot of damage and will one shot anyone when it is enraged. Swings its sword to fire off three fire AoEs that move around the room and put a burning DoT on anyone they touch (Fire Whirl).</li>
@@ -159,6 +163,7 @@ permalink: /trials/halls-of-fabrication/
       </div>
       <div class="section" data-description="seven">
         <h2>Final Boss - Assembly General</h2>
+        <img src="{{ site.baseurl }}/images/trials/hof/assembly-general.jpg" alt="Halls of Fabrication - Assembly General" />
         <p>On huge robot.  This big boy won't be moved by anyone but he will change positions at set times during the fight.  There's a lot going on here and a lot of different things out to kill you so healers will need to be on their toes while you learn it.</p>
         <ul>
           <li><b>Stomp</b> - The boss crashes his LEFT foot into the group knocking anyone nearby flying backwards unless they are blocking.  Failing to block three of these stomps in a row will result in that players demise.</li>
