@@ -79,7 +79,7 @@ permalink: /trials/asylum-sanctorium/
         </div>
       </div>
       <div class="section" data-description="four">
-        <h2>Boss Two - Saint Olms the Just</h2>
+        <h2>Final Boss - Saint Olms the Just</h2>
         <img src="{{ site.baseurl }}/images/trials/as/st-olms.jpg" alt="Asylum Sanctorium - St Olms the Just" />
         <p>The huge mechanical dragon is found behind the gates found straight ahead after entering the trial.  He hits really hard and has several mechanics that can cause a lot of issues if you don't pay close attention to what is happening around you and co-ordinate well as a group.</p>
         <ul>
