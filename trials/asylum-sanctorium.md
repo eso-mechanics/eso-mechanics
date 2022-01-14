@@ -6,19 +6,19 @@ permalink: /trials/asylum-sanctorium/
 <div class="flex-parent">
   <div class="input-flex-container">
     <input type="radio" class="first node" name="timeline-dot" data-description="one" checked>
-    <div class="dot-info above" data-description="one">
+    <div class="dot-info as above" data-description="one">
       <span class="label">Intro</span>
     </div>
     <input type="radio" class="node" name="timeline-dot" data-description="two">
-    <div class="dot-info below" data-description="two">
+    <div class="dot-info as below" data-description="two">
       <span class="label">Boss One</span>
     </div>
     <input type="radio" class="node" name="timeline-dot" data-description="three">
-    <div class="dot-info above" data-description="three">
+    <div class="dot-info as above" data-description="three">
       <span class="label">Boss Two</span>
     </div>
     <input type="radio" class="last node" name="timeline-dot" data-description="four">
-    <div class="dot-info below" data-description="four">
+    <div class="dot-info as below" data-description="four">
       <span class="label">Final Boss</span>
     </div>
     <div id="timeline-descriptions-wrapper">

@@ -466,6 +466,11 @@ input.node {
       text-align: center;
     }
   }
+  &.as {
+    span.label {
+      left: -35px;
+    }
+  }
   &.below .label {
     top: 45px;
   }
