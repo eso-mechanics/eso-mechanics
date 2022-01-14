@@ -29,6 +29,7 @@ permalink: /trials/asylum-sanctorium/
       </div>
       <div class="section" data-description="two">
         <h2>Boss One - Saint Llothis the Pious</h2>
+        <img src="{{ site.baseurl }}/images/trials/as/st-llothis.jpg" alt="Asylum Sanctorium - St Llothis the Pious" />
         <p>Going left when facing the gate to the final boss will take you to Saint Llothis.  The boss mainly performs AoE poison attacks which require quick reactions and decent positioning to deal with.</p>
         <ul>
           <li><b>Noxious Gas</b> - The boss teleports to three locations around the area, leaving behind a poisonous AoE which will damage and snare any players inside.</li>
@@ -56,6 +57,7 @@ permalink: /trials/asylum-sanctorium/
       </div>
       <div class="section" data-description="three">
         <h2>Boss Two - Saint Felms the Bold</h2>
+        <img src="{{ site.baseurl }}/images/trials/as/st-felms.jpg" alt="Asylum Sanctorium - St Felms the Bold" />
         <p>Going right when facing the gate to the final boss will take you to Saint Felms.  This boss can get very messy, very quickly if some key mechanics are not dealt with properly.  This is mainly because he leaves lingering AoEs in the wake of some of his attacks which can leave you very little room left to work with if you are not careful.</p>
         <ul>
           <li><b>Teleport Strike</b> - The boss will teleport to the furthest player away from him, inflict them with a small bleeding DoT and leave behind a large, lingering AoE which deals more damage the longer you are inside it (Shrapnel Storm).  The number of jumps the boss performs increases as the fight progresses: while above 75% health the boss will jump once, 75% - 50% health you will get two and while less than 50% health you will get three jumps.</li>
@@ -78,6 +80,7 @@ permalink: /trials/asylum-sanctorium/
       </div>
       <div class="section" data-description="four">
         <h2>Boss Two - Saint Olms the Just</h2>
+        <img src="{{ site.baseurl }}/images/trials/as/st-olms.jpg" alt="Asylum Sanctorium - St Olms the Just" />
         <p>The huge mechanical dragon is found behind the gates found straight ahead after entering the trial.  He hits really hard and has several mechanics that can cause a lot of issues if you don't pay close attention to what is happening around you and co-ordinate well as a group.</p>
         <ul>
           <li><b>Swipe</b> - The bosses light attack hits incredibly hard.</li>
