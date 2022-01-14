@@ -17,7 +17,7 @@ permalink: /trials/asylum-sanctorium/
     <div class="dot-info above" data-description="three">
       <span class="label">Boss Two</span>
     </div>
-    <input type="radio" class="node" name="timeline-dot" data-description="four">
+    <input type="radio" class="last node" name="timeline-dot" data-description="four">
     <div class="dot-info below" data-description="four">
       <span class="label">Final Boss</span>
     </div>
