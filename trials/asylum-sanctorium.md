@@ -30,18 +30,18 @@ permalink: /trials/asylum-sanctorium/
       <div class="section" data-description="two">
         <h2>Boss One - Saint Llothis the Pious</h2>
         <img src="{{ site.baseurl }}/images/trials/as/st-llothis.jpg" alt="Asylum Sanctorium - St Llothis the Pious" />
-        <p>Going left when facing the gate to the final boss will take you to Saint Llothis.  The boss mainly performs AoE poison attacks which require quick reactions and decent positioning to deal with.</p>
+        <p>Going left when facing the gate to the final boss will take you to Saint Llothis.  This boss mainly performs AoE poison attacks which require quick reactions and decent positioning to deal with.</p>
         <ul>
-          <li><b>Noxious Gas</b> - The boss teleports to three locations around the area, leaving behind a poisonous AoE which will damage and snare any players inside.</li>
+          <li><b>Noxious Gas</b> - The boss teleports to another area in the room (there are three set locations), leaving behind a poisonous AoE which will damage and snare any players inside.</li>
           <li><b>Defiled Blast</b> - The boss will turn to a random player and target them with a large conal AoE which will follow that player around.  This player will have a green, glowing effect on them to indicate that they have been targeted.  The attack will do fair damage to the targeted player but considerably more to any other players caught within the cone.</li>
-          <li><b>Oppressive Bolts</b> - The boss starts channeling an effect on himself (Soul Stained Corruption) indicated by a growing AoE underneath his feet.  Any players caught inside this AoE when it reaches its full size will be pushed back.  Upon finishing the channel the boss will start to fire poison bolts randomly at players of the group which deal a lot of damage.  The attack can be interrupted.</li>
-          <li><b>Corroding Bolt/Unraveling Energies</b> - The boss briefly channels an attack before hitting the player with aggro with an AoE poison attack.  Does minor damage to the tank but will also splash onto any other players in the AoE.</li>
-          <li><b>Imperfect Attendants</b> - The bosses two assistants will awaken shortly after the fight begins and become inactive when their health is nearly depleted.  After a while they will re-activate and repeat this cycle throughout the fight unless they are not damaged.  If they are left alive they will enrage (after approximately thirty seconds).  They do have a few notable attacks:
+          <li><b>Oppressive Bolts</b> - The boss starts channeling an attack (Soul Stained Corruption) indicated by a growing AoE underneath his feet.  Any players caught inside this AoE when it reaches its full size will be pushed back.  Upon finishing the channel the boss will start to fire poison bolts randomly at group members which deal a lot of damage.  The attack can be interrupted.</li>
+          <li><b>Corroding Bolt/Unraveling Energies</b> - The boss briefly channels an attack before hitting the player with aggro with an AoE poison attack.  Does minor damage to the tank but will also splash onto any other players inside the AoE.</li>
+          <li><b>Imperfect Attendants</b> - The bosses two assistants will awaken shortly after the fight begins and become inactive once their health has nearly depleted.  After a short while of being inactive they will re-activate and repeat this cycle throughout the fight unless they are not damaged.  If they are left alive they will enrage (after approximately thirty seconds) and they do have a few notable attacks:
             <ul>
               <li><b>Hydraulic Sweep</b> - Frontal conal attack that does a fair amount of damage.</li>
-              <li><b>Pulverize</b> - A leap into the air followed by a slam to the ground which deals a large amount of damage in an AoE around the enemy.</li>
+              <li><b>Pulverize</b> - A leap into the air followed by a slam to the ground which deals a large amount of damage in an AoE around themselves.</li>
               <li><b>Energy Arc</b> - A laser beam attack that does a lot of damage.  Will be targeted at whoever has aggro but hit anyone else caught in the beam or final AoE explosion.</li>
-              <li><b>Pulse & Expunge</b> - Shock and physical damage attacks, basically the basic/light attacks from the boss.</li>
+              <li><b>Pulse & Expunge</b> - Shock and physical damage attacks, these can be considered the light attacks from the boss.</li>
             </ul>
           </li>
         </ul>
