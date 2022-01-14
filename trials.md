@@ -36,9 +36,9 @@ permalink: /trials/
     </a>
   </div>
   <div class="column third">
-    <a href="#">
-      <h3>Asylum Sanctorum</h3>
-      <img src="{{ site.baseurl }}/images/trials/AS.jpg" alt="Asylum Sanctorum" />
+    <a href="{{ site.baseurl }}/trials/asylum-sanctorium">
+      <h3>Asylum Sanctorium</h3>
+      <img src="{{ site.baseurl }}/images/trials/AS.jpg" alt="Asylum Sanctorium" />
     </a>
   </div>
   <div class="column third soon">

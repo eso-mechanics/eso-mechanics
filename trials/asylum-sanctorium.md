@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Asylum Sanctorum
-permalink: /trials/asylum-sanctorum/
+title: Asylum Sanctorium
+permalink: /trials/asylum-sanctorium/
 ---
 <div class="flex-parent">
   <div class="input-flex-container">
