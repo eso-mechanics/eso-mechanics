@@ -53,7 +53,7 @@ permalink: /trials/sanctum-ophidia/
       <div class="section" data-description="two">
         <h2>Boss One - Possessed Mantikora</h2>
         <img src="{{ site.baseurl }}/images/trials/so/mantikora.jpg" alt="Sanctum Ophidia - Mantikora" />
-        <p>Once the majority of the enemies have been disposed of the boss will spawn in the little alcove with the torches.  While a lot more manageable today, this boss still gives a lot of players trouble due to the infamous "Popcorn" mechanic.</p>
+        <p>Once the majority of the enemies have been disposed of the boss will spawn in the little alcove with the altars.  While a lot more manageable today, this boss still gives a lot of players trouble due to the infamous "Popcorn" mechanic.</p>
         <ul>
           <li><b>Quake</b> - The "Popcorn" mechanic happens when the boss looks up and appears to scream.  Three players will be targeted by this attack and will each have a fast spreading AoE under their feet, three times in a row.  Each time the circle reaches its full size anyone caught inside will be thrown into the air and receive a fair amount of damage.  This can target the tank as well.</li>
           <li><b>Enraged Slam</b> - A huge AoE spreads out from beneath the bosses feet and hits everyone inside once it reaches its full size which will do a lot of damage if not blocked.  Everyone inside will be affected by a bleed that does not clear until your health reaches full.</li>

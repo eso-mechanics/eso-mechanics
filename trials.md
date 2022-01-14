@@ -35,7 +35,7 @@ permalink: /trials/
       <img src="{{ site.baseurl }}/images/trials/MoL.jpg" alt="Maw of Lorkhaj" />
     </a>
   </div>
-  <div class="column third soon">
+  <div class="column third">
     <a href="#">
       <h3>Asylum Sanctorum</h3>
       <img src="{{ site.baseurl }}/images/trials/AS.jpg" alt="Asylum Sanctorum" />
