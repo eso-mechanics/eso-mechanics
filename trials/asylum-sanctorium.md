@@ -9,7 +9,7 @@ permalink: /trials/asylum-sanctorium/
     <div class="dot-info above" data-description="one">
       <span class="label">Intro</span>
     </div>
-    <input type="radio" class="first node" name="timeline-dot" data-description="two" checked>
+    <input type="radio" class="node" name="timeline-dot" data-description="two">
     <div class="dot-info below" data-description="two">
       <span class="label">Boss One</span>
     </div>
