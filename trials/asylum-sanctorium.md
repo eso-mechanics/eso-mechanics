@@ -93,6 +93,8 @@ permalink: /trials/asylum-sanctorium/
           <li><b>Ordinated Protector</b> - Little dwemer spheres will continuously spawn in front of the boss throughout the fight.  These do not actually attack but instead serve to protect the main boss by maintaining an invulnerable shield on him (Static Shield) indicated by the lightning beam they shoot at the boss.  These will randomly choose one of many "turret" locations in the room which are indicated by the small, dark squares you can see on the floor which they will quickly move to and deploy the shield from.</li>
           <li><b>Ordinated Purifier</b> - Little dwemer spiders that will target a random player, run towards them and self destruct (Martyrs Meltdown).  They will leave behind a fire AoE where they died but it does not do a large amount of damage.</li>
         </ul>
+        <h2>Hardmode</h2>
+        <p>As mentioned in the introduction there is nothing mechanically different in hardmode here for the main boss itself; all of his attacks will play out in exactly the same way as non-hardmode.  The difference is that you will now need to fight the other boss/es, dealing with their own mechanics, at the same time as the main boss and this overlapping of mechanics makes the fight a lot more difficult.</p>
         <div class="spoiler">
           <input type="checkbox" class="spoiler-button">
           <div class="spoiler-head">Strategies</div>
