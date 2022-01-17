@@ -81,7 +81,7 @@ permalink: /trials/asylum-sanctorium/
       <div class="section" data-description="four">
         <h2>Saint Olms the Just</h2>
         <img src="{{ site.baseurl }}/images/trials/as/st-olms.jpg" alt="Asylum Sanctorium - St Olms the Just" />
-        <p>The huge mechanical dragon is found behind the gates found straight ahead after entering the trial.  He hits really hard and has several mechanics that can cause a lot of issues if you don't pay close attention to what is happening around you and co-ordinate well as a group.</p>
+        <p>The huge mechanical dragon lurks behind the gates found straight ahead after entering the trial.  He hits incredibly hard with his basic attacks and has several mechanics that can cause a lot of issues if you don't pay close attention to what is happening around you and co-ordinate well as a group.</p>
         <ul>
           <li><b>Swipe</b> - The bosses light attack hits incredibly hard.</li>
           <li><b>Gusts of Steam</b> - The boss jumps into the air four times, landing each time at a set location on the opposite side of the room and dealing huge damage to anyone in his landing zone (huge AoE) but also doing moderate damage to everyone no matter where they are.  Everyone will get their own AoE under their feet during this attack and overlapping with another players AoE will cause you to take additional damage.  These jumps occur when the bosses health reaches 90%, 75%, 50% and 25%.</li>
