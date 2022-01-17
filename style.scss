@@ -545,6 +545,11 @@ $descriptions: 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', '
 		width: 60px;
 		height: 60px;
 		margin: 0 20px 50px;
+    &.as {
+      span.label {
+        left: 8px;
+      }
+    }
   }
 	input.node {
 		background-color: transparent !important;
