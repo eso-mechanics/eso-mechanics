@@ -11,15 +11,15 @@ permalink: /trials/asylum-sanctorium/
     </div>
     <input type="radio" class="node" name="timeline-dot" data-description="two">
     <div class="dot-info as below" data-description="two">
-      <span class="label">Boss One</span>
+      <span class="label">St Llothis</span>
     </div>
     <input type="radio" class="node" name="timeline-dot" data-description="three">
     <div class="dot-info as above" data-description="three">
-      <span class="label">Boss Two</span>
+      <span class="label">St Felms</span>
     </div>
     <input type="radio" class="last node" name="timeline-dot" data-description="four">
     <div class="dot-info as below" data-description="four">
-      <span class="label">Final Boss</span>
+      <span class="label">St Olms</span>
     </div>
     <div id="timeline-descriptions-wrapper">
       <div class="section" data-description="one">
@@ -28,7 +28,7 @@ permalink: /trials/asylum-sanctorium/
         <p>As you can imagine the difficulty jumps up quite considerably when you have to deal with multiple bosses.  We will look at each bosses mechanics in detail individually and give general tips on the final boss fight with and without additional bosses.</p>
       </div>
       <div class="section" data-description="two">
-        <h2>Boss One - Saint Llothis the Pious</h2>
+        <h2>Saint Llothis the Pious</h2>
         <img src="{{ site.baseurl }}/images/trials/as/st-llothis.jpg" alt="Asylum Sanctorium - St Llothis the Pious" />
         <p>Going left when facing the gate to the final boss will take you to Saint Llothis.  This boss mainly performs AoE poison attacks which require quick reactions and decent positioning to deal with.</p>
         <ul>
@@ -56,7 +56,7 @@ permalink: /trials/asylum-sanctorium/
         </div>
       </div>
       <div class="section" data-description="three">
-        <h2>Boss Two - Saint Felms the Bold</h2>
+        <h2>Saint Felms the Bold</h2>
         <img src="{{ site.baseurl }}/images/trials/as/st-felms.jpg" alt="Asylum Sanctorium - St Felms the Bold" />
         <p>Going right when facing the gate to the final boss will take you to Saint Felms.  This boss can get very messy, very quickly if some key mechanics are not dealt with properly.  This is mainly because he leaves lingering AoEs in the wake of some of his attacks which can leave you very little room left to work with if you are not careful.  Getting hit by any of his attacks will also apply Maim (shown as a buff in esologs currently) to the player causing their attacks to do less damage.</p>
         <ul>
@@ -79,7 +79,7 @@ permalink: /trials/asylum-sanctorium/
         </div>
       </div>
       <div class="section" data-description="four">
-        <h2>Final Boss - Saint Olms the Just</h2>
+        <h2>Saint Olms the Just</h2>
         <img src="{{ site.baseurl }}/images/trials/as/st-olms.jpg" alt="Asylum Sanctorium - St Olms the Just" />
         <p>The huge mechanical dragon is found behind the gates found straight ahead after entering the trial.  He hits really hard and has several mechanics that can cause a lot of issues if you don't pay close attention to what is happening around you and co-ordinate well as a group.</p>
         <ul>
