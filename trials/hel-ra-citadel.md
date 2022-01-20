@@ -213,9 +213,9 @@ permalink: /trials/hel-ra-citadel/
             <div class="spoiler">
               <input type="checkbox" class="spoiler-button">
               <div class="spoiler-head">Positioning</div>
-                <div class="spoiler-body">
-                  <a href="{{ site.baseurl }}/images/trials/hrc/boss-room.jpg" target="_blank">
-                    <img src="{{ site.baseurl }}/images/trials/hrc/boss-room.jpg" alt="Hel Ra Citadel - Positioning" />
+                <div class="spoiler-body hrc">
+                  <a href="{{ site.baseurl }}/images/trials/hrc/positioning.jpg" target="_blank">
+                    <img src="{{ site.baseurl }}/images/trials/hrc/positioning.jpg" alt="Hel Ra Citadel - Positioning" />
                   </a>
                   <h3>Key:</h3>
                   <ul class="clearfix key">
