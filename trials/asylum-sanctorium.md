@@ -111,7 +111,7 @@ permalink: /trials/asylum-sanctorium/
                   <a href="{{ site.baseurl }}/images/trials/as/positioning.jpg" target="_blank">
                     <img src="{{ site.baseurl }}/images/trials/as/positioning.jpg" alt="Asylum Sanctorium - Positioning" />
                   </a>
-                  <p>Positioning as shown allows DDs to avoid each other while kiting, gives the tank healer the front of the arena to position the AoEs and the group healer space to position the jump from St Felms.  There is an off tank shown here which is more for hardmode as this is you would want the additional bosses positioned as much as possible but this is not required in non-hardmode.  There are also eight DDs shown but this would obviously drop to seven in hardmode giving each DD a little more space.</p>
+                  <p>Positioning as shown allows DDs to avoid each other while kiting, gives the tank healer the front of the arena to position the AoEs and the group healer space to position the jump from St Felms.  There is an off tank shown here which is only required for hardmode as this is where you would want the additional bosses positioned as much as possible.  There are also eight DDs shown but this would likely increase to nine in non-hardmode (+0) giving each DD a little less space to work with.</p>
                 </div>
             </div>
             <h3>Hardmode</h3>
