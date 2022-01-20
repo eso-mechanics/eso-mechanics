@@ -487,18 +487,19 @@ input.node {
     text-align: center;
   }
   img {
+    float: right;
+    width: 330px;
+    height: 330px;
     padding: 20px;
     border-radius: 8%;
     position: relative;
     z-index: 1;
   }
   .hrc img {
-    float: right;
-    width: 330px;
-    height: 330px;
+
   }
   .as img {
-    
+
   }
 }
 
