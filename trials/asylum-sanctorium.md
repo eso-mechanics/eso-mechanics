@@ -3,7 +3,7 @@ layout: page
 title: Asylum Sanctorium
 permalink: /trials/asylum-sanctorium/
 ---
-<div class="flex-parent">
+<div class="flex-parent as">
   <div class="input-flex-container">
     <input type="radio" class="first node" name="timeline-dot" data-description="one" checked>
     <div class="dot-info as above" data-description="one">
@@ -104,10 +104,10 @@ permalink: /trials/asylum-sanctorium/
             <p><b>Kite/Tank Healer</b> - You will hug the front wall and behave as a kiter for the lightning AoEs; aiming to drop them off at the edge of the room, getting out of them quickly and keeping themselves and you alive.  Correctly positioning these AoEs is key as you will also need to avoid the Scalding Breath from the boss.  When the boss jumps you can either make your way to the exit side to provide heals for the players there or hug the front wall to avoid a one shot from the boss landing on your head.</p>
             <p><b>Group Healer</b> - You should always be behind the DDs and keep an eye on the bosses health to ensure you can get to a safe location for the jumps (Gusts of Steam) as the first jump will likely be directly on top of you.  From the back of the room the whole group can be healed (mainly with Radiating Regeneration) and you should aim to move to the entrance side during the jumps in order to heal the players there.  During the kite phase (Storm the Heavens) you should make sure you quickly move towards the back of the room while throwing out some heals in order to give the DDs space to kite the AoEs.</p>
             <p><b>Damage Dealers</b> - Before 90% the boss will not perform the Storm the Heavens mechanic and so you just need to be careful of the jumps.  After he has landed back towards the tank it is important that you get to your assigned position and stay there, making sure you do not step in front of the boss at all to avoid getting a lightning field landing at your location.  When the protector spheres spawn these need to be killed before you can damage the boss further; it is recommended to do this from range where possible (you can tab target these through the boss without moving) and keep to your assigned positions.  When the boss jumps you should go to the closest safe zone (this will be entrance/exit), don't stack on other players, block and shield/self heal.  Once you are comfortable with the bosses jumping positions you can continue to DPS the boss during this mechanic but you will still need to be healed.  In execute, try to quickly ascertain where the third (central) fire AoE is going to land and if you can move to a safe area (again this will be either entrance/exit) then do so.  If not, block the fire wave and trust that your supports will purge you (shield if needed).</p>
-            <div class="spoiler">
+            <div class="spoiler as">
               <input type="checkbox" class="spoiler-button">
               <div class="spoiler-head">Positioning</div>
-                <div class="spoiler-body as">
+                <div class="spoiler-body">
                   <a href="{{ site.baseurl }}/images/trials/as/positioning.jpg" target="_blank">
                     <img src="{{ site.baseurl }}/images/trials/as/positioning.jpg" alt="Asylum Sanctorium - Positioning" />
                   </a>
