@@ -495,11 +495,15 @@ input.node {
     position: relative;
     z-index: 1;
   }
-  .hrc img {
-
-  }
-  .as img {
-
+  .as {
+    text-align: left;
+    img {
+      width: auto;
+      height: auto;
+    }
+    p {
+      text-align: left;
+    }
   }
 }
 
