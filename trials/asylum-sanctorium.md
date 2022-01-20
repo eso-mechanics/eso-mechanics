@@ -11,24 +11,24 @@ permalink: /trials/asylum-sanctorium/
     </div>
     <input type="radio" class="node" name="timeline-dot" data-description="two">
     <div class="dot-info as below" data-description="two">
-      <span class="label">Boss One</span>
+      <span class="label">St Llothis</span>
     </div>
     <input type="radio" class="node" name="timeline-dot" data-description="three">
     <div class="dot-info as above" data-description="three">
-      <span class="label">Boss Two</span>
+      <span class="label">St Felms</span>
     </div>
     <input type="radio" class="last node" name="timeline-dot" data-description="four">
     <div class="dot-info as below" data-description="four">
-      <span class="label">Final Boss</span>
+      <span class="label">St Olms</span>
     </div>
     <div id="timeline-descriptions-wrapper">
       <div class="section" data-description="one">
         <h2>Introduction</h2>
-        <p>This trial shares its difficulty scaling mechanic with Cloudrest whereby you can choose to kill the bosses in any order you want (there is no additional "trash" enemies).  Heading to the last boss room, which is situated straight ahead as you enter the trial, before killing the side bosses will cause any boss(es) that you have not killed to join in the final boss fight with you.  The difficulty of the trial is judged by how many additional bosses you take into the last boss fight; one additional boss denotes a +1 difficulty, two additional bosses denotes a +2 difficulty (Cloudrest has three side bosses so has an additional +3 difficulty).</p>
-        <p>As you can imagine the difficulty jumps up quite considerably when you have to deal with multiple bosses.  We will look at each bosses mechanics in detail individually and give general tips on the final boss fight with and without additional bosses.</p>
+        <p>This trial shares its difficulty scaling mechanic with Cloudrest whereby you can choose to kill the bosses in any order you want (there are no additional "trash" enemies).  Heading to the last boss room, which is situated straight ahead as you enter the trial, before killing the side bosses will cause any boss(es) that you have not killed to join in the final boss fight with you.  The difficulty of the trial is judged by how many additional bosses you take into the last boss fight; one additional boss denotes a +1 difficulty, two additional bosses denotes a +2 difficulty (Cloudrest has three side bosses so has an additional +3 difficulty).</p>
+        <p>As you can imagine the difficulty jumps up quite considerably when you have to deal with multiple bosses.  We will look at each bosses mechanics individually in detail and give general tips on the final boss fight with and without the additional bosses.</p>
       </div>
       <div class="section" data-description="two">
-        <h2>Boss One - Saint Llothis the Pious</h2>
+        <h2>Saint Llothis the Pious</h2>
         <img src="{{ site.baseurl }}/images/trials/as/st-llothis.jpg" alt="Asylum Sanctorium - St Llothis the Pious" />
         <p>Going left when facing the gate to the final boss will take you to Saint Llothis.  This boss mainly performs AoE poison attacks which require quick reactions and decent positioning to deal with.</p>
         <ul>
@@ -56,7 +56,7 @@ permalink: /trials/asylum-sanctorium/
         </div>
       </div>
       <div class="section" data-description="three">
-        <h2>Boss Two - Saint Felms the Bold</h2>
+        <h2>Saint Felms the Bold</h2>
         <img src="{{ site.baseurl }}/images/trials/as/st-felms.jpg" alt="Asylum Sanctorium - St Felms the Bold" />
         <p>Going right when facing the gate to the final boss will take you to Saint Felms.  This boss can get very messy, very quickly if some key mechanics are not dealt with properly.  This is mainly because he leaves lingering AoEs in the wake of some of his attacks which can leave you very little room left to work with if you are not careful.  Getting hit by any of his attacks will also apply Maim (shown as a buff in esologs currently) to the player causing their attacks to do less damage.</p>
         <ul>
@@ -79,11 +79,11 @@ permalink: /trials/asylum-sanctorium/
         </div>
       </div>
       <div class="section" data-description="four">
-        <h2>Final Boss - Saint Olms the Just</h2>
+        <h2>Saint Olms the Just</h2>
         <img src="{{ site.baseurl }}/images/trials/as/st-olms.jpg" alt="Asylum Sanctorium - St Olms the Just" />
-        <p>The huge mechanical dragon is found behind the gates found straight ahead after entering the trial.  He hits really hard and has several mechanics that can cause a lot of issues if you don't pay close attention to what is happening around you and co-ordinate well as a group.</p>
+        <p>The huge mechanical dragon lurks behind the gates found straight ahead after entering the trial.  He hits incredibly hard with his basic attacks and has several mechanics that can cause a lot of issues if you don't pay close attention to what is happening around you and co-ordinate well as a group.</p>
         <ul>
-          <li><b>Swipe</b> - The bosses light attack hits incredibly hard.</li>
+          <li><b>Swipe</b> - The bosses light attack hits really hard, on par with heavy attacks from a lot of other bosses.</li>
           <li><b>Gusts of Steam</b> - The boss jumps into the air four times, landing each time at a set location on the opposite side of the room and dealing huge damage to anyone in his landing zone (huge AoE) but also doing moderate damage to everyone no matter where they are.  Everyone will get their own AoE under their feet during this attack and overlapping with another players AoE will cause you to take additional damage.  These jumps occur when the bosses health reaches 90%, 75%, 50% and 25%.</li>
           <li><b>Exhaustive Charges</b> - The boss looks up and spits up to two lightning balls at any players in front of him (180°) who are furthest away.  If there is nobody but the tank in front of the boss then this will land on the tank.  Similarly, if a DD steps in front of the boss they are likely to get an additional AoE spat at them.  When this lands it leaves a lingering AoE that does a fair amount of damage and quickly drains your magicka.</li>
           <li><b>Storm the Heavens</b> - The boss jumps and hovers in place for several seconds flapping his wings causing small shock AoEs to shoot out from under him in random directions.  Additionally, every player will get five consecutive AoEs under their feet indicating where a shock attack will occur that, once they strike, will stay on the ground for a couple of seconds.</li>
