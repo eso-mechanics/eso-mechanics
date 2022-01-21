@@ -217,17 +217,8 @@ permalink: /trials/hel-ra-citadel/
                   <a href="{{ site.baseurl }}/images/trials/hrc/positioning.jpg" target="_blank">
                     <img src="{{ site.baseurl }}/images/trials/hrc/positioning.jpg" alt="Hel Ra Citadel - Positioning" />
                   </a>
-                  <h3>Key:</h3>
-                  <ul class="clearfix key">
-                    <li class="list-yellow"><span>Boss</span></li>
-                    <li class="list-pink"><span>Main Tank</span></li>
-                    <li class="list-green"><span>Off Tank</span></li>
-                    <li class="list-orange"><span>Group</span></li>
-                    <li class="list-blue"><span>Gargoyle</span></li>
-                    <li class="list-red-arrow"><span>Shield Throw Direction</span></li>
-                  </ul>
                   <p>Notice how all of the players will be positioned in a perfectly straight line to dictate the direction of the "Shield Throw" through the Gargoyles.</p>
-                  <p>The numbers indicate the order in which to stand at each position.  The main tank should always be moving the shortest distance to position the boss as quickly as possible.  You may wish to move the group behind the Gargoyle in positions 2, 4 and 6 as the Gargoyles here are quite close together.</p>
+                  <p>The numbers indicate in which order the group moves to each position (it does not matter on the order really but this would ideally be decided ahead of time).  The main tank should always be moving the shortest distance to position the boss as quickly as possible in order to position the boss quickly and this is why the shield throw direction differs.  You may wish to move the group behind the Gargoyle in positions 2, 4 and 6 as the Gargoyles here are quite close together.</p>
                 </div>
             </div>
             <p>A random group member will get turned to stone and unable to use abilities.  If this is on someone in the stack they should avoid pressing the synergy and wait for the next "Shield Throw" mechanic as this will break them free.  If this is on the main tank then they should call "Breaking out in 3..2..1" and press the synergy allowing any group members that are closer to back away.  The main tank needs to break free to deal with the boss but everybody else can wait to be released.</p>
