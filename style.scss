@@ -495,14 +495,10 @@ input.node {
     position: relative;
     z-index: 1;
   }
-  .as {
-    text-align: left;
+  .as, .hrc {
     img {
       width: auto;
       height: auto;
-    }
-    p {
-      text-align: left;
     }
     + h3 {
       margin-top: 20px;
