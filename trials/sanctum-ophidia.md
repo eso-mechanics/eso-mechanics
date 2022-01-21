@@ -56,7 +56,7 @@ permalink: /trials/sanctum-ophidia/
         <p>Once the majority of the enemies have been disposed of the boss will spawn in the little alcove with the altars.  While a lot more manageable today, this boss still gives a lot of players trouble due to the infamous "Popcorn" mechanic.</p>
         <ul>
           <li><b>Quake</b> - The "Popcorn" mechanic happens when the boss looks up and appears to scream.  Three players will be targeted by this attack and will each have a fast spreading AoE under their feet, three times in a row.  Each time the circle reaches its full size anyone caught inside will be thrown into the air and receive a fair amount of damage.  This can target the tank as well.</li>
-          <li><b>Enraged Slam</b> - A huge AoE spreads out from beneath the bosses feet and hits everyone inside once it reaches its full size which will do a lot of damage if not blocked.  Everyone inside will be affected by a bleed that does not clear until your health reaches full.</li>
+          <li><b>Enraged Slam</b> - A huge AoE spreads out from beneath the boss' feet and hits everyone inside once it reaches its full size which will do a lot of damage if not blocked.  Everyone inside will be affected by a bleed that does not clear until your health reaches full.</li>
           <li><b>Portal</b> - A large, black circle with a vague green outline is dropped on a random group member.  Standing in this circle ports you to another area where you are greeted by The Serpents Image.  This mini boss doesn't do anything fancy: applies a poison and has a frontal cleave.  If The Serpents Image is not killed in 100s the Mantikora will enrage.</li>
           <li><b>Spear Throw</b> - The boss throws a spear up into the air which will target the furthest player away from the boss with a large AoE that does a lot of poison damage to anyone inside.  These remain on the ground for a long time.</li>
           <li><b>Enrage</b> - When the boss reaches ~10% health it will enrage and start hitting a lot harder.</li>
@@ -162,7 +162,7 @@ permalink: /trials/sanctum-ophidia/
             <ul>
               <li><b>Cursed Totem</b> - A blue totem that places a "Magicka Bomb" on a random group member.  They will see a blue glow to their screen and if they do not deplete their magicka within a few seconds they will explode and die.</li>
               <li><b>Wrest Totem</b> - A green totem that yanks a random member of the group to it and snares them close to the totem if they don't manage to get away quickly.</li>
-              <li><b>Empower Totem</b> - Another green totem but this one forms a green beam from itself to the boss. Increases the damage done from the bosses "Poison Mist" mechanic and spawns small poison circles in the group.</li>
+              <li><b>Empower Totem</b> - Another green totem but this one forms a green beam from itself to the boss. Increases the damage done from the boss' "Poison Mist" mechanic and spawns small poison circles in the group.</li>
             </ul>
           The effects from the Totems will remain active as long as they are still alive.
           </li>

@@ -60,7 +60,7 @@ permalink: /trials/aetherian-archive/
         <img src="{{ site.baseurl }}/images/trials/aa/storm.jpg" alt="Aetherian Archive - Lightning Storm Atronach" />
         <p>After dropping down into the next room (and after a short dialogue) a large Storm Atronach will explode into being in the centre of the middle circle on the floor.  This boss has two main attacks to be aware of:</p>
         <ul>
-          <li><b>Impending Storm</b> - A large, spreading AoE that appears under the bosses feet and explodes upon reaching its full size.</li>
+          <li><b>Impending Storm</b> - A large, spreading AoE that appears under the boss' feet and explodes upon reaching its full size.</li>
           <li><b>Lightning Storm</b> - Similar to the last library room you ran through, lightning strikes will continuously hit all members of the group causing a lot of damage.</li>
         </ul>
         <div class="spoiler">
@@ -133,7 +133,7 @@ permalink: /trials/aetherian-archive/
         <img src="{{ site.baseurl }}/images/trials/aa/varlariel.jpg" alt="Aetherian Archive - Varlariel" />
         <p>A Wispmother that summons lesser versions of herself to aid her throughout the battle.</p>
         <ul>
-          <li><b>Frozen Breath</b> - An AoE ability beneath and in front of the bosses feet and does a lot of damage to anyone caught inside.</li>
+          <li><b>Frozen Breath</b> - An AoE ability beneath and in front of the boss' feet and does a lot of damage to anyone caught inside.</li>
           <li><b>Rain of Wisps</b> - Small AoEs that are dropped on the ground and gradually increase in size.  These will explode once they reach their full size and deal moderate damage.</li>
           <li><b>Mother Clone (Summon Wispmother)</b> - The boss summons clones of herself which spread out towards the pillars circling the area.  The first time this happens there are three but this number increases by one each time until the maximum of six clones is reached.  After around twenty seconds the boss will draw energy from any remaining clones and generate an explosion causing damage to all group members; the more clones that were alive, the more damage this will do.</li>
         </ul>
