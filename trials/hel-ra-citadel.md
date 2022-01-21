@@ -217,7 +217,7 @@ permalink: /trials/hel-ra-citadel/
                   <a href="{{ site.baseurl }}/images/trials/hrc/positioning.jpg" target="_blank">
                     <img src="{{ site.baseurl }}/images/trials/hrc/positioning.jpg" alt="Hel Ra Citadel - Positioning" />
                   </a>
-                  <p>Notice how all of the players will be positioned in a perfectly straight line to dictate the direction of the bosses "Shield Throw" through the Gargoyles (indicated by the red arrows).  The group is advised to stay at range for this phase of the fight as the boss does do considerable cleave damage.</p>
+                  <p>Notice how the group and tanks will all be positioned along a straight line to dictate the direction of the bosses "Shield Throw" through the Gargoyles (indicated by the red arrows).  The group is advised to stay at range for this phase of the fight as the boss does do considerable cleave damage.</p>
                   <p>The numbers indicate in which order the group moves to each position (it does not matter on the order really but this would ideally be decided ahead of time).  The main tank should always be moving the shortest distance to position the boss as quickly as possible and this is why the shield throw direction differs.  You may wish to move the group behind the Gargoyle in positions 2, 4 and 6 as the Gargoyles here are quite close together.</p>
                 </div>
             </div>
