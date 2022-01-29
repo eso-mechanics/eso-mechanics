@@ -164,7 +164,7 @@ permalink: /trials/halls-of-fabrication/
       <div class="section" data-description="seven">
         <h2>Final Boss - Assembly General</h2>
         <img src="{{ site.baseurl }}/images/trials/hof/assembly-general.jpg" alt="Halls of Fabrication - Assembly General" />
-        <p>On huge robot.  This big boy won't be moved by anyone but he will change positions at set times during the fight.  There's a lot going on here and a lot of different things out to kill you so healers will need to be on their toes while you learn it.</p>
+        <p>One huge robot.  This big boy won't be moved by anyone but he will change positions at set times during the fight.  There's a lot going on here and a lot of different things out to kill you so healers will need to be on their toes while you learn it.</p>
         <ul>
           <li><b>Stomp</b> - The boss crashes his left foot into the group knocking anyone nearby flying backwards unless they are blocking.  Failing to block three of these stomps in a row will result in that players demise.</li>
           <li><b>Bombard</b> - Meteors will continuously rain down on members of the group causing a fair amount of damage.</li>
