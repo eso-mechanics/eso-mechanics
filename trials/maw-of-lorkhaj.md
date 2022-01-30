@@ -136,22 +136,21 @@ permalink: /trials/maw-of-lorkhaj/
               <li><b>Shadow Vortex</b> - The boss summons a large negate fields centred on the player with aggro.  This field will damage, slow and clear friendly AoEs in the area.</li>
             </ul>
           </li>
-          <li>Both bosses share all of the other attacks and perform them at the same time:
-            <ul>
-              <li><b>Holy Aspect</b> - Shortly after the fight begins and shortly after the bosses teleport they will enter a praying animation and inflict debuffs on the closest players to them.  Those closest to S'Kinrai will be inflicted with "Lunar Aspect" causing them to glow yellow and those closest to Vashai will be inflicted with "Shadow Aspect" and glow a dark blue.  These debuffs have a few notable effects:
-                <ul>
-                  <li>Any damage you deal to an enemy with the matching colour to yourself will be massively reduced.</li>
-                  <li>Moving too close to a player with the opposite colour to yourself will cause you both to die in a wonderful explosion.</li>
-                  <li>Immediately after the bosses teleport they will channel an explosion (Lunar/Shadow Tempest) that will one shot any players in the wrong position.  You are only protected from this explosion if you position yourself on the side of the room with the boss of the opposite colour to yourself.</li>
-                </ul>
-              </li>
-              <li><b>Conversion</b> - The bosses both pray and three players in each group will get converted (whoever has aggro will avoid this mechanic).  This conversation changes the targeted players colour so if you were dark/blue then you will become light/yellow.  This is indicated by a circle of the upcoming colour under your feet and, if you have combat cues turned on in the settings, some text alerting you that you are being converted.</li>
-              <li><b>Teleport</b> - The bosses will vanish and reappear at the entrance and exit of the room, which side each boss is on is random.</li>
-              <li><b>Lunar/Shadow Tempest</b> - Immediately after the bosses reappear they will channel an attack which will one shot any player that is positioned on their side of the room who has the same colour as them e.g. if you have the dark blue colour (Shadow Aspect) and are on the same side of the room as Vashai when the channel ends the explosion will kill you.  After these explosions all players will lose their debuffs and thus lose their colours.</li>
-              <li><b>Final Countdown</b> - When one boss is killed four additional adds will spawn and the boss will pray to channel one final explosion.  All players will lose their colours (and protection from the explosion) and will have twenty seconds to kill the remaining boss before the channel ends and wipes the group.</li>
-              <li><b>Adds</b> - Both bosses summon adds that share their own colours and the same damage reduction applies if you attack those with the same colour to yourself.  The dark adds (Will of Vashai) are ranged enemies with a hard hitting frontal cone attack which shoots three small AoEs along the floor at the targeted player (Dark Torrent).  The light adds (Rage of S'Kinrai) are melee adds that perform the same interruptible, beam attack: Lunar Destruction, which will stun the targeted player.  The number of adds that spawn in after each teleport phase increases as the fight goes on; first you will have one of each then one, two, two, three, three, then four until the fight ends.  All of these adds can be pulled.</li>
-            </ul>
-          </li>
+          <p>Both bosses share all of the other attacks and perform them at the same time:</p>
+          <ul>
+            <li><b>Holy Aspect</b> - Shortly after the fight begins and shortly after the bosses teleport they will enter a praying animation and inflict debuffs on the closest players to them.  Those closest to S'Kinrai will be inflicted with "Lunar Aspect" causing them to glow yellow and those closest to Vashai will be inflicted with "Shadow Aspect" and glow a dark blue.  These debuffs have a few notable effects:
+              <ul>
+                <li>Any damage you deal to an enemy with the matching colour to yourself will be massively reduced.</li>
+                <li>Moving too close to a player with the opposite colour to yourself will cause you both to die in a wonderful explosion.</li>
+                <li>Immediately after the bosses teleport they will channel an explosion (Lunar/Shadow Tempest) that will one shot any players in the wrong position.  You are only protected from this explosion if you position yourself on the side of the room with the boss of the opposite colour to yourself.</li>
+              </ul>
+            </li>
+            <li><b>Conversion</b> - The bosses both pray and three players in each group will get converted (whoever has aggro will avoid this mechanic).  This conversation changes the targeted players colour so if you were dark/blue then you will become light/yellow.  This is indicated by a circle of the upcoming colour under your feet and, if you have combat cues turned on in the settings, some text alerting you that you are being converted.</li>
+            <li><b>Teleport</b> - The bosses will vanish and reappear at the entrance and exit of the room, which side each boss is on is random.</li>
+            <li><b>Lunar/Shadow Tempest</b> - Immediately after the bosses reappear they will channel an attack which will one shot any player that is positioned on their side of the room who has the same colour as them e.g. if you have the dark blue colour (Shadow Aspect) and are on the same side of the room as Vashai when the channel ends the explosion will kill you.  After these explosions all players will lose their debuffs and thus lose their colours.</li>
+            <li><b>Final Countdown</b> - When one boss is killed four additional adds will spawn and the boss will pray to channel one final explosion.  All players will lose their colours (and protection from the explosion) and will have twenty seconds to kill the remaining boss before the channel ends and wipes the group.</li>
+            <li><b>Adds</b> - Both bosses summon adds that share their own colours and the same damage reduction applies if you attack those with the same colour to yourself.  The dark adds (Will of Vashai) are ranged enemies with a hard hitting frontal cone attack which shoots three small AoEs along the floor at the targeted player (Dark Torrent).  The light adds (Rage of S'Kinrai) are melee adds that perform the same interruptible, beam attack: Lunar Destruction, which will stun the targeted player.  The number of adds that spawn in after each teleport phase increases as the fight goes on; first you will have one of each then one, two, two, three, three, then four until the fight ends.  All of these adds can be pulled.</li>
+          </ul>
         </ul>
         <div class="spoiler">
           <input type="checkbox" class="spoiler-button">
