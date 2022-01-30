@@ -113,6 +113,9 @@ ol ul, ul ol, ul ul, ol ol {
 
 ul ul, ol ul {
   list-style-type: circle;
+  b {
+    color: $white;
+  }
 }
 
 li {
@@ -126,9 +129,6 @@ em, i {
 strong, b {
   font-weight: bold;
   color: $green;
-  b {
-    color: $white;
-  }
 }
 
 img {
