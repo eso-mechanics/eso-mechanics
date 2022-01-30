@@ -122,21 +122,19 @@ permalink: /trials/maw-of-lorkhaj/
       <div class="section" data-description="four">
         <h2>Boss Two - The Twins (S'Kinrai & Vashai)</h2>
         <img src="{{ site.baseurl }}/images/trials/mol/twins.jpg" alt="Maw of Lorkhaj - The Twins" />
-        <p>This fight has a very unique mechanic that requires the whole group to pay attention to the mechanics, their surroundings and other players.  It can also go very wrong, very quickly if you have some deaths within the group as in order to manage the main mechanics effectively twelve (living) players are required.  Both bosses will fight with melee weapons but while the light (yellow) adds are melee, the dark (blue) adds are ranged.</p>
+        <p>This fight has a very unique mechanic that requires the whole group to pay attention to the mechanics, their surroundings and other players.  It can also go very wrong, very quickly if you have some deaths within the group as in order to manage the main mechanics effectively twelve (living) players are required.</p>
+        <h3>S'Kinrai</h3>
+        <p>The "light" or "yellow" boss has melee attacks, shares similar animations and attacks to the Templar class and has three unique skills that you need to be aware of:</p>
         <ul>
-          <li><b>S'Kinrai</b> - The "light" or "yellow" boss shares similar animations and attacks to the Templar class and has three unique skills that you need to be aware of:
-            <ul>
-              <li><b>Fearsome Cleave</b> - The bosses light attack will cleave anyone in front of them.</li>
-              <li><b>Lunar Flare</b> - The boss turns to a random player and inflicts them with a strong DoT that can be cleansed.</li>
-              <li><b>Lunar Destruction</b> - A channeled, interruptible beam that is cast on the player with aggro.  This player is stunned for the duration of the attack.</li>
-            </ul>
-          </li>
-          <li><b>Vashai</b> - The "dark" or "blue" boss will inflict a bleed with its attacks and perform a hard hitting heavy attack (Shield Bash) but only has one really troublesome skill:
-            <ul>
-              <li><b>Shadow Vortex</b> - The boss summons a large negate fields centred on the player with aggro.  This field will damage, slow and clear friendly AoEs in the area.</li>
-            </ul>
-          </li>
+          <li><b>Fearsome Cleave</b> - The bosses light attack will cleave anyone in front of them.</li>
+          <li><b>Lunar Flare</b> - The boss turns to a random player and inflicts them with a strong DoT that can be cleansed.</li>
+          <li><b>Lunar Destruction</b> - A channeled, interruptible beam that is cast on the player with aggro.  This player is stunned for the duration of the attack.</li>
         </ul>
+        <h3>Vashai</h3>
+        <p>The "dark" or "blue" boss attacks from melee range, causes a bleed with its attacks and performs a hard hitting heavy attack (Shield Bash) but only has one really troublesome skill:</p>
+          <ul>
+            <li><b>Shadow Vortex</b> - The boss summons a large negate fields centred on the player with aggro.  This field will damage, slow and clear friendly AoEs in the area.</li>
+          </ul>
         <p>Both bosses share all of the other attacks and perform them at the same time:</p>
         <ul>
           <li><b>Holy Aspect</b> - Shortly after the fight begins and shortly after the bosses teleport they will enter a praying animation and inflict debuffs on the closest players to them.  Those closest to S'Kinrai will be inflicted with "Lunar Aspect" causing them to glow yellow and those closest to Vashai will be inflicted with "Shadow Aspect" and glow a dark blue.  These debuffs have a few notable effects:
