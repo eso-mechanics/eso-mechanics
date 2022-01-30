@@ -126,6 +126,9 @@ em, i {
 strong, b {
   font-weight: bold;
   color: $green;
+  b {
+    color: $white;
+  }
 }
 
 img {
