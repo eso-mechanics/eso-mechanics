@@ -37,7 +37,7 @@ permalink: /trials/maw-of-lorkhaj/
     <div id="timeline-descriptions-wrapper">
       <div class="section" data-description="one">
         <h2>Khajiit Enemies</h2>
-        <img src="{{ site.baseurl }}/images/trials/mol/dro-mathra.jpg" alt="Maw of Lorkhaj - Dro-m'Athra" />
+        <img src="{{ site.baseurl }}/images/trials/mol/suneater.jpg" alt="Maw of Lorkhaj - Dro-m'Athra" />
         <p>After entering the second door and moving forward a group of cursed monks, scholars and war-priests (non-elite mobs) will rush and attack before some bigger, elite, Khajiit enemies drop in.  These will be repeatedly encountered through the trial in some arena-style fights with several waves of enemies that result in a reward chest.</p>
         <ul>
           <li><b>Dro-m'Athra Sun-Eater</b> - Ranged casters that do little damage with their simple attacks but have one painful mechanic:
@@ -103,7 +103,7 @@ permalink: /trials/maw-of-lorkhaj/
       </div>
       <div class="section" data-description="three">
         <h2>Ogres & Arena One</h2>
-        <img src="{{ site.baseurl }}/images/trials/mol/ogres.jpg" alt="Maw of Lorkhaj - Ogres" />
+        <img src="{{ site.baseurl }}/images/trials/mol/ogre.jpg" alt="Maw of Lorkhaj - Ogres" />
         <p>In the next trash pack you encounter you will see some new mobs: Ogres (the Ogre Shaman is particularly nasty).  Upon dispatching the Ogres some more Khajiit will drop in, all of which you have faced previously.  Making your way down the slope you will encounter some more Ogres and discover the last new trash mob of the trial: Oger Flesh-Render.  A few more Khajiit will drop in which need to be taken care of before you can head down the slope to an arena-style fight where you will need to face multiple waves of enemies, all of which you have already faced.  If the group wipes during this encounter you will need to start from the beginning but completion will reward a chest.</p>
         <ul>
           <li><b>Ogre Brute</b> - Smaller mobs that pose no serious threat on their own.</li>
@@ -165,7 +165,7 @@ permalink: /trials/maw-of-lorkhaj/
       </div>
       <div class="section" data-description="five">
         <h2>Arena Two</h2>
-        <img src="{{ site.baseurl }}/images/trials/mol/panthers.jpg" alt="Maw of Lorkhaj - Panthers" />
+        <img src="{{ site.baseurl }}/images/trials/mol/panther.jpg" alt="Maw of Lorkhaj - Panthers" />
         <p>Engaging with the enemies through the next gate will start the next arena.  The pace of this one is controlled by the group but a wipe will result in having to restart it.  You will have two large cats to deal with intially (mechanics described below) and after this there will only be Khajiit that you have come across before and they can be handled in the same way (although there are sometimes quite a few to deal with).  There is a chain at the top of each of the wooden ramps and pulling each one will spawn in enemies on that side of the room in three waves (they do not need to be pulled at the same time but this can be done if you want to increase the difficulty).</p>
         <ul>
           <li><b>Colossal Sar-m'Athra</b> - These behave the in a similar manner to the smaller cats but only have one attack (Deadly Claw) which really is deadly; this will one-shot anyone that gets hit by it.  These cats will only attack the player they target (they cannot be CC'd or taunted) indicated by the dark blue beam rising from the players head.  After a short while or if the targeted player dies the cats will choose another target and repeat this until they are dead.</li>
