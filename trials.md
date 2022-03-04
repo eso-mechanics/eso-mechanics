@@ -29,7 +29,7 @@ permalink: /trials/
       <img src="{{ site.baseurl }}/images/trials/HoF.jpg" alt="Halls of Fabrication" />
     </a>
   </div>
-  <div class="column third soon">
+  <div class="column third">
     <a href="#">
       <h3>Maw of Lorkhaj</h3>
       <img src="{{ site.baseurl }}/images/trials/MoL.jpg" alt="Maw of Lorkhaj" />
