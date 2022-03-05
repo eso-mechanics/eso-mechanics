@@ -8,7 +8,7 @@ permalink: /trials/maw-of-lorkhaj/
   <div class="input-flex-container">
     <input type="radio" class="first node" name="timeline-dot" data-description="one" checked>
     <div class="dot-info above" data-description="one">
-      <span class="label">Khajiit Enemies</span>
+      <span class="label">Dro-m'Athra</span>
     </div>
     <input type="radio" class="node" name="timeline-dot" data-description="two">
     <div class="dot-info below" data-description="two">
@@ -36,9 +36,9 @@ permalink: /trials/maw-of-lorkhaj/
     </div>
     <div id="timeline-descriptions-wrapper">
       <div class="section" data-description="one">
-        <h2>Khajiit Enemies</h2>
+        <h2>Dro-m'Athra</h2>
         <img src="{{ site.baseurl }}/images/trials/mol/suneater.jpg" alt="Maw of Lorkhaj - Dro-m'Athra" />
-        <p>After entering the second door and moving forward a group of cursed monks, scholars and war-priests (non-elite mobs) will rush and attack before some bigger, elite, Khajiit enemies drop in.  These will be repeatedly encountered through the trial in some arena-style fights with several waves of enemies that result in a reward chest.</p>
+        <p>After entering the second door and moving forward a group of cursed monks, scholars and war-priests (non-elite mobs) will rush and attack before some bigger, elite enemies drop in.  These will be repeatedly encountered through the trial in some arena-style fights with several waves of enemies that result in a reward chest.</p>
         <ul>
           <li><b>Dro-m'Athra Sun-Eater</b> - Ranged casters that do little damage with their simple attacks but have one painful mechanic:
             <ul>
@@ -79,7 +79,7 @@ permalink: /trials/maw-of-lorkhaj/
       <div class="section" data-description="two">
         <h2>Boss One - Zhaj'hassa the Forgotten</h2>
         <img src="{{ site.baseurl }}/images/trials/mol/zhajhassa.jpg" alt="Maw of Lorkhaj - Zhaj'hassa the Forgotten" />
-        <p>A giant Khajiit wielding a huge two handed weapon and specialising in curses and summon abilities.  Group positioning and communication is crucial for this fight.</p>
+        <p>A giant Dro-m'Athra wielding a huge two handed weapon and specialising in curses and summon abilities.  Group positioning and communication is crucial for this fight.</p>
         <ul>
           <li><b>Grip of Lorkhaj</b> - Often called the "curse".  The boss will target three players with blue orbs which will curse them, causing them to take a small amount of damage, slow them down and turn their screen a blueish colour.  This debuffed can be spread to anyone too close to a targeted player on intial impact and can only be removed by standing on an active (lit) cleanse pad around the edge of the room.  Failure to remove the debuff will result in death after a short while.</li>
           <li><b>Dark Aegis</b> - When the boss health reaches 70% and 30% he will shield himself and become invulnerable to damage.  The shield can be destroyed and while it is active everyone in the group will continuously take damage, indicated by a spreading AoE under each players feet.  If you stand in another players AoE you will take damage from their one as well as your own.</li>
@@ -104,7 +104,7 @@ permalink: /trials/maw-of-lorkhaj/
       <div class="section" data-description="three">
         <h2>Ogres & Arena One</h2>
         <img src="{{ site.baseurl }}/images/trials/mol/ogre.jpg" alt="Maw of Lorkhaj - Ogres" />
-        <p>In the next trash pack you encounter you will see some new mobs: Ogres (the Ogre Shaman is particularly nasty).  Upon dispatching the Ogres some more Khajiit will drop in, all of which you have faced previously.  Making your way down the slope you will encounter some more Ogres and discover the last new trash mob of the trial: Oger Flesh-Render.  A few more Khajiit will drop in which need to be taken care of before you can head down the slope to an arena-style fight where you will need to face multiple waves of enemies, all of which you have already faced.  If the group wipes during this encounter you will need to start from the beginning but completion will reward a chest.</p>
+        <p>In the next trash pack you encounter you will see some new mobs: Ogres (the Ogre Shaman is particularly nasty).  Upon dispatching the Ogres some more Dro-m'Athra will drop in, all of which you have faced previously.  Making your way down the slope you will encounter some more Ogres and discover the last new trash mob of the trial: Oger Flesh-Render.  A few more Dro-m'Athra will drop in which need to be taken care of before you can head down the slope to an arena-style fight where you will need to face multiple waves of enemies, all of which you have already faced.  If the group wipes during this encounter you will need to start from the beginning but completion will reward a chest.</p>
         <ul>
           <li><b>Ogre Brute</b> - Smaller mobs that pose no serious threat on their own.</li>
           <li><b>Ogre Shaman</b> - This mob performs a channeled ability, raising his arm up into the air and firing heals onto himself and other Ogres around (Primal Heal).  When the Ogres are healed an AoE will pulse out from under their feet causing a lot of damage to anyone inside.</li>
@@ -166,7 +166,7 @@ permalink: /trials/maw-of-lorkhaj/
       <div class="section" data-description="five">
         <h2>Arena Two</h2>
         <img src="{{ site.baseurl }}/images/trials/mol/panther.jpg" alt="Maw of Lorkhaj - Panthers" />
-        <p>Engaging with the enemies through the next gate will start the next arena.  The pace of this one is controlled by the group but a wipe will result in having to restart it.  You will have two large cats to deal with intially (mechanics described below) and after this there will only be Khajiit that you have come across before and they can be handled in the same way (although there are sometimes quite a few to deal with).  There is a chain at the top of each of the wooden ramps and pulling each one will spawn in enemies on that side of the room in three waves (they do not need to be pulled at the same time but this can be done if you want to increase the difficulty).</p>
+        <p>Engaging with the enemies through the next gate will start the next arena.  The pace of this one is controlled by the group but a wipe will result in having to restart it.  You will have two large cats to deal with intially (mechanics described below) and after this there will only be Dro-m'Athra that you have already encountered which can be handled in the same way (although there are sometimes quite a few to deal with).  There is a chain at the top of each of the wooden ramps and pulling each one will spawn in enemies on that side of the room in three waves (they do not need to be pulled at the same time but this can be done if you want to increase the difficulty).</p>
         <ul>
           <li><b>Colossal Sar-m'Athra</b> - These behave the in a similar manner to the smaller cats but only have one attack (Deadly Claw) which really is deadly; this will one-shot anyone that gets hit by it.  These cats will only attack the player they target (they cannot be CC'd or taunted) indicated by the dark blue beam rising from the players head.  After a short while or if the targeted player dies the cats will choose another target and repeat this until they are dead.</li>
         </ul>
@@ -181,7 +181,7 @@ permalink: /trials/maw-of-lorkhaj/
       </div>
       <div class="section" data-description="six">
         <h2>Final Hallway</h2>
-        <p>The next door leads to a long, dark hallway which is perfect for an ambush.  Stepping forward will initiate the pull and you will have the same Khajiit enemies you have already faced spawning in at different locations in three waves.  Additionally you will have Cursed Monks continously spawning in at the entrance and exit of the hallway, running towards a random player and exploding; dealing moderate damage in an AoE.  The mechanics for each of the enemies has already been explained in the first section of this guide along with methods of handling them so I won't repeat that here.</p>
+        <p>The next door leads to a long, dark hallway which is perfect for an ambush.  Stepping forward will initiate the pull and you will have the same Dro-m'Athra you have already faced spawning in at different locations in three waves.  Additionally you will have Cursed Monks continously spawning in at the entrance and exit of the hallway, running towards a random player and exploding; dealing moderate damage in an AoE.  The mechanics for each of the enemies has already been explained in the first section of this guide along with methods of handling them so I won't repeat that here.</p>
       </div>
       <div class="section" data-description="seven">
         <h2>Final Boss - Rakkhat</h2>
