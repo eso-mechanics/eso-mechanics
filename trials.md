@@ -30,7 +30,7 @@ permalink: /trials/
     </a>
   </div>
   <div class="column third">
-    <a href="#">
+    <a href="{{ site.baseurl }}/trials/maw-of-lorkhaj">
       <h3>Maw of Lorkhaj</h3>
       <img src="{{ site.baseurl }}/images/trials/MoL.jpg" alt="Maw of Lorkhaj" />
     </a>
