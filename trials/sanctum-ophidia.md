@@ -3,7 +3,7 @@ layout: page
 title: Sanctum Ophidia
 permalink: /trials/sanctum-ophidia/
 ---
-<div class="flex-parent">
+<div class="flex-parent so">
   <div class="input-flex-container">
     <input type="radio" class="first node" name="timeline-dot" data-description="one" checked>
     <div class="dot-info above" data-description="one">

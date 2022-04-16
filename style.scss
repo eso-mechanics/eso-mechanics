@@ -469,13 +469,18 @@ input.node {
       text-align: center;
     }
   }
-  &.as {
-    span.label {
-      left: -35px;
-    }
-  }
   &.below .label {
     top: 45px;
+  }
+}
+.as .dot-info {
+  span.label {
+    left: -35px;
+  }
+}
+.mol .dot-info {
+  span.label {
+    left: 0px;
   }
 }
 #timeline-descriptions-wrapper {
@@ -498,13 +503,12 @@ input.node {
     position: relative;
     z-index: 1;
   }
-  .as, .hrc {
+}
+.as, .hrc {
+  .spoiler-body {
     img {
       width: auto;
       height: auto;
-    }
-    + h3 {
-      margin-top: 20px;
     }
   }
 }
@@ -591,13 +595,13 @@ $descriptions: 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', '
 				text-align: center;
       }
     }
-    &.as {
-      span.label {
-        left: 50%;
-      }
-    }
     &.below .label {
       top: calc(100% + 5px);
+    }
+  }
+  .as .dot-info {
+    span.label {
+      left: 50%;
     }
   }
 	#timeline-descriptions-wrapper {

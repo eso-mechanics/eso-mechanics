@@ -4,7 +4,7 @@ title: Maw of Lorkhaj
 permalink: /trials/maw-of-lorkhaj/
 ---
 
-<div class="flex-parent">
+<div class="flex-parent mol">
   <div class="input-flex-container">
     <input type="radio" class="first node" name="timeline-dot" data-description="one" checked>
     <div class="dot-info above" data-description="one">

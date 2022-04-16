@@ -3,7 +3,7 @@ layout: page
 title: Halls of Fabrication
 permalink: /trials/halls-of-fabrication/
 ---
-<div class="flex-parent">
+<div class="flex-parent hof">
   <div class="input-flex-container">
     <input type="radio" class="first node" name="timeline-dot" data-description="one" checked>
     <div class="dot-info above" data-description="one">

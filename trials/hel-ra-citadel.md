@@ -3,7 +3,7 @@ layout: page
 title: Hel Ra Citadel
 permalink: /trials/hel-ra-citadel/
 ---
-<div class="flex-parent">
+<div class="flex-parent hrc">
   <div class="input-flex-container">
     <input type="radio" class="first node" name="timeline-dot" data-description="one" checked>
     <div class="dot-info above" data-description="one">
@@ -210,7 +210,7 @@ permalink: /trials/hel-ra-citadel/
             <h3>Hardmode Changes</h3>
             <p>The twelve Gargoyle statues positioned around the room will start to come alive and should be destroyed before this where possible.  The best approach to this is to have the main tank position the boss in front of and facing a statue while the rest of the group stands at range but in a straight line behind the tank to ensure the boss' "Shield Throw" mechanic always collides with the statue; this will destroy the statue and prevent it from coming alive later on.  Due to the placements of the statues you can always hit two with each "Shield Throw" providing the group stays in a straight line or stacked properly (an example order and positioning shown below).  If one group member steps out of line and the mechanic targets them then you can miss the statues completely or, more often, miss one statue.  Any Gargoyles that do come to life should be moved out of the group, turned away and killed as quickly as possible.</p>
             <p><b>Tip:</b> This mechanic can be avoided completely by having the off tank deal solely with the Gargoyles and having your group focus on the boss.  For score pushing this is obviously the way to go but it can take a lot of the fun away from the fight.  <a href="https://www.youtube.com/watch?v=OQFoWA2yk00&ab_channel=TheTankClub" target="_blank"> Click here</a> for a great explanation of how to accomplish this and a demonstration of it in action.</p>
-            <div class="spoiler hrc">
+            <div class="spoiler">
               <input type="checkbox" class="spoiler-button">
               <div class="spoiler-head">Positioning</div>
                 <div class="spoiler-body">
