@@ -599,9 +599,11 @@ $descriptions: 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', '
       top: calc(100% + 5px);
     }
   }
-  .as .dot-info {
-    span.label {
-      left: 50%;
+  .as, .mol {
+    .dot-info {
+      span.label {
+        left: 50%;
+      }
     }
   }
 	#timeline-descriptions-wrapper {
