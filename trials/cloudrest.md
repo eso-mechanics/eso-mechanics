@@ -58,21 +58,33 @@ permalink: /trials/cloudrest/
         </div>
       </div>
       <div class="section" data-description="two">
-        <h2>Gryphons</h2>
-        <p>Each of the first three bosses is accompanied by a Gryphon, all of which have exactly the same attacks except for one main mechanic which is unique for each boss (described in that bosses section).  There are a few key mechanics to be aware of from the Gryphon itself:</p>
+        <h2>Gryphons (Shade of Falarielle, Belanaril & Silaeda)</h2>
+        <p>Each of the first three bosses is accompanied by a Gryphon (this is a shade of the riders mount just as the bosses are a shade of the rider themselves), all of which have exactly the same attacks except for one main mechanic which is unique for each boss (described in that bosses section).  When the Gryphon is killed before the rider several Nocturnal Creepers will begin to spawn until the rider is killed as well.</p>
+        <p>There are a few key mechanics to be aware of from the Gryphon itself:</p>
+        <h3>Ground Phase</h3>
         <ul>
-          <li></li>
+          <li><b>Dark Bond</b> - If the Gryphon or the rider get too close together they will both enrage causing all of their attacks to do a lot more damage.</li>
+          <li><b>Talon Slice</b> - The Gryphons light attack is the same regardless of which claw you get swiped by.  Each time a player is hit they receive a stacking bleed effect.</li>
+          <li><b>Riposte</b> - A frontal cone attack indicated by a large AoE which does a large amount of damage.</li>
+          <li><b>Sudden Gust</b> - A large, spreading AoE directly underneath the Gryphon that will cause damage and knockback anyone it hits when it reaches its full size.  This AoE occurs when the Gryphon takes flight.</li>
+        </ul>
+        <h3>Flight Phase</h3>
+        <ul>
+          <li><b>Birds Eye View</b> - This occurs repeatedly while the boss is flying and causes several small AoEs to spread across the room.  If these hit a player they will get stunned and get a DoT on them: Dark Drain.</li>
+          <li><b>Cyclone</b> - A large AoE spawns on the ground under the Gryphons position and shoots towards the player who has aggro of the Gryphon.  This knocks back anyone it hits, does a lot of damage and persists for a while in its final position.</li>
+          <li><b>Talon Slice</b> - If the player with aggro is in range of the Gryphon it can still do its light attack on them and still apply the stacking bleed.</li>
         </ul>
         <div class="spoiler">
           <input type="checkbox" class="spoiler-button">
           <div class="spoiler-head">Strategies</div>
           <div class="spoiler-body">
-            <p>Stack in the middle of the room and have any players with a pull ability help with stacking all of the enemies on the group.  Drop all of your damage and healing in the middle and burn everything down together.  Try to get the interrupts on the Conjurers.</p>
+            <p>The tank should grab the Gryphon, turn it away from the group and keep it close to where it spawns.  Where possible, its light attacks should be dodge rolled (sets to aid with this can be utilised here if needed) to avoid the bleed altogether but as long as the tank isn't hit by too many of them it can be healed through.  During the flight phase the tank should keep taunt on the Gryphon and try to position away from the group (who would typically move towards the rider at this time) to kite the Cyclone AoEs.  It's easy to sidestep the conal AoE and during this attack and when the Gryphon screeches is a great oppurtunity to heavy attack to regain reasources.</p>
+            <p>The group should remain behind the Gryphon to avoid the conal AoE and everyone should step out of the spreading AoE (Sudden Gust) to avoid getting knocked down.  During the flight phase it's best to try and avoid the small AoEs but not to stray too far from the group (remain in heals).  The large AoEs should be avoided where possible as they do a lot of damage.</p>
           </div>
         </div>
       </div>
       <div class="section" data-description="three">
-        <h2>Bridge Approach</h2>
+        <h2>Portals</h2>
         <p>If you are wanting to do the "Feeding Pit" achievement then visit the small cave towards the back left of the room and grab some meat.  Continue up the ramp behind where the boss spawned (to the right) and into the next room.  Each encounter from here on will consist of the same selection of elite enemies (explained below).  Once the room is clear you can head out and down the stairs towards the bridge killing the group on enemies that runs in.  Make your way across the bridge, killing everything that spawns in and being very careful of the broken areas leaving large holes that you can fall down.</p>
         <ul>
           <li><b>Overcharger</b> - Ranged enemies that will cause random members of the group to become "Overcharged"; inflicting them with a large red AoE under their feet which moves with them and causes a lot of damage to anyone standing in it.  They also target group members with a continuous lightning attack which will spawn smaller, spreading red circles under the players feet and damage inflict damage if the player does not move out when they reach full size.</li>
