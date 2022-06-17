@@ -52,8 +52,8 @@ permalink: /trials/cloudrest/
           <input type="checkbox" class="spoiler-button">
           <div class="spoiler-head">Strategies</div>
           <div class="spoiler-body">
-            <p>The Nocturnal Creepers can cause big issues for healers and tanks if they become silenced so it is a good idea to take these out first.  With two tanks one can take the monstrosity and the other focus on pulling in the smaller enemies onto whichever Creeper is beign focussed.</p>
-            <p>The monstrosity will require some attention as it hits too hard to not have a tank taunt it.  The tank will need to maintain aggro, block the Corpulence (heavy) attack and dodge roll the Baneful Barb; this has a very short animation but dodge rolling when you notice the mandibles glow purple should avoid it.  If the tank is hit with Baneful Barb they will drop to low health and be harder to heal.  To remove the debuff they need to be healed back to full health and so healers should focus them quickly.</p>
+            <p>The Nocturnal Creepers can cause big issues for healers and tanks if they become silenced so it is a good idea to take these out first.  With two tanks, one can take the Monstrosity and the other focus on pulling in the smaller enemies onto whichever Creeper is being focussed.</p>
+            <p>The Monstrosity will require some attention as it hits too hard to not have a tank taunt it.  The tank will need to maintain aggro, block the Corpulence (heavy) attack and dodge roll the Baneful Barb; this has a very short animation but dodge rolling when you notice the mandibles glow purple should avoid it.  If the tank is hit with Baneful Barb they will drop to low health and be harder to heal.  To remove the debuff they need to be healed back to full health and so healers should focus them quickly.</p>
           </div>
         </div>
       </div>
